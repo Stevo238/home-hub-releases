@@ -1,5 +1,5 @@
 {
-  "version": "1.1.0",
-  "url": "https://github.com/Stevo238/home-hub-releases/releases/download/v1.1.0/HomeHub.exe",
-  "notes": "Auto-update; removed freezer widget and Node-RED tile"
+  "version": "1.2.0",
+  "url": "https://github.com/Stevo238/home-hub-releases/releases/download/v1.2.0/HomeHub.exe",
+  "notes": "Ammo Tracker tile links to the HTTPS site (8251)"
 }
