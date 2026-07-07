@@ -1,5 +1,5 @@
-{
-  "version": "1.3.1",
-  "url": "https://github.com/Stevo238/home-hub-releases/releases/download/v1.3.1/HomeHub.exe",
-  "notes": "Cameras refresh on a fast cadence (no longer look static)"
+﻿{
+  "version": "1.3.2",
+  "url": "https://github.com/Stevo238/home-hub-releases/releases/download/v1.3.2/HomeHub.exe",
+  "notes": "Family Lists moved to its own bottom section with per-list cards"
 }
