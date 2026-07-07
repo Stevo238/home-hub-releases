@@ -1,5 +1,5 @@
 {
-  "version": "1.3.0",
-  "url": "https://github.com/Stevo238/home-hub-releases/releases/download/v1.3.0/HomeHub.exe",
-  "notes": "Cameras, who's-home, today agenda, family lists, expanded security"
+  "version": "1.3.1",
+  "url": "https://github.com/Stevo238/home-hub-releases/releases/download/v1.3.1/HomeHub.exe",
+  "notes": "Cameras refresh on a fast cadence (no longer look static)"
 }
