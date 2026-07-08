@@ -1,5 +1,5 @@
 {
-  "version": "1.6.0",
-  "url": "https://github.com/Stevo238/home-hub-releases/releases/download/v1.6.0/HomeHub.exe",
-  "notes": "Chores engine + Manage Chores page for the whole family"
+  "version": "1.7.0",
+  "url": "https://github.com/Stevo238/home-hub-releases/releases/download/v1.7.0/HomeHub.exe",
+  "notes": "User accounts + admin portal + per-user app permissions; chores can span multiple times of day"
 }
