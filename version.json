@@ -1,5 +1,5 @@
 {
-  "version": "1.7.0",
-  "url": "https://github.com/Stevo238/home-hub-releases/releases/download/v1.7.0/HomeHub.exe",
-  "notes": "User accounts + admin portal + per-user app permissions; chores can span multiple times of day"
+  "version": "1.8.0",
+  "url": "https://github.com/Stevo238/home-hub-releases/releases/download/v1.8.0/HomeHub.exe",
+  "notes": "Kids big-tap chore board: confetti check-offs, streaks, celebrations"
 }
