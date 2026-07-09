@@ -1,5 +1,5 @@
 {
-  "version": "1.10.0",
-  "url": "https://github.com/Stevo238/home-hub-releases/releases/download/v1.10.0/HomeHub.exe",
-  "notes": "Outlook-style week calendar: multi-day events as single spanning bars"
+  "version": "1.10.1",
+  "url": "https://github.com/Stevo238/home-hub-releases/releases/download/v1.10.1/HomeHub.exe",
+  "notes": "Week calendar time grid: hour lines, now-line, 12-hour time, side-by-side overlaps"
 }
