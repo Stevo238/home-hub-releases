@@ -1,5 +1,5 @@
 {
-  "version": "1.9.3",
-  "url": "https://github.com/Stevo238/home-hub-releases/releases/download/v1.9.3/HomeHub.exe",
-  "notes": "Tighter kiosk board (no scrolling) + tap a done-chip to undo"
+  "version": "1.10.0",
+  "url": "https://github.com/Stevo238/home-hub-releases/releases/download/v1.10.0/HomeHub.exe",
+  "notes": "Outlook-style week calendar: multi-day events as single spanning bars"
 }
