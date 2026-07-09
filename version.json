@@ -1,5 +1,5 @@
 {
-  "version": "1.10.3",
-  "url": "https://github.com/Stevo238/home-hub-releases/releases/download/v1.10.3/HomeHub.exe",
-  "notes": "Week view: no overlapping events, wrapped titles, tap-to-peek"
+  "version": "1.10.4",
+  "url": "https://github.com/Stevo238/home-hub-releases/releases/download/v1.10.4/HomeHub.exe",
+  "notes": "Calendar shows 5 days for wider columns"
 }
