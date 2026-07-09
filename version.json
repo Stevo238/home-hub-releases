@@ -1,5 +1,5 @@
 {
-  "version": "1.9.0",
-  "url": "https://github.com/Stevo238/home-hub-releases/releases/download/v1.9.0/HomeHub.exe",
-  "notes": "Only-during-its-time chores, every-N-days scheduling, kiosk embed mode"
+  "version": "1.9.1",
+  "url": "https://github.com/Stevo238/home-hub-releases/releases/download/v1.9.1/HomeHub.exe",
+  "notes": "Family chore board (all four) + mobile spacing fix"
 }
