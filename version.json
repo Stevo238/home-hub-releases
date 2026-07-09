@@ -1,5 +1,5 @@
 {
-  "version": "1.9.2",
-  "url": "https://github.com/Stevo238/home-hub-releases/releases/download/v1.9.2/HomeHub.exe",
-  "notes": "Kiosk board themed to match the Command Center dashboard"
+  "version": "1.9.3",
+  "url": "https://github.com/Stevo238/home-hub-releases/releases/download/v1.9.3/HomeHub.exe",
+  "notes": "Tighter kiosk board (no scrolling) + tap a done-chip to undo"
 }
