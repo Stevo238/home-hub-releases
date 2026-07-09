@@ -1,5 +1,5 @@
 {
-  "version": "1.10.2",
-  "url": "https://github.com/Stevo238/home-hub-releases/releases/download/v1.10.2/HomeHub.exe",
-  "notes": "Short calendar events always readable"
+  "version": "1.10.3",
+  "url": "https://github.com/Stevo238/home-hub-releases/releases/download/v1.10.3/HomeHub.exe",
+  "notes": "Week view: no overlapping events, wrapped titles, tap-to-peek"
 }
