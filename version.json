@@ -1,5 +1,5 @@
 {
-  "version": "1.12.0",
-  "url": "https://github.com/Stevo238/home-hub-releases/releases/download/v1.12.0/HomeHub.exe",
-  "notes": "Month nav buttons + 10-min kiosk auto-return"
+  "version": "1.13.0",
+  "url": "https://github.com/Stevo238/home-hub-releases/releases/download/v1.13.0/HomeHub.exe",
+  "notes": "Chore-gated internet access with UniFi device blocking"
 }
