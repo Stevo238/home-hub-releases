@@ -1,5 +1,5 @@
 {
-  "version": "1.10.8",
-  "url": "https://github.com/Stevo238/home-hub-releases/releases/download/v1.10.8/HomeHub.exe",
-  "notes": "Family-only calendar with big headers + update checks never cached"
+  "version": "1.10.9",
+  "url": "https://github.com/Stevo238/home-hub-releases/releases/download/v1.10.9/HomeHub.exe",
+  "notes": "Calendar: bigger type, smarter overlaps, no clipping + cache fix"
 }
