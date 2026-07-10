@@ -1,5 +1,5 @@
 {
-  "version": "1.13.0",
-  "url": "https://github.com/Stevo238/home-hub-releases/releases/download/v1.13.0/HomeHub.exe",
-  "notes": "Chore-gated internet access with UniFi device blocking"
+  "version": "1.14.0",
+  "url": "https://github.com/Stevo238/home-hub-releases/releases/download/v1.14.0/HomeHub.exe",
+  "notes": "Grouped tiles + Family summary section"
 }
