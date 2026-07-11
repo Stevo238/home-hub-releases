@@ -1,5 +1,5 @@
 {
-  "version": "1.18.1",
-  "url": "https://github.com/Stevo238/home-hub-releases/releases/download/v1.18.1/HomeHub.exe",
-  "notes": "Countdown banner shows just the countdown name"
+  "version": "1.18.2",
+  "url": "https://github.com/Stevo238/home-hub-releases/releases/download/v1.18.2/HomeHub.exe",
+  "notes": "Admin permission labels match the Family Management / Departures reorg"
 }
