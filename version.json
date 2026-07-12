@@ -1,5 +1,5 @@
 {
-  "version": "1.19.2",
-  "url": "https://github.com/Stevo238/home-hub-releases/releases/download/v1.19.2/HomeHub.exe",
-  "notes": "Pick recipes right on the dashboard; fixes the Cooking tab stuck on 'Loading'"
+  "version": "1.19.3",
+  "url": "https://github.com/Stevo238/home-hub-releases/releases/download/v1.19.3/HomeHub.exe",
+  "notes": "Recipe photos, dashboard recipe picker, Loading fix, and per-ingredient grocery add (fixes 1.19.2 version-string bug)"
 }
