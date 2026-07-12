@@ -1,5 +1,5 @@
 {
-  "version": "1.20.3",
-  "url": "https://github.com/Stevo238/home-hub-releases/releases/download/v1.20.3/HomeHub.exe",
-  "notes": "Dinner calendar: fork icon on recipe dinners, tap to open the recipe; multi-course days"
+  "version": "1.20.4",
+  "url": "https://github.com/Stevo238/home-hub-releases/releases/download/v1.20.4/HomeHub.exe",
+  "notes": "Sunday-start date picker; tap a day to add a dinner; tap a meal to view/unlink/delete; smooth in-page recipe view"
 }
