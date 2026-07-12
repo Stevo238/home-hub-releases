@@ -1,5 +1,5 @@
 {
-  "version": "1.20.1",
-  "url": "https://github.com/Stevo238/home-hub-releases/releases/download/v1.20.1/HomeHub.exe",
-  "notes": "Cooking / Recipes permission — control recipe access per-user in Admin"
+  "version": "1.20.2",
+  "url": "https://github.com/Stevo238/home-hub-releases/releases/download/v1.20.2/HomeHub.exe",
+  "notes": "Add a free-form dinner to the dinner calendar right from the dashboard"
 }
