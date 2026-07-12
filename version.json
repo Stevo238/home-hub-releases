@@ -1,5 +1,5 @@
 {
-  "version": "1.20.0",
-  "url": "https://github.com/Stevo238/home-hub-releases/releases/download/v1.20.0/HomeHub.exe",
-  "notes": "Add recipes to the dinner calendar from the Cooking page or the kiosk recipe display"
+  "version": "1.20.1",
+  "url": "https://github.com/Stevo238/home-hub-releases/releases/download/v1.20.1/HomeHub.exe",
+  "notes": "Cooking / Recipes permission — control recipe access per-user in Admin"
 }
