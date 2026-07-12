@@ -1,5 +1,5 @@
 {
-  "version": "1.20.2",
-  "url": "https://github.com/Stevo238/home-hub-releases/releases/download/v1.20.2/HomeHub.exe",
-  "notes": "Add a free-form dinner to the dinner calendar right from the dashboard"
+  "version": "1.20.3",
+  "url": "https://github.com/Stevo238/home-hub-releases/releases/download/v1.20.3/HomeHub.exe",
+  "notes": "Dinner calendar: fork icon on recipe dinners, tap to open the recipe; multi-course days"
 }
