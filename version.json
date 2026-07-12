@@ -1,5 +1,5 @@
 {
-  "version": "1.18.3",
-  "url": "https://github.com/Stevo238/home-hub-releases/releases/download/v1.18.3/HomeHub.exe",
-  "notes": "EVE Corp Finance tile now opens the HTTPS site (port 8443) so its Copy buttons work."
+  "version": "1.18.4",
+  "url": "https://github.com/Stevo238/home-hub-releases/releases/download/v1.18.4/HomeHub.exe",
+  "notes": "Week calendar: all-day events and day headers now line up exactly with the timed grid columns."
 }
