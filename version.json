@@ -1,5 +1,5 @@
 {
-  "version": "1.22.1",
-  "url": "https://github.com/Stevo238/home-hub-releases/releases/download/v1.22.1/HomeHub.exe",
-  "notes": "Remote access via Caddy: EVE/Ammo/Blue Iris/Hub over HTTPS behind your Hub login; System Health card; HA/UniFi tiles link to cloud portals"
+  "version": "1.23.0",
+  "url": "https://github.com/Stevo238/home-hub-releases/releases/download/v1.23.0/HomeHub.exe",
+  "notes": "Alexa voice list-adds: a new secure endpoint lets your \"grocery list\" and \"costco list\" Alexa skills push spoken items straight onto the hub's Grocery and Costco lists. Nothing is stored on Amazon."
 }
