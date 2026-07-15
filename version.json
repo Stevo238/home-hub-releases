@@ -1,5 +1,5 @@
 {
-  "version": "1.23.0",
-  "url": "https://github.com/Stevo238/home-hub-releases/releases/download/v1.23.0/HomeHub.exe",
-  "notes": "Alexa voice list-adds: a new secure endpoint lets your \"grocery list\" and \"costco list\" Alexa skills push spoken items straight onto the hub's Grocery and Costco lists. Nothing is stored on Amazon."
+  "version": "1.23.1",
+  "url": "https://github.com/Stevo238/home-hub-releases/releases/download/v1.23.1/HomeHub.exe",
+  "notes": "Housekeeping: removed an unused endpoint. No changes to how the hub looks or works."
 }
