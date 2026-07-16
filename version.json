@@ -1,5 +1,5 @@
 {
-  "version": "1.24.0",
-  "url": "https://github.com/Stevo238/home-hub-releases/releases/download/v1.24.0/HomeHub.exe",
-  "notes": "New Shopping Lists page: scan a barcode to add items, and a shopping mode that groups your list by store aisle with tap-to-check-off (screen stays awake while you shop)."
+  "version": "1.25.0",
+  "url": "https://github.com/Stevo238/home-hub-releases/releases/download/v1.25.0/HomeHub.exe",
+  "notes": "Adds a Google Accounts tile (admin only) for reading Gmail & Calendar through Claude. Setup is completed on the tile's own page."
 }
