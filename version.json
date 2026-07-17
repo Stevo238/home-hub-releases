@@ -1,5 +1,5 @@
 {
-  "version": "1.25.0",
-  "url": "https://github.com/Stevo238/home-hub-releases/releases/download/v1.25.0/HomeHub.exe",
-  "notes": "Adds a Google Accounts tile (admin only) for reading Gmail & Calendar through Claude. Setup is completed on the tile's own page."
+  "version": "1.26.0",
+  "url": "https://github.com/Stevo238/home-hub-releases/releases/download/v1.26.0/HomeHub.exe",
+  "notes": "Security update: new passwords must be at least 8 characters."
 }
