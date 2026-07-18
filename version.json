@@ -1,5 +1,5 @@
 {
-  "version": "1.27.0",
-  "url": "https://github.com/Stevo238/home-hub-releases/releases/download/v1.27.0/HomeHub.exe",
-  "notes": "New Server card on the dashboard: CPU, memory, disk, and uptime for the hub host."
+  "version": "1.28.0",
+  "url": "https://github.com/Stevo238/home-hub-releases/releases/download/v1.28.0/HomeHub.exe",
+  "notes": "Server card: network throughput, process count, hub memory + uptime. Themed Restart Caddy button."
 }
