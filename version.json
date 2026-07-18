@@ -1,5 +1,5 @@
 {
-  "version": "1.26.0",
-  "url": "https://github.com/Stevo238/home-hub-releases/releases/download/v1.26.0/HomeHub.exe",
-  "notes": "Security update: new passwords must be at least 8 characters."
+  "version": "1.27.0",
+  "url": "https://github.com/Stevo238/home-hub-releases/releases/download/v1.27.0/HomeHub.exe",
+  "notes": "New Server card on the dashboard: CPU, memory, disk, and uptime for the hub host."
 }
