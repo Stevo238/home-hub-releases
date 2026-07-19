@@ -1,5 +1,5 @@
 {
-  "version": "1.28.0",
-  "url": "https://github.com/Stevo238/home-hub-releases/releases/download/v1.28.0/HomeHub.exe",
-  "notes": "Server card: network throughput, process count, hub memory + uptime. Themed Restart Caddy button."
+  "version": "1.29.0",
+  "url": "https://github.com/Stevo238/home-hub-releases/releases/download/v1.29.0/HomeHub.exe",
+  "notes": "House Wiki: model numbers, filter sizes, paint colors, manuals & maintenance log. Grant the House Wiki permission per user in Admin."
 }
