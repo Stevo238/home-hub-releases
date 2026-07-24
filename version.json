@@ -1,5 +1,5 @@
 {
-  "version": "1.29.0",
-  "url": "https://github.com/Stevo238/home-hub-releases/releases/download/v1.29.0/HomeHub.exe",
-  "notes": "House Wiki: model numbers, filter sizes, paint colors, manuals & maintenance log. Grant the House Wiki permission per user in Admin."
+  "version": "1.30.0",
+  "url": "https://github.com/Stevo238/home-hub-releases/releases/download/v1.30.0/HomeHub.exe",
+  "notes": "Login activity & rate limiting: see every login attempt with its IP on the Admin page, automatic blocking of repeat failures (gentler on the home network), and phone alerts for lockouts and sign-ins from the internet. Sessions idle 90 days are dropped, so some devices may need a fresh login."
 }
