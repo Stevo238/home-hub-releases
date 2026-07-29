@@ -1,5 +1,5 @@
 {
-  "version": "1.32.0",
-  "notes": "Allowance ledger: your prizes are already written as cash ($5.00 Cash), so the hub now reads the dollar amount out of the prize text. Winning a cash prize adds that money to an allowance balance kept SEPARATE from the stars, so the auto-reset never wipes what a kid is owed. Family Management gains an Allowance section: what's owed, lifetime earned and paid, Mark paid (full or partial), and a manual Add - every payout logged with the date and who paid it. The prize box tells you what it read as you type, so a non-cash prize like Movie night never quietly creates a debt. Also: the retired Alarmo integration is gone from the Security card, the Activity timeline and the health check, and Away mode no longer arms anything - it just sets the thermostat back and pauses chores and the internet gate.",
-  "url": "https://github.com/Stevo238/home-hub-releases/releases/download/v1.32.0/HomeHub.exe"
+  "version": "1.32.1",
+  "notes": "Fixes updates not actually taking effect. The offline cache added in 1.31.0 was serving the previous release's files, so your browser ran one version behind - which is why the Away mode dialog still said it arms the alarm on 1.32.0 even though the fix had shipped. The hub now always asks the server first and falls back to the cache only when it genuinely cannot reach it, and an open page reloads itself once when an update lands. Also: a developer test copy could set off prize announcements on the Alexas; a dev copy can no longer speak or send phone alerts at all. If anything still looks stale right after this update, reload once more - after that it stays current on its own.",
+  "url": "https://github.com/Stevo238/home-hub-releases/releases/download/v1.32.1/HomeHub.exe"
 }
