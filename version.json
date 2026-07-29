@@ -1,5 +1,5 @@
 {
-  "version": "1.32.1",
-  "notes": "Fixes updates not actually taking effect. The offline cache added in 1.31.0 was serving the previous release's files, so your browser ran one version behind - which is why the Away mode dialog still said it arms the alarm on 1.32.0 even though the fix had shipped. The hub now always asks the server first and falls back to the cache only when it genuinely cannot reach it, and an open page reloads itself once when an update lands. Also: a developer test copy could set off prize announcements on the Alexas; a dev copy can no longer speak or send phone alerts at all. If anything still looks stale right after this update, reload once more - after that it stays current on its own.",
-  "url": "https://github.com/Stevo238/home-hub-releases/releases/download/v1.32.1/HomeHub.exe"
+  "version": "1.33.0",
+  "notes": "Activity is now a permission you can grant or withhold. It shipped with none - any signed-in account could see the whole timeline, including exactly when the house stood empty and who came and went. It now has its own chip in Admin, and the tile, page and dashboard card all vanish without it. Roxann keeps it: permissions added after accounts already exist are granted once to everyone who already had a login, so nobody loses a page they had yesterday - and if you then untick it, it stays unticked. The permission labels also now say what they actually grant: Chores reads 'Chores, Points, Departures & Allowance payouts', because since 1.32.0 it authorises handing over money. A note on the Admin page lists what no chip can delegate: the Admin page itself, Stack Health, applying updates and the sign-in log.",
+  "url": "https://github.com/Stevo238/home-hub-releases/releases/download/v1.33.0/HomeHub.exe"
 }
