@@ -1,5 +1,5 @@
 {
-  "version": "1.30.0",
-  "url": "https://github.com/Stevo238/home-hub-releases/releases/download/v1.30.0/HomeHub.exe",
-  "notes": "Login activity & rate limiting: see every login attempt with its IP on the Admin page, automatic blocking of repeat failures (gentler on the home network), and phone alerts for lockouts and sign-ins from the internet. Sessions idle 90 days are dropped, so some devices may need a fresh login."
+  "version": "1.31.0",
+  "url": "https://github.com/Stevo238/home-hub-releases/releases/download/v1.31.0/HomeHub.exe",
+  "notes": "Six additions. Activity: one feed of what happened around the house - doors, alarm, locks, smoke/CO, leak, water main, comings and goings, power cuts, chores. Maintenance: recurring jobs (furnace filter, gutters, generator test) hang off House Wiki items, with due dates and a phone reminder. Stack Health (admin): backups, disks, certificates, DNS and every service on one page. Away mode: one switch arms the alarm, sets the thermostat back and pauses chores and the internet gate - it never disarms the alarm. Message board: pinned family notes on the hub and the wall kiosks. Install to phone: the hub is now a proper installable app. Note: Away mode is a new permission - grant it in Admin to anyone who is not an admin."
 }
