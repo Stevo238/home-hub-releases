@@ -1,5 +1,5 @@
 {
-  "version": "1.34.0",
-  "notes": "The Command Center cooking panel is now kitchen-readable: ingredient and step text is about a third bigger, with larger titles, tags, and touch targets. Steps are interactive - tap one to check it off and the next step highlights so you never lose your place. Any time mentioned in a step ('bake 25 minutes', '2-3 min per side') is now a tappable timer chip: tap it and a countdown pill appears at the bottom of the screen. When a timer finishes, the pill pulses red and the Alexas announce it through the same announce service the departure countdowns use (kiosk only - phones just get the on-screen alarm and a beep). Tap a running pill to cancel it, or a ringing one to dismiss it.",
-  "url": "https://github.com/Stevo238/home-hub-releases/releases/download/v1.34.0/HomeHub.exe"
+  "version": "1.34.1",
+  "notes": "Cooking panel polish from the first evening with v1.34.0. The ingredient and step panels now span the full kiosk width and stack vertically - no more dead space beside a short ingredient list - with ingredients flowing in three columns at a slightly smaller size. Ingredients are now tappable: tap one as you add it to the bowl and it checks off with a green tick and strike-through (the + button still sends it to the grocery list). And the Alexa timer announcement now plays three bell tones before speaking, so it cuts through kitchen noise.",
+  "url": "https://github.com/Stevo238/home-hub-releases/releases/download/v1.34.1/HomeHub.exe"
 }
