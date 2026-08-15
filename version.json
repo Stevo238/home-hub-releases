@@ -1,5 +1,5 @@
 {
-  "version": "1.36.0",
-  "notes": "Servings scaler and nutrition facts on the cooking panel. The Ingredients heading now carries x1/2, x1, x2 and x3 chips - tap one and every ingredient quantity rescales, handling fractions (1 1/2 cups -> 3 cups), unicode fractions, decimals and ranges (2-3 lbs -> 4-6 lbs), always shown as cook-friendly fractions; lines without a number (a pinch of nutmeg) are left alone, and anything you have checked off stays checked. Recipes imported from a link now also capture the site's nutrition facts (calories, protein, carbs, fat, fiber, sugar, sodium, servings) - tucked behind a Nutrition button under the recipe title, hidden until tapped. For recipes you already have, open Edit and tap Site photos: it refreshes the nutrition from the source page along with the photo choices, and saving keeps it from then on.",
-  "url": "https://github.com/Stevo238/home-hub-releases/releases/download/v1.36.0/HomeHub.exe"
+  "version": "1.36.1",
+  "notes": "The Cooking page now behaves on phones. The photo row wraps instead of pushing the Site photos button off-screen, and each recipe's action buttons (Show on kiosk, Grocery, Dinner, Edit) wrap into a row beneath the recipe on narrow screens - no more sideways scrolling to reach a button.",
+  "url": "https://github.com/Stevo238/home-hub-releases/releases/download/v1.36.1/HomeHub.exe"
 }
