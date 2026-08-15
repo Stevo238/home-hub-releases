@@ -1,5 +1,5 @@
 {
-  "version": "1.35.1",
-  "notes": "Photo picking now works on recipes you already have. Edit any recipe that has a source link and tap the new Site photos button next to the upload button - the hub re-pulls the page and shows its photos as tappable thumbnails, exactly like the import picker. Only the photo changes; the name, ingredients, steps and notes stay as you have them. If the site only offers one photo it is set directly.",
-  "url": "https://github.com/Stevo238/home-hub-releases/releases/download/v1.35.1/HomeHub.exe"
+  "version": "1.36.0",
+  "notes": "Servings scaler and nutrition facts on the cooking panel. The Ingredients heading now carries x1/2, x1, x2 and x3 chips - tap one and every ingredient quantity rescales, handling fractions (1 1/2 cups -> 3 cups), unicode fractions, decimals and ranges (2-3 lbs -> 4-6 lbs), always shown as cook-friendly fractions; lines without a number (a pinch of nutmeg) are left alone, and anything you have checked off stays checked. Recipes imported from a link now also capture the site's nutrition facts (calories, protein, carbs, fat, fiber, sugar, sodium, servings) - tucked behind a Nutrition button under the recipe title, hidden until tapped. For recipes you already have, open Edit and tap Site photos: it refreshes the nutrition from the source page along with the photo choices, and saving keeps it from then on.",
+  "url": "https://github.com/Stevo238/home-hub-releases/releases/download/v1.36.0/HomeHub.exe"
 }
