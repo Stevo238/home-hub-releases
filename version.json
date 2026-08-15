@@ -1,5 +1,5 @@
 {
-  "version": "1.36.1",
-  "notes": "The Cooking page now behaves on phones. The photo row wraps instead of pushing the Site photos button off-screen, and each recipe's action buttons (Show on kiosk, Grocery, Dinner, Edit) wrap into a row beneath the recipe on narrow screens - no more sideways scrolling to reach a button.",
-  "url": "https://github.com/Stevo238/home-hub-releases/releases/download/v1.36.1/HomeHub.exe"
+  "version": "1.36.2",
+  "notes": "Ingredient quantities on the cooking panel now always read like a cook wrote them: imported decimals display as fractions (0.33 -> 1/3, 0.67 -> 2/3, 14.5 oz -> 14 1/2 oz, 0.17 -> 1/6) even before you touch the scaler, and genuinely odd decimals stay honest rather than being rounded to a wrong fraction. Percentages are left alone - 2% milk no longer doubles into 4% milk when you scale a recipe up. Also includes the v1.36.1 mobile fixes: the Cooking page's photo row wraps so the Site photos button stays on screen, and recipe action buttons wrap below each recipe on phones.",
+  "url": "https://github.com/Stevo238/home-hub-releases/releases/download/v1.36.2/HomeHub.exe"
 }
