@@ -1,5 +1,5 @@
 {
-  "version": "1.33.1",
-  "notes": "The System Health card no longer shows stale watchdog history. Its Watchdog row always displayed the very last line of the watchdog's log, however old - which is how a premature 'Gmail MCP STILL DOWN after restart' from July 26 sat on the dashboard for 16 days looking like a live outage. The event line now only appears while it is fresh (within 48 hours). Nothing is lost when something really breaks: during an outage the watchdog logs every couple of minutes, so the line is always current exactly when you need it. The watchdog script itself was also taught to log a 'back UP' line when a service recovers, and to give a restarted app up to 30 seconds to come up before declaring it still down.",
-  "url": "https://github.com/Stevo238/home-hub-releases/releases/download/v1.33.1/HomeHub.exe"
+  "version": "1.34.0",
+  "notes": "The Command Center cooking panel is now kitchen-readable: ingredient and step text is about a third bigger, with larger titles, tags, and touch targets. Steps are interactive - tap one to check it off and the next step highlights so you never lose your place. Any time mentioned in a step ('bake 25 minutes', '2-3 min per side') is now a tappable timer chip: tap it and a countdown pill appears at the bottom of the screen. When a timer finishes, the pill pulses red and the Alexas announce it through the same announce service the departure countdowns use (kiosk only - phones just get the on-screen alarm and a beep). Tap a running pill to cancel it, or a ringing one to dismiss it.",
+  "url": "https://github.com/Stevo238/home-hub-releases/releases/download/v1.34.0/HomeHub.exe"
 }
