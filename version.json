@@ -1,5 +1,5 @@
 {
-  "version": "1.35.0",
-  "notes": "Two additions from the kitchen. Importing a recipe now collects every photo the site offers (many sites publish several crops or shots) and, when there is more than one, the Cooking page shows them as tappable thumbnails so you pick which becomes the recipe photo - the first is pre-selected, so nothing changes if you don't care. And the kiosk recipe page gains a floating timer button: tap the round stopwatch in the corner, build any duration from +30 sec / +1 / +5 / +10 / +30 min chips, and hit Start. Manual timers use the same countdown pills, bell tones and Alexa announcement as the tap-a-step timers, and odd durations now read naturally on screen and out loud (5 min 30 sec).",
-  "url": "https://github.com/Stevo238/home-hub-releases/releases/download/v1.35.0/HomeHub.exe"
+  "version": "1.35.1",
+  "notes": "Photo picking now works on recipes you already have. Edit any recipe that has a source link and tap the new Site photos button next to the upload button - the hub re-pulls the page and shows its photos as tappable thumbnails, exactly like the import picker. Only the photo changes; the name, ingredients, steps and notes stay as you have them. If the site only offers one photo it is set directly.",
+  "url": "https://github.com/Stevo238/home-hub-releases/releases/download/v1.35.1/HomeHub.exe"
 }
