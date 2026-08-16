@@ -1,5 +1,5 @@
 {
-  "version": "1.39.1",
-  "notes": "When there's no dinner planned, tapping Tonight's Dinner (or opening the cooking panel) now shows the recipe menu to pick from, instead of whatever recipe happened to be up last. If someone has just picked a recipe by hand, it's left alone for half an hour so the panel never yanks a recipe out from under someone who's cooking. When a dinner is planned, the panel still shows that recipe as before.",
-  "url": "https://github.com/Stevo238/home-hub-releases/releases/download/v1.39.1/HomeHub.exe"
+  "version": "1.40.0",
+  "notes": "You can now add recipes from a Menu Planner PDF export - no more copying and pasting. On the Cooking page there's a new 'Import from PDF' button: pick a Menu Planner 2 PDF and the hub reads the name, ingredients, steps and notes straight off it and fills the form for a quick once-over before saving. If the PDF has several recipes (one per page), it offers to add them all in one go. It's available to anyone with recipe access, so Theresa can export from Menu Planner on her end and load her recipes in herself. (The parser is tuned to Menu Planner's layout, including the way it wraps long ingredient and step lines.)",
+  "url": "https://github.com/Stevo238/home-hub-releases/releases/download/v1.40.0/HomeHub.exe"
 }
