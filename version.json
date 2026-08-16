@@ -1,5 +1,5 @@
 {
-  "version": "1.36.2",
-  "notes": "Ingredient quantities on the cooking panel now always read like a cook wrote them: imported decimals display as fractions (0.33 -> 1/3, 0.67 -> 2/3, 14.5 oz -> 14 1/2 oz, 0.17 -> 1/6) even before you touch the scaler, and genuinely odd decimals stay honest rather than being rounded to a wrong fraction. Percentages are left alone - 2% milk no longer doubles into 4% milk when you scale a recipe up. Also includes the v1.36.1 mobile fixes: the Cooking page's photo row wraps so the Site photos button stays on screen, and recipe action buttons wrap below each recipe on phones.",
-  "url": "https://github.com/Stevo238/home-hub-releases/releases/download/v1.36.2/HomeHub.exe"
+  "version": "1.37.0",
+  "notes": "Three additions. (1) Tonight's Dinner: the Command Center home screen gains a hero banner showing today's entry from the dinner calendar with its recipe photo - tap it and the Cooking view opens with that recipe selected. At 3pm each day the hub also auto-selects tonight's linked recipe so the kitchen panel is ready before you are. (2) Shop this week: on the dinner calendar page, one tap adds every ingredient from the coming week's recipe-linked dinners to the grocery list, skipping anything already on it. (3) Recipe Box + guest accounts: hub.motronimeadows.com/recipes.html is a clean, read-first family cookbook with search and tag filters. A new GUEST permission locks an account to the Recipe Box and recipe editing only - no house data, cameras, chores, lists or calendars - so out-of-house family (hi, Mom!) can browse and save recipes safely. Create the account in Admin and tick GUEST plus Cooking/Recipes.",
+  "url": "https://github.com/Stevo238/home-hub-releases/releases/download/v1.37.0/HomeHub.exe"
 }
