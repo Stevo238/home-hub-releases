@@ -1,5 +1,5 @@
 {
-  "version": "1.39.0",
-  "notes": "Fixes the Tonight's Dinner banner on the Command Center. It used to be an embedded web page whose tap forced a full Home Assistant reload (which could hang) and sometimes landed on a stale recipe when nothing was planned. It is now a native dashboard card that navigates to the kitchen the instant-and-seamless Home Assistant way - no reload - and the hub keeps it in step with the dinner calendar, so it shows tonight's meal when one is planned and simply says 'No dinner planned yet' when it isn't. Also: the freezer warning on the dashboard now respects each freezer's out-of-service switch, so a freezer you've intentionally silenced won't raise a false alarm.",
-  "url": "https://github.com/Stevo238/home-hub-releases/releases/download/v1.39.0/HomeHub.exe"
+  "version": "1.39.1",
+  "notes": "When there's no dinner planned, tapping Tonight's Dinner (or opening the cooking panel) now shows the recipe menu to pick from, instead of whatever recipe happened to be up last. If someone has just picked a recipe by hand, it's left alone for half an hour so the panel never yanks a recipe out from under someone who's cooking. When a dinner is planned, the panel still shows that recipe as before.",
+  "url": "https://github.com/Stevo238/home-hub-releases/releases/download/v1.39.1/HomeHub.exe"
 }
