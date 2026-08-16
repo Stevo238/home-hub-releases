@@ -1,5 +1,5 @@
 {
-  "version": "1.37.2",
-  "notes": "The Recipe Box and Cooking pages now sit on the meadow - the same photo as motronimeadows.com, softly blurred and dimmed behind the recipe cards and forms, so the family pages share one look from the front door in. Also tidied guest navigation: a guest account no longer sees the Home Hub link on the Cooking page header, so every button a guest can tap goes exactly where it says.",
-  "url": "https://github.com/Stevo238/home-hub-releases/releases/download/v1.37.2/HomeHub.exe"
+  "version": "1.38.0",
+  "notes": "The whole hub now shares one look. The meadow photo from motronimeadows.com - softly blurred and dimmed - sits behind every hub page: the landing dashboard, login, chore board, calendars, shopping lists, cooking pages, wiki, maintenance, activity, admin, all of it. From the front door of motronimeadows.com through login and into any family page, it is one continuous scene. The pages embedded on the Command Center wall keep their transparent day-cycle look - the meadow never covers the kiosk gradient.",
+  "url": "https://github.com/Stevo238/home-hub-releases/releases/download/v1.38.0/HomeHub.exe"
 }
