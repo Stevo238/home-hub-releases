@@ -1,5 +1,5 @@
 {
-  "version": "1.40.1",
-  "notes": "Makes PDF import friendlier on an iPad. The Cooking page now has a paste box next to the Choose-a-PDF button: tap it and paste a recipe you've copied - whether it comes through as the PDF file itself or as text - then press Import pasted recipe. No digging through a file picker. It handles a whole batch too (several recipes pasted at once). Also tidied how imported notes are shown so the source and any note read cleanly on one line.",
-  "url": "https://github.com/Stevo238/home-hub-releases/releases/download/v1.40.1/HomeHub.exe"
+  "version": "1.40.0",
+  "notes": "You can now add recipes from a Menu Planner PDF export - no more copying and pasting. On the Cooking page there's a new 'Import from PDF' button: pick a Menu Planner 2 PDF and the hub reads the name, ingredients, steps and notes straight off it and fills the form for a quick once-over before saving. If the PDF has several recipes (one per page), it offers to add them all in one go. It's available to anyone with recipe access, so Theresa can export from Menu Planner on her end and load her recipes in herself. (The parser is tuned to Menu Planner's layout, including the way it wraps long ingredient and step lines.)",
+  "url": "https://github.com/Stevo238/home-hub-releases/releases/download/v1.40.0/HomeHub.exe"
 }
