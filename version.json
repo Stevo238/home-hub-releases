@@ -1,5 +1,5 @@
 {
-  "version": "1.37.0",
-  "notes": "Three additions. (1) Tonight's Dinner: the Command Center home screen gains a hero banner showing today's entry from the dinner calendar with its recipe photo - tap it and the Cooking view opens with that recipe selected. At 3pm each day the hub also auto-selects tonight's linked recipe so the kitchen panel is ready before you are. (2) Shop this week: on the dinner calendar page, one tap adds every ingredient from the coming week's recipe-linked dinners to the grocery list, skipping anything already on it. (3) Recipe Box + guest accounts: hub.motronimeadows.com/recipes.html is a clean, read-first family cookbook with search and tag filters. A new GUEST permission locks an account to the Recipe Box and recipe editing only - no house data, cameras, chores, lists or calendars - so out-of-house family (hi, Mom!) can browse and save recipes safely. Create the account in Admin and tick GUEST plus Cooking/Recipes.",
-  "url": "https://github.com/Stevo238/home-hub-releases/releases/download/v1.37.0/HomeHub.exe"
+  "version": "1.37.1",
+  "notes": "The Recipe Box and the Cooking editor now feel like one app. Opening a recipe in the Recipe Box shows an Edit button that jumps straight into that recipe's edit form; the Cooking page header leads back to the Recipe Box. Every recipe now remembers who added it and shows a small 'added by' byline. And each guest account gets its own button on the hub's main page - for example 'Grandma's Recipes' - opening the Recipe Box filtered to just the recipes she has added, so her shelf of the family cookbook is one tap away.",
+  "url": "https://github.com/Stevo238/home-hub-releases/releases/download/v1.37.1/HomeHub.exe"
 }
