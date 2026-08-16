@@ -1,5 +1,5 @@
 {
-  "version": "1.38.2",
-  "notes": "Security hardening for guest accounts, after a full review. (1) Guests can now only edit, delete or re-photo recipes they added themselves - everyone else's recipes are read-only to them (enforced on the server, and the Edit buttons only show on their own). (2) The recipe-URL importer is now SSRF-safe: it only fetches public internet addresses, pins the connection to the address it checked so a malicious site can't swap in an internal one, and re-checks every redirect - so it can't be used to reach your Home Assistant, cameras, network gear or the server itself. (3) Closed a cross-site gap where a guest's login could have carried over to the EVE and Ammo apps on the other subdomains; those now correctly refuse guest accounts. No changes for family accounts.",
-  "url": "https://github.com/Stevo238/home-hub-releases/releases/download/v1.38.2/HomeHub.exe"
+  "version": "1.39.0",
+  "notes": "Fixes the Tonight's Dinner banner on the Command Center. It used to be an embedded web page whose tap forced a full Home Assistant reload (which could hang) and sometimes landed on a stale recipe when nothing was planned. It is now a native dashboard card that navigates to the kitchen the instant-and-seamless Home Assistant way - no reload - and the hub keeps it in step with the dinner calendar, so it shows tonight's meal when one is planned and simply says 'No dinner planned yet' when it isn't. Also: the freezer warning on the dashboard now respects each freezer's out-of-service switch, so a freezer you've intentionally silenced won't raise a false alarm.",
+  "url": "https://github.com/Stevo238/home-hub-releases/releases/download/v1.39.0/HomeHub.exe"
 }
