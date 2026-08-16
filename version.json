@@ -1,5 +1,5 @@
 {
-  "version": "1.37.1",
-  "notes": "The Recipe Box and the Cooking editor now feel like one app. Opening a recipe in the Recipe Box shows an Edit button that jumps straight into that recipe's edit form; the Cooking page header leads back to the Recipe Box. Every recipe now remembers who added it and shows a small 'added by' byline. And each guest account gets its own button on the hub's main page - for example 'Grandma's Recipes' - opening the Recipe Box filtered to just the recipes she has added, so her shelf of the family cookbook is one tap away.",
-  "url": "https://github.com/Stevo238/home-hub-releases/releases/download/v1.37.1/HomeHub.exe"
+  "version": "1.37.2",
+  "notes": "The Recipe Box and Cooking pages now sit on the meadow - the same photo as motronimeadows.com, softly blurred and dimmed behind the recipe cards and forms, so the family pages share one look from the front door in. Also tidied guest navigation: a guest account no longer sees the Home Hub link on the Cooking page header, so every button a guest can tap goes exactly where it says.",
+  "url": "https://github.com/Stevo238/home-hub-releases/releases/download/v1.37.2/HomeHub.exe"
 }
