@@ -1,5 +1,5 @@
 {
-  "version": "1.38.0",
-  "notes": "The whole hub now shares one look. The meadow photo from motronimeadows.com - softly blurred and dimmed - sits behind every hub page: the landing dashboard, login, chore board, calendars, shopping lists, cooking pages, wiki, maintenance, activity, admin, all of it. From the front door of motronimeadows.com through login and into any family page, it is one continuous scene. The pages embedded on the Command Center wall keep their transparent day-cycle look - the meadow never covers the kiosk gradient.",
-  "url": "https://github.com/Stevo238/home-hub-releases/releases/download/v1.38.0/HomeHub.exe"
+  "version": "1.38.1",
+  "notes": "One cookbook, not an app per person. The separate per-guest tile on the landing page is gone - everything lives in the one Recipe Box, which now has an Added by filter row: chips for Everyone and each contributor, shown automatically once any recipe carries a byline. Tap Theresa's chip to see just her shelf; tap Everyone to see the whole family cookbook with little added-by bylines on contributed recipes.",
+  "url": "https://github.com/Stevo238/home-hub-releases/releases/download/v1.38.1/HomeHub.exe"
 }
