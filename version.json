@@ -1,5 +1,5 @@
 {
-  "version": "1.38.1",
-  "notes": "One cookbook, not an app per person. The separate per-guest tile on the landing page is gone - everything lives in the one Recipe Box, which now has an Added by filter row: chips for Everyone and each contributor, shown automatically once any recipe carries a byline. Tap Theresa's chip to see just her shelf; tap Everyone to see the whole family cookbook with little added-by bylines on contributed recipes.",
-  "url": "https://github.com/Stevo238/home-hub-releases/releases/download/v1.38.1/HomeHub.exe"
+  "version": "1.38.2",
+  "notes": "Security hardening for guest accounts, after a full review. (1) Guests can now only edit, delete or re-photo recipes they added themselves - everyone else's recipes are read-only to them (enforced on the server, and the Edit buttons only show on their own). (2) The recipe-URL importer is now SSRF-safe: it only fetches public internet addresses, pins the connection to the address it checked so a malicious site can't swap in an internal one, and re-checks every redirect - so it can't be used to reach your Home Assistant, cameras, network gear or the server itself. (3) Closed a cross-site gap where a guest's login could have carried over to the EVE and Ammo apps on the other subdomains; those now correctly refuse guest accounts. No changes for family accounts.",
+  "url": "https://github.com/Stevo238/home-hub-releases/releases/download/v1.38.2/HomeHub.exe"
 }
