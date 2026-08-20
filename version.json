@@ -1,5 +1,5 @@
 {
-  "version": "1.40.0",
-  "notes": "You can now add recipes from a Menu Planner PDF export - no more copying and pasting. On the Cooking page there's a new 'Import from PDF' button: pick a Menu Planner 2 PDF and the hub reads the name, ingredients, steps and notes straight off it and fills the form for a quick once-over before saving. If the PDF has several recipes (one per page), it offers to add them all in one go. It's available to anyone with recipe access, so Theresa can export from Menu Planner on her end and load her recipes in herself. (The parser is tuned to Menu Planner's layout, including the way it wraps long ingredient and step lines.)",
-  "url": "https://github.com/Stevo238/home-hub-releases/releases/download/v1.40.0/HomeHub.exe"
+  "version": "1.41.0",
+  "notes": "The kitchen Command Center's Security page can now show house maintenance at a glance. The Maintenance page's schedules feed a read-only strip made for the wall: the overdue / due-soon / scheduled pills up top, then just the jobs that actually need attention - no buttons, no forms, and it keeps itself current through the day. Adding and editing jobs stays on the Maintenance page like always.",
+  "url": "https://github.com/Stevo238/home-hub-releases/releases/download/v1.41.0/HomeHub.exe"
 }
