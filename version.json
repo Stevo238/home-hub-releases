@@ -1,5 +1,5 @@
 {
-  "version": "1.49.0",
-  "notes": "You can now give a scan a name before you run it - type it in the Name box on the scan panel (for example 'Vet invoice') and the PDF is saved under that name in Files > Scans. Leave it blank and it's named by date and time as before.",
-  "url": "https://github.com/Stevo238/home-hub-releases/releases/download/v1.49.0/HomeHub.exe"
+  "version": "1.50.0",
+  "notes": "New look for the tiles: the emoji are gone, replaced by clean wheat-colored line icons that match the Motroni Meadows theme - one per tile, picked by hand. They look the same on every phone, the kitchen screen and a laptop. The app icon is now the same wheat sprig as the landing site. Phones keep the icon they saw at install time, so to get the new one remove the Home Hub icon and add it to your home screen again.",
+  "url": "https://github.com/Stevo238/home-hub-releases/releases/download/v1.50.0/HomeHub.exe"
 }
