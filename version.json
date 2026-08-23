@@ -1,5 +1,5 @@
 {
-  "version": "1.44.0",
-  "notes": "The home page is now just about the house. The Power / UPS, Network and Server cards have moved into Stack Health, where they sit in a new Live section above the checks (with the same Restart Caddy button). The 'Heading away?' banner now lives at the bottom of the page instead of the top, since it's only needed a few times a year. And Shopping Lists is the first tile under Family.",
-  "url": "https://github.com/Stevo238/home-hub-releases/releases/download/v1.44.0/HomeHub.exe"
+  "version": "1.45.0",
+  "notes": "Small layout tweak: the 'Heading away?' banner now sits in the House section, directly under the Maintenance card, so the page flows house cards -> away mode -> recent activity.",
+  "url": "https://github.com/Stevo238/home-hub-releases/releases/download/v1.45.0/HomeHub.exe"
 }
