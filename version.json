@@ -1,5 +1,5 @@
 {
-  "version": "1.43.0",
-  "notes": "A tidier home page. The tiles are now grouped by what they're for instead of what they are: Family (chores, calendars, shopping, recipes, activity), House (Files, House Wiki, Maintenance, Departures), Manage (the admin and setup screens) and Tools (EVE, Ammo, Google, Blue Iris, Home Assistant, UniFi). The System Health and Server cards are folded into one compact Server card - service dots on top, CPU / memory / disk / uptime below - with a Stack Health link for the full detail.",
-  "url": "https://github.com/Stevo238/home-hub-releases/releases/download/v1.43.0/HomeHub.exe"
+  "version": "1.44.0",
+  "notes": "The home page is now just about the house. The Power / UPS, Network and Server cards have moved into Stack Health, where they sit in a new Live section above the checks (with the same Restart Caddy button). The 'Heading away?' banner now lives at the bottom of the page instead of the top, since it's only needed a few times a year. And Shopping Lists is the first tile under Family.",
+  "url": "https://github.com/Stevo238/home-hub-releases/releases/download/v1.44.0/HomeHub.exe"
 }
