@@ -1,5 +1,5 @@
 {
-  "version": "1.51.1",
-  "notes": "The kitchen Command Center is back to how it looked before - its pages keep the original colors they were designed around. The new Meadow look stays for phones and laptops.",
-  "url": "https://github.com/Stevo238/home-hub-releases/releases/download/v1.51.1/HomeHub.exe"
+  "version": "1.51.2",
+  "notes": "Command Center fix: the week calendar and chore board had gone solid black on the kitchen screen - they're transparent on the blue gradient again, as before.",
+  "url": "https://github.com/Stevo238/home-hub-releases/releases/download/v1.51.2/HomeHub.exe"
 }
