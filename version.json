@@ -1,5 +1,5 @@
 {
-  "version": "1.54.0",
-  "notes": "Stack Health now watches the backups. A new Backups section shows the nightly Vienna-to-Google-Drive cloud backup (red if a night was missed or the run had errors), the House Wiki's daily mirror to the S: share, and Ammo Tracker's own app backup. Includes v1.53.0: wiki backups, clickable links, upkeep schedules on wiki cards, per-category templates, and the fix for edits dropping maintenance schedules.",
-  "url": "https://github.com/Stevo238/home-hub-releases/releases/download/v1.54.0/HomeHub.exe"
+  "version": "1.55.0",
+  "notes": "Recipes tidy-up. The Cooking tile is gone - Recipe Box is the one way in, and its Add a recipe button opens the editor with the form ready. The Cooking page itself now opens on the recipe list instead of dropping you into a blank add form. Also: every page's browser-tab icon is now the wheat sprig instead of leftover emoji, and Stack Health has the new Backups section from v1.54.",
+  "url": "https://github.com/Stevo238/home-hub-releases/releases/download/v1.55.0/HomeHub.exe"
 }
