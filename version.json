@@ -1,5 +1,5 @@
 {
-  "version": "1.50.0",
-  "notes": "New look for the tiles: the emoji are gone, replaced by clean wheat-colored line icons that match the Motroni Meadows theme - one per tile, picked by hand. They look the same on every phone, the kitchen screen and a laptop. The app icon is now the same wheat sprig as the landing site. Phones keep the icon they saw at install time, so to get the new one remove the Home Hub icon and add it to your home screen again.",
-  "url": "https://github.com/Stevo238/home-hub-releases/releases/download/v1.50.0/HomeHub.exe"
+  "version": "1.51.0",
+  "notes": "The hub now wears the same colors as the Motroni Meadows site: deep forest backgrounds, parchment text, wheat for links and buttons, and status colors in sage, goldenrod and clay instead of the old bright green / yellow / red. The family avatars are in meadow tones too, and the Recent Activity feed (and the full Activity page) use the same clean line icons as the tiles. The kids' Chore Board keeps its bright, big-tap look on purpose.",
+  "url": "https://github.com/Stevo238/home-hub-releases/releases/download/v1.51.0/HomeHub.exe"
 }
