@@ -1,5 +1,5 @@
 {
-  "version": "1.45.0",
-  "notes": "Small layout tweak: the 'Heading away?' banner now sits in the House section, directly under the Maintenance card, so the page flows house cards -> away mode -> recent activity.",
-  "url": "https://github.com/Stevo238/home-hub-releases/releases/download/v1.45.0/HomeHub.exe"
+  "version": "1.46.0",
+  "notes": "Scan straight into Files. Put your pages in the printer's feeder (or one page on the glass), open Files and tap Scan - or tap the new Scanner tile - pick color and quality, and the hub runs the scanner and drops a PDF into Files > Scans, named by date and time. Works from your phone anywhere. The Scanner tile's dot shows whether the printer is reachable, and it tells you when pages are waiting in the feeder.",
+  "url": "https://github.com/Stevo238/home-hub-releases/releases/download/v1.46.0/HomeHub.exe"
 }
