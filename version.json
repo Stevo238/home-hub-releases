@@ -1,5 +1,5 @@
 {
-  "version": "1.47.0",
-  "notes": "Polish for phones. Every text box, dropdown and date/time picker across the hub now uses the dark theme (they were showing up as white boxes on phones in the message board, Cooking, Departures, Maintenance, Family Management and House Wiki). Files and Scanner are one tile - it shows the storage used and whether the scanner is ready or has pages waiting in the feeder. The scan panel is laid out for a phone screen. Every page now ends with a big 'Back to Home Hub' button, and the home page ends with a 'Motroni Meadows' link back to the landing site.",
-  "url": "https://github.com/Stevo238/home-hub-releases/releases/download/v1.47.0/HomeHub.exe"
+  "version": "1.48.0",
+  "notes": "New app icon: the same wheat sprig on forest green as the Motroni Meadows site, with a roofline over it so the two are easy to tell apart on your home screen. The bottom 'Back to Home Hub' buttons from the last release are gone. Note: phones snapshot an app's icon when you install it, so to see the new one, remove the Home Hub icon from your home screen and install it again.",
+  "url": "https://github.com/Stevo238/home-hub-releases/releases/download/v1.48.0/HomeHub.exe"
 }
