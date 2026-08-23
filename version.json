@@ -1,5 +1,5 @@
 {
-  "version": "1.42.0",
-  "notes": "New Files app: the house file share (the Files drive on the server) is now in the hub, so you can browse, upload and download your files from anywhere - not just on the home network. Drag and drop to upload, tap a photo or PDF to view it, download a whole folder as a zip, and nothing is ever deleted outright: anything you remove sits in the Trash for 30 days and can be put back. The share has a fixed 250 GB cap so it can never crowd out the cameras or the system drive; the tile shows how much is used, and Stack Health warns when it gets full. Admins grant access per account under Files.",
-  "url": "https://github.com/Stevo238/home-hub-releases/releases/download/v1.42.0/HomeHub.exe"
+  "version": "1.43.0",
+  "notes": "A tidier home page. The tiles are now grouped by what they're for instead of what they are: Family (chores, calendars, shopping, recipes, activity), House (Files, House Wiki, Maintenance, Departures), Manage (the admin and setup screens) and Tools (EVE, Ammo, Google, Blue Iris, Home Assistant, UniFi). The System Health and Server cards are folded into one compact Server card - service dots on top, CPU / memory / disk / uptime below - with a Stack Health link for the full detail.",
+  "url": "https://github.com/Stevo238/home-hub-releases/releases/download/v1.43.0/HomeHub.exe"
 }
