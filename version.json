@@ -1,5 +1,5 @@
 {
-  "version": "1.51.2",
-  "notes": "Command Center fix: the week calendar and chore board had gone solid black on the kitchen screen - they're transparent on the blue gradient again, as before.",
-  "url": "https://github.com/Stevo238/home-hub-releases/releases/download/v1.51.2/HomeHub.exe"
+  "version": "1.52.0",
+  "notes": "The icon pass is complete: every leftover emoji across the hub - page headers, card titles, the Controls buttons, buttons and labels on Files, Wiki, Maintenance, Lists, Recipes, Family Management, Admin, Stack Health and the rest - now uses the same wheat line icons as the tiles. The kitchen Command Center is untouched, and the kids' Chore Board keeps its stars and confetti.",
+  "url": "https://github.com/Stevo238/home-hub-releases/releases/download/v1.52.0/HomeHub.exe"
 }
