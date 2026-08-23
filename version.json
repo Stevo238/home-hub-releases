@@ -1,5 +1,5 @@
 {
-  "version": "1.48.0",
-  "notes": "New app icon: the same wheat sprig on forest green as the Motroni Meadows site, with a roofline over it so the two are easy to tell apart on your home screen. The bottom 'Back to Home Hub' buttons from the last release are gone. Note: phones snapshot an app's icon when you install it, so to see the new one, remove the Home Hub icon from your home screen and install it again.",
-  "url": "https://github.com/Stevo238/home-hub-releases/releases/download/v1.48.0/HomeHub.exe"
+  "version": "1.49.0",
+  "notes": "You can now give a scan a name before you run it - type it in the Name box on the scan panel (for example 'Vet invoice') and the PDF is saved under that name in Files > Scans. Leave it blank and it's named by date and time as before.",
+  "url": "https://github.com/Stevo238/home-hub-releases/releases/download/v1.49.0/HomeHub.exe"
 }
