@@ -1,5 +1,5 @@
 {
-  "version": "1.41.0",
-  "notes": "The kitchen Command Center's Security page can now show house maintenance at a glance. The Maintenance page's schedules feed a read-only strip made for the wall: the overdue / due-soon / scheduled pills up top, then just the jobs that actually need attention - no buttons, no forms, and it keeps itself current through the day. Adding and editing jobs stays on the Maintenance page like always.",
-  "url": "https://github.com/Stevo238/home-hub-releases/releases/download/v1.41.0/HomeHub.exe"
+  "version": "1.42.0",
+  "notes": "New Files app: the house file share (the Files drive on the server) is now in the hub, so you can browse, upload and download your files from anywhere - not just on the home network. Drag and drop to upload, tap a photo or PDF to view it, download a whole folder as a zip, and nothing is ever deleted outright: anything you remove sits in the Trash for 30 days and can be put back. The share has a fixed 250 GB cap so it can never crowd out the cameras or the system drive; the tile shows how much is used, and Stack Health warns when it gets full. Admins grant access per account under Files.",
+  "url": "https://github.com/Stevo238/home-hub-releases/releases/download/v1.42.0/HomeHub.exe"
 }
