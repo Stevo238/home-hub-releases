@@ -1,5 +1,5 @@
 {
-  "version": "1.51.0",
-  "notes": "The hub now wears the same colors as the Motroni Meadows site: deep forest backgrounds, parchment text, wheat for links and buttons, and status colors in sage, goldenrod and clay instead of the old bright green / yellow / red. The family avatars are in meadow tones too, and the Recent Activity feed (and the full Activity page) use the same clean line icons as the tiles. The kids' Chore Board keeps its bright, big-tap look on purpose.",
-  "url": "https://github.com/Stevo238/home-hub-releases/releases/download/v1.51.0/HomeHub.exe"
+  "version": "1.51.1",
+  "notes": "The kitchen Command Center is back to how it looked before - its pages keep the original colors they were designed around. The new Meadow look stays for phones and laptops.",
+  "url": "https://github.com/Stevo238/home-hub-releases/releases/download/v1.51.1/HomeHub.exe"
 }
