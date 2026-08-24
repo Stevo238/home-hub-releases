@@ -1,5 +1,5 @@
 {
-  "version": "1.55.0",
-  "notes": "Recipes tidy-up. The Cooking tile is gone - Recipe Box is the one way in, and its Add a recipe button opens the editor with the form ready. The Cooking page itself now opens on the recipe list instead of dropping you into a blank add form. Also: every page's browser-tab icon is now the wheat sprig instead of leftover emoji, and Stack Health has the new Backups section from v1.54.",
-  "url": "https://github.com/Stevo238/home-hub-releases/releases/download/v1.55.0/HomeHub.exe"
+  "version": "1.56.0",
+  "notes": "Chores the board resets by itself (time window closed, nightly reset) no longer wear the same green checkmark as real work. They show an amber reset arrow instead, on the kitchen screen and in the app - so 'done' always means somebody actually did it. Checking one off by hand still turns it green and counts the points.",
+  "url": "https://github.com/Stevo238/home-hub-releases/releases/download/v1.56.0/HomeHub.exe"
 }
