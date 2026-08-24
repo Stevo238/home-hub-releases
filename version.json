@@ -1,5 +1,5 @@
 {
-  "version": "1.56.1",
-  "notes": "Fixes the morning burst of bogus activity: chores still marked complete from the day before were being re-logged as 'finished' (and re-earning points) at the first tick of each new day. The board now only records a completion it actually watched happen. Chores nobody did still show as 'missed' at the nightly reset - the feed tells the truth now. (Includes v1.56.0: auto-reset chores wear an amber reset arrow on the chore board instead of a green checkmark.)",
-  "url": "https://github.com/Stevo238/home-hub-releases/releases/download/v1.56.1/HomeHub.exe"
+  "version": "1.56.2",
+  "notes": "Activity feed polish: 'un-checked' rows now use the same wheat line-icon style as the rest of the feed. Includes v1.56.1 (no more phantom 6 AM 'finished' events or double-counted points) and v1.56.0 (auto-reset chores wear an amber reset arrow on the chore board).",
+  "url": "https://github.com/Stevo238/home-hub-releases/releases/download/v1.56.2/HomeHub.exe"
 }
