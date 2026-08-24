@@ -1,5 +1,5 @@
 {
-  "version": "1.56.0",
-  "notes": "Chores the board resets by itself (time window closed, nightly reset) no longer wear the same green checkmark as real work. They show an amber reset arrow instead, on the kitchen screen and in the app - so 'done' always means somebody actually did it. Checking one off by hand still turns it green and counts the points.",
-  "url": "https://github.com/Stevo238/home-hub-releases/releases/download/v1.56.0/HomeHub.exe"
+  "version": "1.56.1",
+  "notes": "Fixes the morning burst of bogus activity: chores still marked complete from the day before were being re-logged as 'finished' (and re-earning points) at the first tick of each new day. The board now only records a completion it actually watched happen. Chores nobody did still show as 'missed' at the nightly reset - the feed tells the truth now. (Includes v1.56.0: auto-reset chores wear an amber reset arrow on the chore board instead of a green checkmark.)",
+  "url": "https://github.com/Stevo238/home-hub-releases/releases/download/v1.56.1/HomeHub.exe"
 }
