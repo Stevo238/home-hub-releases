@@ -1,5 +1,5 @@
 {
-  "version": "1.57.0",
-  "notes": "Stack Health keeps an eye on four more things: the Claude Code host (so you know remote Claude sessions will answer before you need one), the network share itself (catches the reboot glitch where S: is fine but \\\\Vienna\\Files disappears), the camera AI engine (Blue Iris person/vehicle detection), and the monthly system image (warns if it's more than 5 weeks old).",
-  "url": "https://github.com/Stevo238/home-hub-releases/releases/download/v1.57.0/HomeHub.exe"
+  "version": "1.58.0",
+  "notes": "The hub can print. A Print button now sits on the recipe, the week, the chore board, the shopping lists, every wiki entry, and any PDF, photo or text file on the share — it drives the OfficeJet directly, so there's no print driver to install and nothing to set up. Things come out shaped for paper rather than for a screen: shopping lists and recipe ingredients print as two columns of tick boxes, the week prints as a day-by-day agenda, and a wiki entry prints its details, notes and upkeep dates — the page worth taping inside a cabinet door. The print box shows ink levels, tells you when the printer is out of paper instead of quietly doing nothing, and waits for the job so \"printed 2 pages\" means it really came out.",
+  "url": "https://github.com/Stevo238/home-hub-releases/releases/download/v1.58.0/HomeHub.exe"
 }
