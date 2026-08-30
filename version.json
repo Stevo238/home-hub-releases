@@ -1,5 +1,5 @@
 {
-  "version": "1.56.2",
-  "notes": "Activity feed polish: 'un-checked' rows now use the same wheat line-icon style as the rest of the feed. Includes v1.56.1 (no more phantom 6 AM 'finished' events or double-counted points) and v1.56.0 (auto-reset chores wear an amber reset arrow on the chore board).",
-  "url": "https://github.com/Stevo238/home-hub-releases/releases/download/v1.56.2/HomeHub.exe"
+  "version": "1.57.0",
+  "notes": "Stack Health keeps an eye on four more things: the Claude Code host (so you know remote Claude sessions will answer before you need one), the network share itself (catches the reboot glitch where S: is fine but \\\\Vienna\\Files disappears), the camera AI engine (Blue Iris person/vehicle detection), and the monthly system image (warns if it's more than 5 weeks old).",
+  "url": "https://github.com/Stevo238/home-hub-releases/releases/download/v1.57.0/HomeHub.exe"
 }
