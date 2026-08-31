@@ -1,5 +1,5 @@
 {
-  "version": "1.59.0",
-  "notes": "Stack Health now puts its verdict at the top of the page, so anything wrong is the first thing you see rather than something you scroll past the Live cards to find. Rows you can do something about have also grown a button: run the Google Drive backup now, mirror the wiki to the share, push Ammo Tracker's database up, start a Home Assistant backup, re-probe the WAN address for DNS, reload Caddy to re-check the certificates, put the Files share back if it goes missing, or kick off the monthly system image. They run in the background and the row reports what happened, so you can start a backup and walk away. Re-check also works properly now — pressing it twice used to redraw the same two-minute-old result and look like a dead button.",
-  "url": "https://github.com/Stevo238/home-hub-releases/releases/download/v1.59.0/HomeHub.exe"
+  "version": "1.59.1",
+  "notes": "Tidies up the new Stack Health buttons. On a phone the text beside them was squeezed into a sliver and broke mid-word — \"3 retry line(s), all recovered\" came out as eight lines of two or three characters. Rows with a button now put the name and its detail down the left with the button alongside, so the text gets the full width of the card. Rows without a button are unchanged.",
+  "url": "https://github.com/Stevo238/home-hub-releases/releases/download/v1.59.1/HomeHub.exe"
 }
