@@ -1,5 +1,5 @@
 {
-  "version": "1.58.3",
-  "notes": "Stack Health was flagging the nightly Google Drive backup as a problem when the backup had actually worked. It counted every ERROR line in the log, but rclone records a retry that then succeeded as an ERROR too — so one brief hiccup talking to Google was enough to light up the row. It now only reports a backup as failed when a file genuinely didn't make it after retrying, which is the same rule the phone alert already used, so the two can't disagree any more. Retries that recovered are still shown, but on the green row rather than as a warning.",
-  "url": "https://github.com/Stevo238/home-hub-releases/releases/download/v1.58.3/HomeHub.exe"
+  "version": "1.59.0",
+  "notes": "Stack Health now puts its verdict at the top of the page, so anything wrong is the first thing you see rather than something you scroll past the Live cards to find. Rows you can do something about have also grown a button: run the Google Drive backup now, mirror the wiki to the share, push Ammo Tracker's database up, start a Home Assistant backup, re-probe the WAN address for DNS, reload Caddy to re-check the certificates, put the Files share back if it goes missing, or kick off the monthly system image. They run in the background and the row reports what happened, so you can start a backup and walk away. Re-check also works properly now — pressing it twice used to redraw the same two-minute-old result and look like a dead button.",
+  "url": "https://github.com/Stevo238/home-hub-releases/releases/download/v1.59.0/HomeHub.exe"
 }
