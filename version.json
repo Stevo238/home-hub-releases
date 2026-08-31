@@ -1,5 +1,5 @@
 {
-  "version": "1.59.1",
-  "notes": "Tidies up the new Stack Health buttons. On a phone the text beside them was squeezed into a sliver and broke mid-word — \"3 retry line(s), all recovered\" came out as eight lines of two or three characters. Rows with a button now put the name and its detail down the left with the button alongside, so the text gets the full width of the card. Rows without a button are unchanged.",
-  "url": "https://github.com/Stevo238/home-hub-releases/releases/download/v1.59.1/HomeHub.exe"
+  "version": "1.60.0",
+  "notes": "Stack Health now watches EVE Corp Finance's daily backup, which had no row at all — it could have stopped for a week without anything noticing. More usefully, the page no longer only tells you things while you're looking at it: when a check goes bad the hub sends you a push, once when it breaks rather than nagging, with a note when it recovers. Several failures at once arrive as one message. The nightly cloud backup is left out on purpose since it already alerts you itself. Unhealthy rows now say how long they've been that way, so you get \"failing since 3 days\" rather than just failing. And the status dots are shaped as well as coloured — a circle for healthy, a diamond for a warning, a square for a failure — so they can be told apart without relying on colour.",
+  "url": "https://github.com/Stevo238/home-hub-releases/releases/download/v1.60.0/HomeHub.exe"
 }
