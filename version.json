@@ -1,5 +1,5 @@
 {
-  "version": "1.60.0",
-  "notes": "Stack Health now watches EVE Corp Finance's daily backup, which had no row at all — it could have stopped for a week without anything noticing. More usefully, the page no longer only tells you things while you're looking at it: when a check goes bad the hub sends you a push, once when it breaks rather than nagging, with a note when it recovers. Several failures at once arrive as one message. The nightly cloud backup is left out on purpose since it already alerts you itself. Unhealthy rows now say how long they've been that way, so you get \"failing since 3 days\" rather than just failing. And the status dots are shaped as well as coloured — a circle for healthy, a diamond for a warning, a square for a failure — so they can be told apart without relying on colour.",
-  "url": "https://github.com/Stevo238/home-hub-releases/releases/download/v1.60.0/HomeHub.exe"
+  "version": "1.60.1",
+  "notes": "Fixes the Reload Caddy button on Stack Health, which failed on every press — it passed a flag that only the server's start command accepts, and would have skipped the reload as unnecessary even once that was fixed. Found while working out why the site blinked out a few times this afternoon: each hub update restarts it for about four seconds, and the reverse proxy was giving up instantly rather than waiting. It now waits, so hub updates should no longer take the login-gated sites down with them.",
+  "url": "https://github.com/Stevo238/home-hub-releases/releases/download/v1.60.1/HomeHub.exe"
 }
