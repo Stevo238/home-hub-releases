@@ -1,5 +1,5 @@
 {
-  "version": "1.58.2",
-  "notes": "Printing fixes. A short shopping list printed across two pages — three items would put the third on a sheet of its own — and short lists were split down the middle into two columns, which read like a mistake. Lists now stay in one column until they're long enough to need two, and never cost an extra sheet. Recipe quantities like ⅘ cup also came out blank, because the print font doesn't carry the less common fractions; those are now written out as 4/5.",
-  "url": "https://github.com/Stevo238/home-hub-releases/releases/download/v1.58.2/HomeHub.exe"
+  "version": "1.58.3",
+  "notes": "Stack Health was flagging the nightly Google Drive backup as a problem when the backup had actually worked. It counted every ERROR line in the log, but rclone records a retry that then succeeded as an ERROR too — so one brief hiccup talking to Google was enough to light up the row. It now only reports a backup as failed when a file genuinely didn't make it after retrying, which is the same rule the phone alert already used, so the two can't disagree any more. Retries that recovered are still shown, but on the green row rather than as a warning.",
+  "url": "https://github.com/Stevo238/home-hub-releases/releases/download/v1.58.3/HomeHub.exe"
 }
