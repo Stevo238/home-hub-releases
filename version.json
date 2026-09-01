@@ -1,5 +1,5 @@
 {
-  "version": "1.60.1",
-  "notes": "Fixes the Reload Caddy button on Stack Health, which failed on every press — it passed a flag that only the server's start command accepts, and would have skipped the reload as unnecessary even once that was fixed. Found while working out why the site blinked out a few times this afternoon: each hub update restarts it for about four seconds, and the reverse proxy was giving up instantly rather than waiting. It now waits, so hub updates should no longer take the login-gated sites down with them.",
-  "url": "https://github.com/Stevo238/home-hub-releases/releases/download/v1.60.1/HomeHub.exe"
+  "version": "1.61.0",
+  "notes": "New Slideshow page: the photos the kitchen Command Center plays, now on the hub. It's the same Home Assistant folder you'd reach over the file share — a thumbnail grid you can tap through, select photos to take back off the screen, and an Add photos button that opens your phone's own picker or its camera. No SMB app and no Samba password: the hub talks to Home Assistant directly. Big phone photos are shrunk before sending (a checkbox turns that off) so adding a few over cellular takes seconds rather than a minute. Everyone with a login gets it; it's a new Slideshow permission on the Admin page if you'd rather not.",
+  "url": "https://github.com/Stevo238/home-hub-releases/releases/download/v1.61.0/HomeHub.exe"
 }
