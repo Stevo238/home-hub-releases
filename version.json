@@ -1,5 +1,5 @@
 {
-  "version": "1.61.0",
-  "notes": "New Slideshow page: the photos the kitchen Command Center plays, now on the hub. It's the same Home Assistant folder you'd reach over the file share — a thumbnail grid you can tap through, select photos to take back off the screen, and an Add photos button that opens your phone's own picker or its camera. No SMB app and no Samba password: the hub talks to Home Assistant directly. Big phone photos are shrunk before sending (a checkbox turns that off) so adding a few over cellular takes seconds rather than a minute. Everyone with a login gets it; it's a new Slideshow permission on the Admin page if you'd rather not.",
-  "url": "https://github.com/Stevo238/home-hub-releases/releases/download/v1.61.0/HomeHub.exe"
+  "version": "1.61.1",
+  "notes": "Tidies up after yesterday's Slideshow release: the new permission was handed to every non-admin account, which included Theresa's guest login. It never gave her anything — guests only ever see the Recipe Box — but Admin showed her holding Slideshow, so that's corrected and new permissions now skip guest accounts entirely. The Slideshow page itself is unchanged: the photos the kitchen Command Center plays, with an Add photos button that opens your phone's picker or camera.",
+  "url": "https://github.com/Stevo238/home-hub-releases/releases/download/v1.61.1/HomeHub.exe"
 }
