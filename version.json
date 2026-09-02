@@ -1,5 +1,5 @@
 {
-  "version": "1.66.1",
-  "notes": "Small fix for phones. The date in the header read 'Tuesday, September 1' at every screen size, which is too long to fit next to the title on a phone — it wrapped onto a second line and made the header taller than it should be. On a narrow screen it now reads 'Tue, Sep 1' and stays on one line. Turning your phone sideways switches it back to the full version on its own. Nothing else changed.",
-  "url": "https://github.com/Stevo238/home-hub-releases/releases/download/v1.66.1/HomeHub.exe"
+  "version": "1.66.2",
+  "notes": "Fixes the cramped header on a phone. Both the title and the date were wrapping onto second lines — 'Motroni / Meadows' and 'Tuesday, September / 1' — which pushed the header down to nearly a third of the screen before you saw a single tile. Everything in the header now steps down a size on a phone, the title stays on one line, and the date reads 'Tue, Sep 1'. Turn the phone sideways and it goes back to the full-size version on its own. Nothing else changed.",
+  "url": "https://github.com/Stevo238/home-hub-releases/releases/download/v1.66.2/HomeHub.exe"
 }
