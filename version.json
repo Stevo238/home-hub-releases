@@ -1,5 +1,5 @@
 {
-  "version": "1.63.0",
-  "notes": "Housekeeping with nothing to see. The same handful of jobs — checking whether you're allowed into an app, saving a file, asking Home Assistant a question, running a background timer — were each written out dozens of separate times, which is how small differences creep in unnoticed. They're now written once. Two real problems fell out of doing it: the backups the hub keeps of your chores and wiki were stamped only to the nearest second, so two edits in the same second left one backup instead of two, and the tidy-up then sometimes deleted the wrong ones; and tonight's dinner card had a broken reference that would have failed the moment it was asked for a week's meals. Both fixed. Everything else works exactly as it did — every page and every button was checked against a recorded before-and-after.",
-  "url": "https://github.com/Stevo238/home-hub-releases/releases/download/v1.63.0/HomeHub.exe"
+  "version": "1.64.0",
+  "notes": "Fixes a display bug you may have already hit. Anywhere a name contained a double quote — a wiki entry like 20x25x1\" filter, a recipe like Grandma's 9\" Pie, a calendar event like Lunch with \"the Bobs\" — the page could render wrong around it, because quotes weren't being escaped when the hub built the page. They are now, everywhere. Behind that, the twenty page scripts each carried their own private copy of the same handful of helper functions; there is now one shared file, which is what made the escaping fixable in one place instead of twenty. Also restores something the wall kiosks were quietly missing when not signed in: their icons and their print button.",
+  "url": "https://github.com/Stevo238/home-hub-releases/releases/download/v1.64.0/HomeHub.exe"
 }
