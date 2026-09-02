@@ -1,5 +1,5 @@
 {
-  "version": "1.66.0",
-  "notes": "The last piece of the tidy-up, and there is nothing to see. The hub was one 8,000-line file; it is now thirteen smaller ones grouped by what they do — chores, recipes, the wiki, the file share, printing, and so on. Nothing about how it behaves has changed: the same 125 addresses answer the same way, every page was checked against a recorded before-and-after, and the calendar views were compared date by date. The only difference is that the next time something needs fixing, it will be quicker to find.",
-  "url": "https://github.com/Stevo238/home-hub-releases/releases/download/v1.66.0/HomeHub.exe"
+  "version": "1.66.1",
+  "notes": "Small fix for phones. The date in the header read 'Tuesday, September 1' at every screen size, which is too long to fit next to the title on a phone — it wrapped onto a second line and made the header taller than it should be. On a narrow screen it now reads 'Tue, Sep 1' and stays on one line. Turning your phone sideways switches it back to the full version on its own. Nothing else changed.",
+  "url": "https://github.com/Stevo238/home-hub-releases/releases/download/v1.66.1/HomeHub.exe"
 }
