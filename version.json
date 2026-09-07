@@ -1,5 +1,5 @@
 {
-  "version": "1.66.2",
-  "notes": "Fixes the cramped header on a phone. Both the title and the date were wrapping onto second lines — 'Motroni / Meadows' and 'Tuesday, September / 1' — which pushed the header down to nearly a third of the screen before you saw a single tile. Everything in the header now steps down a size on a phone, the title stays on one line, and the date reads 'Tue, Sep 1'. Turn the phone sideways and it goes back to the full-size version on its own. Nothing else changed.",
-  "url": "https://github.com/Stevo238/home-hub-releases/releases/download/v1.66.2/HomeHub.exe"
+  "version": "1.67.0",
+  "notes": "Adds the 804 Invoices tile (beef.motronimeadows.com) and a matching 'beef' permission. Admins see it right away; give other accounts the permission from the Admin page if they need it. Stack health now watches beef.motronimeadows.com too.",
+  "url": "https://github.com/Stevo238/home-hub-releases/releases/download/v1.67.0/HomeHub.exe"
 }
