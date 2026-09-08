@@ -1,5 +1,5 @@
 {
-  "version": "1.70.1",
-  "notes": "Files can now be sorted — click the Name, Size or Modified column headers (or use the sort menu on a phone) for A–Z, newest/oldest, largest/smallest or by type; your choice sticks. A new ⓘ button on every row opens a details panel with the kind of file, exact size, photo dimensions, created and modified dates, where it lives and (for folders) how many files are inside. Folders show their item count, and the list shows a total for the folder you're in. (1.70.1: header columns now line up with the rows.)",
-  "url": "https://github.com/Stevo238/home-hub-releases/releases/download/v1.70.1/HomeHub.exe"
+  "version": "1.70.2",
+  "notes": "Files can now be sorted — click the Name, Size or Modified column headers (or use the sort menu on a phone) for A–Z, newest/oldest, largest/smallest or by type; your choice sticks. A new ⓘ button on every row opens a details panel with the kind of file, exact size, photo dimensions, created and modified dates, where it lives and (for folders) how many files are inside. Folders show their item count, and the list shows a total for the folder you're in. (1.70.2: Size and Modified headers now sit exactly over their columns.)",
+  "url": "https://github.com/Stevo238/home-hub-releases/releases/download/v1.70.2/HomeHub.exe"
 }
