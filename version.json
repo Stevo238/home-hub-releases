@@ -1,5 +1,5 @@
 {
-  "version": "1.68.0",
-  "notes": "The hub is now an MCP server for Claude: shopping lists, dinner calendar, recipes, wiki + upkeep, message board, chores, away mode, activity, stack health and printing as tools. Served on loopback port 8301 behind Caddy at hub.motronimeadows.com/mcp; Google sign-in (allowlisted) or the server's loopback token. Nothing changes on the pages.",
-  "url": "https://github.com/Stevo238/home-hub-releases/releases/download/v1.68.0/HomeHub.exe"
+  "version": "1.69.0",
+  "notes": "Stack Health now watches the three MCP servers (Home Hub, Gmail, 804 Invoices) — each probed through its own OAuth discovery document, with a phone push if one goes down. A hub MCP thread that failed to start shows why.",
+  "url": "https://github.com/Stevo238/home-hub-releases/releases/download/v1.69.0/HomeHub.exe"
 }
