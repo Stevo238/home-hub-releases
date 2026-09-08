@@ -1,5 +1,5 @@
 {
-  "version": "1.67.0",
-  "notes": "Adds the 804 Invoices tile (beef.motronimeadows.com) and a matching 'beef' permission. Admins see it right away; give other accounts the permission from the Admin page if they need it. Stack health now watches beef.motronimeadows.com too.",
-  "url": "https://github.com/Stevo238/home-hub-releases/releases/download/v1.67.0/HomeHub.exe"
+  "version": "1.68.0",
+  "notes": "The hub is now an MCP server for Claude: shopping lists, dinner calendar, recipes, wiki + upkeep, message board, chores, away mode, activity, stack health and printing as tools. Served on loopback port 8301 behind Caddy at hub.motronimeadows.com/mcp; Google sign-in (allowlisted) or the server's loopback token. Nothing changes on the pages.",
+  "url": "https://github.com/Stevo238/home-hub-releases/releases/download/v1.68.0/HomeHub.exe"
 }
