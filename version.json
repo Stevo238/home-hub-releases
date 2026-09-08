@@ -1,5 +1,5 @@
 {
-  "version": "1.69.0",
-  "notes": "Stack Health now watches the three MCP servers (Home Hub, Gmail, 804 Invoices) — each probed through its own OAuth discovery document, with a phone push if one goes down. A hub MCP thread that failed to start shows why.",
-  "url": "https://github.com/Stevo238/home-hub-releases/releases/download/v1.69.0/HomeHub.exe"
+  "version": "1.70.0",
+  "notes": "Files can now be sorted — click the Name, Size or Modified column headers (or use the sort menu on a phone) for A–Z, newest/oldest, largest/smallest or by type; your choice sticks. A new ⓘ button on every row opens a details panel with the kind of file, exact size, photo dimensions, created and modified dates, where it lives and (for folders) how many files are inside. Folders show their item count, and the list shows a total for the folder you're in.",
+  "url": "https://github.com/Stevo238/home-hub-releases/releases/download/v1.70.0/HomeHub.exe"
 }
