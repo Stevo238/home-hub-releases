@@ -1,5 +1,5 @@
 {
-  "version": "1.72.2",
-  "notes": "The family message board now shows on the kitchen Command Center: notes you post on the Home Hub appear there as a full-width banner. It's read-only on the wall — nobody can post or clear a note without signing in. Also fixes the chore board on the wall, where a longer name (Neliya) overlapped its star and streak chips.",
-  "url": "https://github.com/Stevo238/home-hub-releases/releases/download/v1.72.2/HomeHub.exe"
+  "version": "1.72.3",
+  "notes": "The family message board now shows on the kitchen Command Center: notes you post on the Home Hub appear there as a full-width banner. It's read-only on the wall \u2014 nobody can post or clear a note without signing in. Also fixes the chore board on the wall, where a longer name (Neliya) collided with its star and streak chips.",
+  "url": "https://github.com/Stevo238/home-hub-releases/releases/download/v1.72.3/HomeHub.exe"
 }
