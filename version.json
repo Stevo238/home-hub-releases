@@ -1,5 +1,5 @@
 {
-  "version": "1.72.3",
-  "notes": "The family message board now shows on the kitchen Command Center: notes you post on the Home Hub appear there as a full-width banner. It's read-only on the wall \u2014 nobody can post or clear a note without signing in. Also fixes the chore board on the wall, where a longer name (Neliya) collided with its star and streak chips.",
-  "url": "https://github.com/Stevo238/home-hub-releases/releases/download/v1.72.3/HomeHub.exe"
+  "version": "1.73.0",
+  "notes": "Stack Health now watches the server's clock. After the September 9 power outage Vienna came back nearly a week in the past, and all you saw was a certificate error and a Google login failure. From now on a 'System clock' row in the Server group says plainly how far off the clock is, so the real cause is obvious at a glance.",
+  "url": "https://github.com/Stevo238/home-hub-releases/releases/download/v1.73.0/HomeHub.exe"
 }
