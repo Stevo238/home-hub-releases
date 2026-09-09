@@ -1,5 +1,5 @@
 {
-  "version": "1.73.0",
-  "notes": "Stack Health now watches the server's clock. After the September 9 power outage Vienna came back nearly a week in the past, and all you saw was a certificate error and a Google login failure. From now on a 'System clock' row in the Server group says plainly how far off the clock is, so the real cause is obvious at a glance.",
-  "url": "https://github.com/Stevo238/home-hub-releases/releases/download/v1.73.0/HomeHub.exe"
+  "version": "1.74.0",
+  "notes": "New Freezers page: a year of chest and standup temperature history, charted, with the raw readings downloadable as CSV. A freezer that is out of service is still logged and still charted - labelled, not hidden - so a warm spell months ago is still answerable. The chart shows the warmest reading in each bucket rather than the average, because averaging hides exactly the short excursion worth seeing. Also backs the freezer history up to Google Drive nightly: the InfluxDB add-on it reads has been retired by Home Assistant, which warns that a normal backup may not restore it.",
+  "url": "https://github.com/Stevo238/home-hub-releases/releases/download/v1.74.0/HomeHub.exe"
 }
