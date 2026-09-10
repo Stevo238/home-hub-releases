@@ -1,5 +1,5 @@
 {
-  "version": "1.76.0",
-  "notes": "Fixes a real hole in the freezer alarm. The standup freezer's in-service switch was wired to nothing, so putting that unit back in service after a defrost would not actually have armed it and a warm standup would never have sounded. The table and the CSV export now also carry in and out of service, the alarm, the dismiss and the siren, so you can see whether a warm spell was alarmed and whether anyone acknowledged it. Service history only starts today, so anything earlier is shown as unknown rather than pretending it was running.",
-  "url": "https://github.com/Stevo238/home-hub-releases/releases/download/v1.76.0/HomeHub.exe"
+  "version": "1.77.0",
+  "notes": "Less text on the Freezers page. The note under the chart is one short line instead of three paragraphs, the out-of-service labels are shorter so they stop wrapping on a phone, and the storage counts moved down to the footer. The note about service history only appearing recently now shows only when you are actually looking that far back.",
+  "url": "https://github.com/Stevo238/home-hub-releases/releases/download/v1.77.0/HomeHub.exe"
 }
