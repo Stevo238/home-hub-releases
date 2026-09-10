@@ -1,5 +1,5 @@
 {
-  "version": "1.75.0",
-  "notes": "The freezer history now lives on this server in a plain SQL database the hub owns - Home Assistant keeps none of it. It holds two years instead of the one rolling year InfluxDB kept, and it backs up to Google Drive nightly with everything else. Whether each freezer is in or out of service is now recorded too, so months later a chart shows a hatched band saying it was unplugged rather than a warm stretch that looks like a failure. Each freezer also gets its own panel and its own scale, because a standup sitting at room temperature used to flatten the three working chests into an unreadable strip.",
-  "url": "https://github.com/Stevo238/home-hub-releases/releases/download/v1.75.0/HomeHub.exe"
+  "version": "1.76.0",
+  "notes": "Fixes a real hole in the freezer alarm. The standup freezer's in-service switch was wired to nothing, so putting that unit back in service after a defrost would not actually have armed it and a warm standup would never have sounded. The table and the CSV export now also carry in and out of service, the alarm, the dismiss and the siren, so you can see whether a warm spell was alarmed and whether anyone acknowledged it. Service history only starts today, so anything earlier is shown as unknown rather than pretending it was running.",
+  "url": "https://github.com/Stevo238/home-hub-releases/releases/download/v1.76.0/HomeHub.exe"
 }
