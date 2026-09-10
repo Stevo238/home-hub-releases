@@ -1,5 +1,5 @@
 {
-  "version": "1.81.0",
-  "notes": "Claude can now check on the beef freezers. Ask it how the freezers are doing and it reads each unit's current temperature, whether it is in service, and the coldest and warmest it has been in the last day, along with any alarm. Ask about a longer stretch — this week, this month, the last year — and it reports the same for that range, for one freezer or all four.",
-  "url": "https://github.com/Stevo238/home-hub-releases/releases/download/v1.81.0/HomeHub.exe"
+  "version": "1.82.0",
+  "notes": "A Budget tile joins the Everyday group. It opens the new Family Budget app (budget.motronimeadows.com), which reads the statement files you download from Chase, American Express and USAA and shows spending against monthly limits per category. Nobody sees it until an admin grants them the new \"Budget\" permission on the Admin page.",
+  "url": "https://github.com/Stevo238/home-hub-releases/releases/download/v1.82.0/HomeHub.exe"
 }
