@@ -1,5 +1,5 @@
 {
-  "version": "1.79.0",
-  "notes": "The app tiles all shrank to the same small icon-and-name chip, so the whole launcher fits on a phone screen instead of scrolling. The Controls buttons match them now too — one tidy grid instead of two sets of buttons at different sizes. The short description under each app moved to the tooltip you get by hovering, so the Files & Printer and Slideshow status lines are no longer on the tile itself.",
-  "url": "https://github.com/Stevo238/home-hub-releases/releases/download/v1.79.0/HomeHub.exe"
+  "version": "1.80.0",
+  "notes": "The home page is in a new order: the Message Board is at the top, then Everyday, The House, Mine and 804 Cattle Co., then the Controls buttons, then Systems and Manage. Family, Cameras, the house cards and Recent Activity follow as before. The old \"Applications\" heading is gone — each group of apps is now its own block on the page.",
+  "url": "https://github.com/Stevo238/home-hub-releases/releases/download/v1.80.0/HomeHub.exe"
 }
