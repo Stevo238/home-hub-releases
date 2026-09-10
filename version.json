@@ -1,5 +1,5 @@
 {
-  "version": "1.77.0",
-  "notes": "Less text on the Freezers page. The note under the chart is one short line instead of three paragraphs, the out-of-service labels are shorter so they stop wrapping on a phone, and the storage counts moved down to the footer. The note about service history only appearing recently now shows only when you are actually looking that far back.",
-  "url": "https://github.com/Stevo238/home-hub-releases/releases/download/v1.77.0/HomeHub.exe"
+  "version": "1.78.0",
+  "notes": "The home page is tidier. The apps are now grouped as Everyday, The House, 804 Cattle Co., Manage, Systems and Mine — so the freezers sit next to 804 Invoices where they belong, and the admin and system tiles shrank to small chips instead of full cards. Nothing is hidden; the list is just about half as tall on a phone. The duplicate Month View tile is gone, because the week and month calendars now link straight to each other. Manage Chores is now Chore Setup, and Family Management is now Rewards & Internet.",
+  "url": "https://github.com/Stevo238/home-hub-releases/releases/download/v1.78.0/HomeHub.exe"
 }
