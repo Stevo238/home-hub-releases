@@ -1,5 +1,5 @@
 {
-  "version": "1.78.0",
-  "notes": "The home page is tidier. The apps are now grouped as Everyday, The House, 804 Cattle Co., Manage, Systems and Mine — so the freezers sit next to 804 Invoices where they belong, and the admin and system tiles shrank to small chips instead of full cards. Nothing is hidden; the list is just about half as tall on a phone. The duplicate Month View tile is gone, because the week and month calendars now link straight to each other. Manage Chores is now Chore Setup, and Family Management is now Rewards & Internet.",
-  "url": "https://github.com/Stevo238/home-hub-releases/releases/download/v1.78.0/HomeHub.exe"
+  "version": "1.79.0",
+  "notes": "The app tiles all shrank to the same small icon-and-name chip, so the whole launcher fits on a phone screen instead of scrolling. The Controls buttons match them now too — one tidy grid instead of two sets of buttons at different sizes. The short description under each app moved to the tooltip you get by hovering, so the Files & Printer and Slideshow status lines are no longer on the tile itself.",
+  "url": "https://github.com/Stevo238/home-hub-releases/releases/download/v1.79.0/HomeHub.exe"
 }
