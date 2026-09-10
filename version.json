@@ -1,5 +1,5 @@
 {
-  "version": "1.80.0",
-  "notes": "The home page is in a new order: the Message Board is at the top, then Everyday, The House, Mine and 804 Cattle Co., then the Controls buttons, then Systems and Manage. Family, Cameras, the house cards and Recent Activity follow as before. The old \"Applications\" heading is gone — each group of apps is now its own block on the page.",
-  "url": "https://github.com/Stevo238/home-hub-releases/releases/download/v1.80.0/HomeHub.exe"
+  "version": "1.80.1",
+  "notes": "Small tidy-up of the new home page. The Controls heading now looks exactly like the app group headings above and below it, and shows a count the way they do. The status dots on the Stack Health page are back to their original size after the tile change had shrunk them.",
+  "url": "https://github.com/Stevo238/home-hub-releases/releases/download/v1.80.1/HomeHub.exe"
 }
