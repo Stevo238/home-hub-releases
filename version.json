@@ -1,5 +1,5 @@
 {
-  "version": "1.80.1",
-  "notes": "Small tidy-up of the new home page. The Controls heading now looks exactly like the app group headings above and below it, and shows a count the way they do. The status dots on the Stack Health page are back to their original size after the tile change had shrunk them.",
-  "url": "https://github.com/Stevo238/home-hub-releases/releases/download/v1.80.1/HomeHub.exe"
+  "version": "1.81.0",
+  "notes": "Claude can now check on the beef freezers. Ask it how the freezers are doing and it reads each unit's current temperature, whether it is in service, and the coldest and warmest it has been in the last day, along with any alarm. Ask about a longer stretch — this week, this month, the last year — and it reports the same for that range, for one freezer or all four.",
+  "url": "https://github.com/Stevo238/home-hub-releases/releases/download/v1.81.0/HomeHub.exe"
 }
