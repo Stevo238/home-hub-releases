@@ -1,5 +1,5 @@
 {
-  "version": "1.83.0",
-  "notes": "Sign in with Google is now an option on the login page (at hub.motronimeadows.com). It doesn't replace passwords, which work exactly as before. On the Admin page, use \"Link Google account\" on a user to choose which Google address signs in as that person. A Google account that isn't linked to anyone can't get in.",
-  "url": "https://github.com/Stevo238/home-hub-releases/releases/download/v1.83.0/HomeHub.exe"
+  "version": "1.84.0",
+  "notes": "The Admin page is tidier: users come first, permissions are grouped with short names, and each person's card is split into what they can open, how they sign in, and their devices. New per-account switch, \"Google only from outside the house\": when it's on, that person's password is refused from the internet, so they have to use Sign in with Google there. The password still works at home.",
+  "url": "https://github.com/Stevo238/home-hub-releases/releases/download/v1.84.0/HomeHub.exe"
 }
