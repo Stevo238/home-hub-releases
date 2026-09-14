@@ -1,5 +1,5 @@
 {
-  "version": "1.82.0",
-  "notes": "A Budget tile joins the Everyday group. It opens the new Family Budget app (budget.motronimeadows.com), which reads the statement files you download from Chase, American Express and USAA and shows spending against monthly limits per category. Nobody sees it until an admin grants them the new \"Budget\" permission on the Admin page.",
-  "url": "https://github.com/Stevo238/home-hub-releases/releases/download/v1.82.0/HomeHub.exe"
+  "version": "1.83.0",
+  "notes": "Sign in with Google is now an option on the login page (at hub.motronimeadows.com). It doesn't replace passwords, which work exactly as before. On the Admin page, use \"Link Google account\" on a user to choose which Google address signs in as that person. A Google account that isn't linked to anyone can't get in.",
+  "url": "https://github.com/Stevo238/home-hub-releases/releases/download/v1.83.0/HomeHub.exe"
 }
