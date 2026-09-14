@@ -1,5 +1,5 @@
 {
-  "version": "1.84.0",
-  "notes": "The Admin page is tidier: users come first, permissions are grouped with short names, and each person's card is split into what they can open, how they sign in, and their devices. New per-account switch, \"Google only from outside the house\": when it's on, that person's password is refused from the internet, so they have to use Sign in with Google there. The password still works at home.",
-  "url": "https://github.com/Stevo238/home-hub-releases/releases/download/v1.84.0/HomeHub.exe"
+    "version":  "1.85.0",
+    "notes":  "The blurred meadow behind every hub page now changes with the seasons - spring, summer, fall and winter - using the same photos and the same dates as the motronimeadows.com front page, so the two always match.",
+    "url":  "https://github.com/Stevo238/home-hub-releases/releases/download/v1.85.0/HomeHub.exe"
 }
