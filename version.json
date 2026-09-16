@@ -1,5 +1,5 @@
 {
-    "version":  "1.90.0",
-    "notes":  "Kitchen wall page: a proper weather card with a 5-day forecast, the house at a glance (doors, garage, thermostat, who\u0027s home, smoke and leak alerts), the hub\u0027s own icons, and tabs that stay inside the wall instead of opening bare pages. Laid out at true wall size so it looks the same on a laptop.",
-    "url":  "https://github.com/Stevo238/home-hub-releases/releases/download/v1.90.0/HomeHub.exe"
+    "version":  "1.90.1",
+    "notes":  "Small fix: the hub home page had two links to the chore board - the tile and one on the Family heading. The heading link is gone; the tile and the person rows still get you there.",
+    "url":  "https://github.com/Stevo238/home-hub-releases/releases/download/v1.90.1/HomeHub.exe"
 }
