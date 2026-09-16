@@ -1,5 +1,5 @@
 {
-    "version":  "1.88.0",
-    "notes":  "New kitchen wall page at /wall.html: clock, weather with a 5-day forecast, tonight\u0027s dinner, the message board, the Grocery and Costco lists, the week calendar and the family tasks - all drawn by the hub. The wall screen itself is not switched over to it yet.",
-    "url":  "https://github.com/Stevo238/home-hub-releases/releases/download/v1.88.0/HomeHub.exe"
+    "version":  "1.90.0",
+    "notes":  "Kitchen wall page: a proper weather card with a 5-day forecast, the house at a glance (doors, garage, thermostat, who\u0027s home, smoke and leak alerts), the hub\u0027s own icons, and tabs that stay inside the wall instead of opening bare pages. Laid out at true wall size so it looks the same on a laptop.",
+    "url":  "https://github.com/Stevo238/home-hub-releases/releases/download/v1.90.0/HomeHub.exe"
 }
