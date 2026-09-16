@@ -1,5 +1,5 @@
 {
-    "version":  "1.90.1",
-    "notes":  "Small fix: the hub home page had two links to the chore board - the tile and one on the Family heading. The heading link is gone; the tile and the person rows still get you there.",
-    "url":  "https://github.com/Stevo238/home-hub-releases/releases/download/v1.90.1/HomeHub.exe"
+    "version":  "1.91.0",
+    "notes":  "The kitchen Command Center background is a little softer - more blur and a touch more blue, so the cards stand out more while the meadow still shows through.",
+    "url":  "https://github.com/Stevo238/home-hub-releases/releases/download/v1.91.0/HomeHub.exe"
 }
