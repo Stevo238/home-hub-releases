@@ -1,5 +1,5 @@
 {
-    "version":  "1.87.0",
-    "notes":  "The kitchen wall background now shows the meadow clearly - the first version was softened so much you could hardly tell what it was.",
-    "url":  "https://github.com/Stevo238/home-hub-releases/releases/download/v1.87.0/HomeHub.exe"
+    "version":  "1.88.0",
+    "notes":  "New kitchen wall page at /wall.html: clock, weather with a 5-day forecast, tonight\u0027s dinner, the message board, the Grocery and Costco lists, the week calendar and the family tasks - all drawn by the hub. The wall screen itself is not switched over to it yet.",
+    "url":  "https://github.com/Stevo238/home-hub-releases/releases/download/v1.88.0/HomeHub.exe"
 }
