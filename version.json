@@ -1,5 +1,5 @@
 {
-    "version": "1.92.0",
-    "notes": "New Trail Cameras page: the hub now pulls your Browning game-camera photos down from Strike Force Wireless every hour and keeps them here for 90 days. Browse by day, filter by camera or by what was in frame (Deer, Person, Turkey), click any photo for the full frame.",
-    "url": "https://github.com/Stevo238/home-hub-releases/releases/download/v1.92.0/HomeHub.exe"
+    "version": "1.93.0",
+    "notes": "Trail cameras reach the kitchen wall: a deer (or whatever you flag) puts a banner on the Command Center, and a chip up top opens the photos. Pick which labels raise a banner on the Trail Cameras page.",
+    "url": "https://github.com/Stevo238/home-hub-releases/releases/download/v1.93.0/HomeHub.exe"
 }
