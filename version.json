@@ -1,5 +1,5 @@
 {
-    "version":  "1.91.0",
-    "notes":  "The kitchen Command Center background is a little softer - more blur and a touch more blue, so the cards stand out more while the meadow still shows through.",
-    "url":  "https://github.com/Stevo238/home-hub-releases/releases/download/v1.91.0/HomeHub.exe"
+    "version": "1.92.0",
+    "notes": "New Trail Cameras page: the hub now pulls your Browning game-camera photos down from Strike Force Wireless every hour and keeps them here for 90 days. Browse by day, filter by camera or by what was in frame (Deer, Person, Turkey), click any photo for the full frame.",
+    "url": "https://github.com/Stevo238/home-hub-releases/releases/download/v1.92.0/HomeHub.exe"
 }
