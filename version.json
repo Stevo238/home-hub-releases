@@ -1,5 +1,5 @@
 {
-    "version": "1.93.0",
-    "notes": "Trail cameras reach the kitchen wall: a deer (or whatever you flag) puts a banner on the Command Center, and a chip up top opens the photos. Pick which labels raise a banner on the Trail Cameras page.",
-    "url": "https://github.com/Stevo238/home-hub-releases/releases/download/v1.93.0/HomeHub.exe"
+    "version": "1.93.1",
+    "notes": "Trail cameras now open inside the Command Center rather than navigating away from it, so the kitchen wall keeps its kiosk layout. The flagged sighting leads as a full-width photo, and choosing which animals raise a banner has moved behind a Manage button.",
+    "url": "https://github.com/Stevo238/home-hub-releases/releases/download/v1.93.1/HomeHub.exe"
 }
