@@ -1,5 +1,5 @@
 {
-    "version": "1.93.1",
-    "notes": "Trail cameras now open inside the Command Center rather than navigating away from it, so the kitchen wall keeps its kiosk layout. The flagged sighting leads as a full-width photo, and choosing which animals raise a banner has moved behind a Manage button.",
-    "url": "https://github.com/Stevo238/home-hub-releases/releases/download/v1.93.1/HomeHub.exe"
+    "version": "1.93.2",
+    "notes": "Trail Cameras: Check now can no longer collide with the hourly check, and it reports as soon as the check finishes instead of sitting on 'Checking\u2026' for 40 seconds.",
+    "url": "https://github.com/Stevo238/home-hub-releases/releases/download/v1.93.2/HomeHub.exe"
 }
