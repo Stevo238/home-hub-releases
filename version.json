@@ -1,5 +1,5 @@
 {
-    "version": "1.94.0",
-    "notes": "Stack Health now checks every UniFi access point and switch, not just the controller \u2014 an offline device turns red by name and shows in the banner (no phone push). The Claude Code host row shows which version is running against the one installed, with an Update & restart button. The Server card's CPU reading no longer drops to a dash, and the disk and memory figures match between the two cards.",
-    "url": "https://github.com/Stevo238/home-hub-releases/releases/download/v1.94.0/HomeHub.exe"
+    "version": "1.95.0",
+    "notes": "Polish round. Family Management's buttons now match the rest of the hub, and Reset to 0 is readable. The Month calendar works on a phone: a list of days with full titles instead of a squeezed grid, and no more sideways scrolling. Activity groups a run of chores into one row (\"Neliya finished 9 chores\") that opens to the list. Also: cameras two across on a phone, start times on short Week events, and friendlier dates in the chore log and Maintenance.",
+    "url": "https://github.com/Stevo238/home-hub-releases/releases/download/v1.95.0/HomeHub.exe"
 }
