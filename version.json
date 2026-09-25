@@ -1,6 +1,6 @@
 {
-    "version":  "1.99.0",
-    "notes":  "Security update. The kitchen screens now have to show a secret key as well as come from the right address, so another gadget on the smart-home Wi-Fi can\u0027t pretend to be one. The hub also checks each update\u0027s fingerprint before installing it, and refuses any download that doesn\u0027t match exactly.",
-    "url":  "https://github.com/Stevo238/home-hub-releases/releases/download/v1.99.0/HomeHub.exe",
-    "sha256":  "202e6557e86e76043c5cae554e57a28b9ae8b9c1ea5d9d3fbd298e5645cf23df"
+    "version":  "1.100.0",
+    "notes":  "New game: Round-Up. It\u0027s a new tile on the home page. Herd the cattle into the corral and shut the gate before time runs out, while the other one of you stands by the fence yelling advice. Play as Stephen or Roxann, pick who does the yelling (or nobody), and try to top the family leaderboard. Works on phones and computers.",
+    "url":  "https://github.com/Stevo238/home-hub-releases/releases/download/v1.100.0/HomeHub.exe",
+    "sha256":  "300687d29cb2eb0c88696263fbc8a29179c6a14744208ce6ea3b226bdaedaa7b"
 }
