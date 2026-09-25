@@ -1,5 +1,6 @@
 {
-    "version":  "1.98.0",
-    "notes":  "Faster and lighter. The hub now asks Home Assistant for the whole house status in one request instead of 22, and the kids\u0027 board, chore engine and internet check share one read of each chore list. The freezer log keeps recording the other freezers if one sensor goes missing, and Stack Health has a new Freezer recording row that turns red if readings stop. Kitchen screens use smaller camera and trail-cam images, stop updating when nobody is looking, stop the endless prize-banner shimmer, and reload themselves after a hub update. The hub also runs on a proper production web server now.",
-    "url":  "https://github.com/Stevo238/home-hub-releases/releases/download/v1.98.0/HomeHub.exe"
+    "version":  "1.99.0",
+    "notes":  "Security update. The kitchen screens now have to show a secret key as well as come from the right address, so another gadget on the smart-home Wi-Fi can\u0027t pretend to be one. The hub also checks each update\u0027s fingerprint before installing it, and refuses any download that doesn\u0027t match exactly.",
+    "url":  "https://github.com/Stevo238/home-hub-releases/releases/download/v1.99.0/HomeHub.exe",
+    "sha256":  "202e6557e86e76043c5cae554e57a28b9ae8b9c1ea5d9d3fbd298e5645cf23df"
 }
