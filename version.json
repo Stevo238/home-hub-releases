@@ -1,5 +1,5 @@
 {
-    "version":  "1.97.0",
-    "notes":  "Security update. Closes a hole in the Files trash that could have let someone with Files access take over the hub, and makes first-time setup impossible to re-open. Links, forms and recipe imports can no longer be used to reach inside the house or act for you from another site. Kids\u0027 stars and allowance no longer go missing when a parent edits them at the same moment the chore board updates. Changing your password now signs out your other devices, and Stack Health restarts are logged with who pressed them.",
-    "url":  "https://github.com/Stevo238/home-hub-releases/releases/download/v1.97.0/HomeHub.exe"
+    "version":  "1.98.0",
+    "notes":  "Faster and lighter. The hub now asks Home Assistant for the whole house status in one request instead of 22, and the kids\u0027 board, chore engine and internet check share one read of each chore list. The freezer log keeps recording the other freezers if one sensor goes missing, and Stack Health has a new Freezer recording row that turns red if readings stop. Kitchen screens use smaller camera and trail-cam images, stop updating when nobody is looking, stop the endless prize-banner shimmer, and reload themselves after a hub update. The hub also runs on a proper production web server now.",
+    "url":  "https://github.com/Stevo238/home-hub-releases/releases/download/v1.98.0/HomeHub.exe"
 }
