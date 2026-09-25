@@ -1,5 +1,5 @@
 {
-    "version": "1.96.0",
-    "notes": "The chore board separates one-off to-dos from the day's chores: they get their own To-do heading and no longer count toward \"done today\" (\"0 of 2 done today \u00b7 6 to-dos\"). One-off chores can now have an optional due date, shown as \"due Fri\" and turning red once overdue; the home page shows each person's to-do count. Also: the Maintenance card no longer wraps \"in 1d\" on a phone, the phone footer is tidier, and points cards without a goal say so.",
-    "url": "https://github.com/Stevo238/home-hub-releases/releases/download/v1.96.0/HomeHub.exe"
+    "version":  "1.97.0",
+    "notes":  "Security update. Closes a hole in the Files trash that could have let someone with Files access take over the hub, and makes first-time setup impossible to re-open. Links, forms and recipe imports can no longer be used to reach inside the house or act for you from another site. Kids\u0027 stars and allowance no longer go missing when a parent edits them at the same moment the chore board updates. Changing your password now signs out your other devices, and Stack Health restarts are logged with who pressed them.",
+    "url":  "https://github.com/Stevo238/home-hub-releases/releases/download/v1.97.0/HomeHub.exe"
 }
