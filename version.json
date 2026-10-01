@@ -1,6 +1,6 @@
 {
-    "version":  "1.101.0",
-    "notes":  "Round-Up now has chute work. After you pen each level, you run a few head through the Priefert: catch her in the headgate, shots in the neck (not the rump!), pour-on down her back, glove up and preg-check the cows, then turn her loose. The other one of you has opinions about all of it. You can switch chute work off on the start screen.",
-    "url":  "https://github.com/Stevo238/home-hub-releases/releases/download/v1.101.0/HomeHub.exe",
-    "sha256":  "83096c00a690defb1540fa57964bd0a12cc0eb86bbf2d14fb32e10e9567ea0a9"
+    "version":  "1.102.0",
+    "notes":  "New AI Trader tile under Mine: opens the paper-trading bot\u0027s status page (account value, cash, positions and the daily run log). Admins see it automatically; anyone else needs the new AI Trader permission on the Admin page.",
+    "url":  "https://github.com/Stevo238/home-hub-releases/releases/download/v1.102.0/HomeHub.exe",
+    "sha256":  "d69ec7bc50c8a5e2727c4449d4123188305bb557424204ac2ae96389404271eb"
 }
