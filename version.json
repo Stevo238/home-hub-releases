@@ -1,6 +1,6 @@
 {
-    "version": "1.103.0",
-    "notes": "Preview of the new wall panels: the kitchen and mud room screens rebuilt as hub pages (same pages, tiles, icons and animated weather card). Nothing on the wall changes yet - the screens still show Home Assistant until you say switch.",
-    "url": "https://github.com/Stevo238/home-hub-releases/releases/download/v1.103.0/HomeHub.exe",
-    "sha256": "89056524a5ccba4de9021e69c125e430cb8a9cb10c75ed6c4e44dfe64077e805"
+    "version": "1.104.0",
+    "notes": "Kitchen wall: when someone walks into either driveway, that camera fills the screen for 20 seconds (tap to close). The wall screens now check themselves and restart their browser if they ever freeze; see Wall screens on Stack Health.",
+    "url": "https://github.com/Stevo238/home-hub-releases/releases/download/v1.104.0/HomeHub.exe",
+    "sha256": "1078185407fbbca947476dcf38429ae7d7e6c89abb88a7bbee1884556a4c5c41"
 }
