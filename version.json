@@ -1,6 +1,6 @@
 {
-    "version":  "1.102.0",
-    "notes":  "New AI Trader tile under Mine: opens the paper-trading bot\u0027s status page (account value, cash, positions and the daily run log). Admins see it automatically; anyone else needs the new AI Trader permission on the Admin page.",
-    "url":  "https://github.com/Stevo238/home-hub-releases/releases/download/v1.102.0/HomeHub.exe",
-    "sha256":  "d69ec7bc50c8a5e2727c4449d4123188305bb557424204ac2ae96389404271eb"
+    "version": "1.103.0",
+    "notes": "Preview of the new wall panels: the kitchen and mud room screens rebuilt as hub pages (same pages, tiles, icons and animated weather card). Nothing on the wall changes yet - the screens still show Home Assistant until you say switch.",
+    "url": "https://github.com/Stevo238/home-hub-releases/releases/download/v1.103.0/HomeHub.exe",
+    "sha256": "89056524a5ccba4de9021e69c125e430cb8a9cb10c75ed6c4e44dfe64077e805"
 }
