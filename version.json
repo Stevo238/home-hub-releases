@@ -1,6 +1,6 @@
 {
-    "version": "1.108.0",
-    "notes": "Wall Themes: the 4th of July and New Year themes now have real fireworks - bursts of glowing sparks in red, white and blue (gold for New Year).",
-    "url": "https://github.com/Stevo238/home-hub-releases/releases/download/v1.108.0/HomeHub.exe",
-    "sha256": "c9eaff540c235dad89350caadcd49ac3289f96a44071e57d39dcff54f8802286"
+    "version": "1.109.0",
+    "notes": "The Wall Themes tile now lives under Manage. Also in this update: real fireworks for the 4th of July and New Year themes.",
+    "url": "https://github.com/Stevo238/home-hub-releases/releases/download/v1.109.0/HomeHub.exe",
+    "sha256": "b38862f41e0c36a2d23ae7a4607e3b7077b55ba053f014032426038011d6639b"
 }
