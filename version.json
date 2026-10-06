@@ -1,6 +1,6 @@
 {
-    "version": "1.121.0",
-    "notes": "House app: swiping between pages now works on phones, fans spin when on, and there are new Music, Farm and Status pages.",
-    "url": "https://github.com/Stevo238/home-hub-releases/releases/download/v1.121.0/HomeHub.exe",
-    "sha256": "88cd8bcd8a0b4038d2660ebae4606def394703041710b3706e8e1f6b8358c770"
+    "version": "1.122.0",
+    "notes": "House app: press and hold a light for brightness, white and colour; the Status page shows the wall screens properly.",
+    "url": "https://github.com/Stevo238/home-hub-releases/releases/download/v1.122.0/HomeHub.exe",
+    "sha256": "1616906e8c40b08d9210b508f52717082f9a0fa680bce0b00eba43a301c0ce31"
 }
