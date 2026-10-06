@@ -1,6 +1,6 @@
 {
-    "version": "1.110.0",
-    "notes": "Tap \"Up to date\" in the footer to check for a new version right away. Update checks now always see the newest release. Also included: Wall Themes under Manage, real fireworks.",
-    "url": "https://github.com/Stevo238/home-hub-releases/releases/download/v1.110.0/HomeHub.exe",
-    "sha256": "6a0ce283197604b4bef2d8783c3f087942b52c9fb092f60e4a5815fa2aa8ba8c"
+    "version": "1.111.0",
+    "notes": "Wall screens: swipe between pages; slide a finger across a light to dim it; tap any camera for full screen; tiles react (lights glow, open doors pulse, garage shows Opening/Closing); a live sky behind the weather; sun and moon arc on the weather page; the slideshow slowly pans and zooms with the time and weather in the corner.",
+    "url": "https://github.com/Stevo238/home-hub-releases/releases/download/v1.111.0/HomeHub.exe",
+    "sha256": "d4f30482d9598ee2444a0663fd6e77c532cae5bd1f36af02aab8947e6f0b6d7b"
 }
