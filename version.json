@@ -1,6 +1,6 @@
 {
-    "version": "1.120.0",
-    "notes": "The House app now has four pages you can swipe between: Controls, Leave & Bedtime, Climate, and Cameras (admins).",
-    "url": "https://github.com/Stevo238/home-hub-releases/releases/download/v1.120.0/HomeHub.exe",
-    "sha256": "d8c7b7abd523f00973219406e1f70f82e08fd3d5842512dd587ad7e5c42b717f"
+    "version": "1.121.0",
+    "notes": "House app: swiping between pages now works on phones, fans spin when on, and there are new Music, Farm and Status pages.",
+    "url": "https://github.com/Stevo238/home-hub-releases/releases/download/v1.121.0/HomeHub.exe",
+    "sha256": "88cd8bcd8a0b4038d2660ebae4606def394703041710b3706e8e1f6b8358c770"
 }
