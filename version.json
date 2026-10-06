@@ -1,6 +1,6 @@
 {
-    "version": "1.116.0",
-    "notes": "New House Controls (tile under The House): your phone dashboard on the hub - lights, fans, garage doors and the back door lock, at home or away. Open it and choose Install to get it as its own app. Give other family members access with the new Home Controls permission in Admin.",
-    "url": "https://github.com/Stevo238/home-hub-releases/releases/download/v1.116.0/HomeHub.exe",
-    "sha256": "28654f3918e0892bda0258fe3ffbecfcc5d68d6154be7db4d585c9854a7b37db"
+    "version": "1.117.0",
+    "notes": "House Controls now matches the Home Hub look and fits on one phone screen without scrolling, with an Install button when your phone allows it.",
+    "url": "https://github.com/Stevo238/home-hub-releases/releases/download/v1.117.0/HomeHub.exe",
+    "sha256": "51c03b44f9df6665d69ef0c7df48e0a77b63c2ab458a492305175f245ccee142"
 }
