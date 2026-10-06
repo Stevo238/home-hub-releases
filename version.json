@@ -1,6 +1,6 @@
 {
-    "version": "1.105.0",
-    "notes": "Kitchen wall: tap the weather card for a weather page with a moving rain radar, the next 24 hours and the week. Also: when someone walks into either driveway, that camera fills the screen for 20 seconds; the wall screens now check themselves and restart if they freeze (Wall screens on Stack Health).",
-    "url": "https://github.com/Stevo238/home-hub-releases/releases/download/v1.105.0/HomeHub.exe",
-    "sha256": "521cf85c1c4805629f0e4d1f13c45d3c7a6f73e33afb3042f46003d8c91c1eed"
+    "version": "1.106.0",
+    "notes": "New Wall Themes page (tile on the Home Hub): holiday and birthday looks for the kitchen and mud room screens. Pick automatic-by-date or one theme, which holidays, how much decoration, whose birthdays and which screens. Starts off.",
+    "url": "https://github.com/Stevo238/home-hub-releases/releases/download/v1.106.0/HomeHub.exe",
+    "sha256": "a54f412680f54996104815d413d7f2680080200d6cef58914aa316205110bbff"
 }
