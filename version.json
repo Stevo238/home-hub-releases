@@ -1,6 +1,6 @@
 {
-    "version": "1.118.0",
-    "notes": "The House Controls app has its own icon (wheat in a house) so it stands apart from the Home Hub, and the House Controls tile now opens the installable house address.",
-    "url": "https://github.com/Stevo238/home-hub-releases/releases/download/v1.118.0/HomeHub.exe",
-    "sha256": "9fadb0e2844be8de6fc4fc9c230b3e1d035c13b80755b567200e44727af0314b"
+    "version": "1.119.0",
+    "notes": "House Controls now shows the blurred meadow background, like the rest of the Home Hub.",
+    "url": "https://github.com/Stevo238/home-hub-releases/releases/download/v1.119.0/HomeHub.exe",
+    "sha256": "701a562a65dedd311e163cf7616e560872e969b13c445728de3892ffad7ede9f"
 }
