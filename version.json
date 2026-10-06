@@ -1,6 +1,6 @@
 {
-    "version": "1.107.0",
-    "notes": "Wall Themes: every holiday now moves - bats and ghosts for Halloween, rising hearts, falling shamrocks, Easter butterflies, 4th of July fireworks. Countdowns now count to next year when the date has passed.",
-    "url": "https://github.com/Stevo238/home-hub-releases/releases/download/v1.107.0/HomeHub.exe",
-    "sha256": "11a124400e6d01513a19da79f7d619de1bd910215cf60099cb64eec554d430c2"
+    "version": "1.108.0",
+    "notes": "Wall Themes: the 4th of July and New Year themes now have real fireworks - bursts of glowing sparks in red, white and blue (gold for New Year).",
+    "url": "https://github.com/Stevo238/home-hub-releases/releases/download/v1.108.0/HomeHub.exe",
+    "sha256": "c9eaff540c235dad89350caadcd49ac3289f96a44071e57d39dcff54f8802286"
 }
