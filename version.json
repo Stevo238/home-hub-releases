@@ -1,6 +1,6 @@
 {
-    "version": "1.114.0",
-    "notes": "Wall screens: taps are easy to see (a ripple from your finger and a bright flash when it is done - tiles no longer blink out); garage tiles show Opening/Closing for the real travel time; the open-door ring pulses three times then stays red; slow Home Assistant answers no longer show an error box.",
-    "url": "https://github.com/Stevo238/home-hub-releases/releases/download/v1.114.0/HomeHub.exe",
-    "sha256": "bfdc0367f69ae416e1d22528b60ccea843bcbaa13257f27c96589393a23c239c"
+    "version": "1.115.0",
+    "notes": "Mud room: new Leave page - what to wear from the forecast, whether the house is shut (with one-tap Lock, Close garage, Lock & close all and All lights off), the next departure countdown, what is coming up, and trash day with a Cans are out button. It shows itself during the school departure countdown.",
+    "url": "https://github.com/Stevo238/home-hub-releases/releases/download/v1.115.0/HomeHub.exe",
+    "sha256": "e2f177303ab07f36ba4963c61589bc969958f1961edcd319a40ea02c81e39d43"
 }
