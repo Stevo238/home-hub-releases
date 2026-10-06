@@ -1,6 +1,6 @@
 {
-    "version": "1.119.0",
-    "notes": "House Controls now shows the blurred meadow background, like the rest of the Home Hub.",
-    "url": "https://github.com/Stevo238/home-hub-releases/releases/download/v1.119.0/HomeHub.exe",
-    "sha256": "701a562a65dedd311e163cf7616e560872e969b13c445728de3892ffad7ede9f"
+    "version": "1.120.0",
+    "notes": "The House app now has four pages you can swipe between: Controls, Leave & Bedtime, Climate, and Cameras (admins).",
+    "url": "https://github.com/Stevo238/home-hub-releases/releases/download/v1.120.0/HomeHub.exe",
+    "sha256": "d8c7b7abd523f00973219406e1f70f82e08fd3d5842512dd587ad7e5c42b717f"
 }
