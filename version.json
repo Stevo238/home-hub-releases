@@ -1,6 +1,6 @@
 {
-    "version": "1.113.0",
-    "notes": "Kitchen wall: page buttons in a sensible order (Home, calendars, Dinner then Cooking, Security then Trail Cams, Entertainment then Slideshow, Refresh last). Festive holiday decorations now stay beside the clock instead of showing through the weather card.",
-    "url": "https://github.com/Stevo238/home-hub-releases/releases/download/v1.113.0/HomeHub.exe",
-    "sha256": "712601ceee2b985a9585cc7fce276dc98c9e4b88a58333faa9e5c9d68f8b1628"
+    "version": "1.114.0",
+    "notes": "Wall screens: taps are easy to see (a ripple from your finger and a bright flash when it is done - tiles no longer blink out); garage tiles show Opening/Closing for the real travel time; the open-door ring pulses three times then stays red; slow Home Assistant answers no longer show an error box.",
+    "url": "https://github.com/Stevo238/home-hub-releases/releases/download/v1.114.0/HomeHub.exe",
+    "sha256": "bfdc0367f69ae416e1d22528b60ccea843bcbaa13257f27c96589393a23c239c"
 }
