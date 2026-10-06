@@ -1,6 +1,6 @@
 {
-    "version": "1.115.0",
-    "notes": "Mud room: new Leave page - what to wear from the forecast, whether the house is shut (with one-tap Lock, Close garage, Lock & close all and All lights off), the next departure countdown, what is coming up, and trash day with a Cans are out button. It shows itself during the school departure countdown.",
-    "url": "https://github.com/Stevo238/home-hub-releases/releases/download/v1.115.0/HomeHub.exe",
-    "sha256": "e2f177303ab07f36ba4963c61589bc969958f1961edcd319a40ea02c81e39d43"
+    "version": "1.116.0",
+    "notes": "New House Controls (tile under The House): your phone dashboard on the hub - lights, fans, garage doors and the back door lock, at home or away. Open it and choose Install to get it as its own app. Give other family members access with the new Home Controls permission in Admin.",
+    "url": "https://github.com/Stevo238/home-hub-releases/releases/download/v1.116.0/HomeHub.exe",
+    "sha256": "28654f3918e0892bda0258fe3ffbecfcc5d68d6154be7db4d585c9854a7b37db"
 }
