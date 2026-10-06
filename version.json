@@ -1,6 +1,6 @@
 {
-    "version": "1.122.0",
-    "notes": "House app: press and hold a light for brightness, white and colour; the Status page shows the wall screens properly.",
-    "url": "https://github.com/Stevo238/home-hub-releases/releases/download/v1.122.0/HomeHub.exe",
-    "sha256": "1616906e8c40b08d9210b508f52717082f9a0fa680bce0b00eba43a301c0ce31"
+    "version": "1.123.0",
+    "notes": "House app: the Climate page now shows the weather outside - now, today's high and low, and the next six hours.",
+    "url": "https://github.com/Stevo238/home-hub-releases/releases/download/v1.123.0/HomeHub.exe",
+    "sha256": "104ea45643021356bd3dbb4c43ed3dbfde7772ce88f46eb42eb8cf586e60e696"
 }
