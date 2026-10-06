@@ -1,6 +1,6 @@
 {
-    "version": "1.123.0",
-    "notes": "House app: the Climate page now shows the weather outside - now, today's high and low, and the next six hours.",
-    "url": "https://github.com/Stevo238/home-hub-releases/releases/download/v1.123.0/HomeHub.exe",
-    "sha256": "104ea45643021356bd3dbb4c43ed3dbfde7772ce88f46eb42eb8cf586e60e696"
+    "version": "1.124.0",
+    "notes": "House app: tiles are a little taller so nothing is cut off (the open-garage ring, the in-bed tiles).",
+    "url": "https://github.com/Stevo238/home-hub-releases/releases/download/v1.124.0/HomeHub.exe",
+    "sha256": "20c7aa9b975698f5c7b7243fd38c81f007d7ab008da572d0f13f76d0b8123c2f"
 }
