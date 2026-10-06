@@ -1,6 +1,6 @@
 {
-    "version": "1.109.0",
-    "notes": "The Wall Themes tile now lives under Manage. Also in this update: real fireworks for the 4th of July and New Year themes.",
-    "url": "https://github.com/Stevo238/home-hub-releases/releases/download/v1.109.0/HomeHub.exe",
-    "sha256": "b38862f41e0c36a2d23ae7a4607e3b7077b55ba053f014032426038011d6639b"
+    "version": "1.110.0",
+    "notes": "Tap \"Up to date\" in the footer to check for a new version right away. Update checks now always see the newest release. Also included: Wall Themes under Manage, real fireworks.",
+    "url": "https://github.com/Stevo238/home-hub-releases/releases/download/v1.110.0/HomeHub.exe",
+    "sha256": "6a0ce283197604b4bef2d8783c3f087942b52c9fb092f60e4a5815fa2aa8ba8c"
 }
