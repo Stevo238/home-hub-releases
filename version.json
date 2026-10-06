@@ -1,6 +1,6 @@
 {
-    "version": "1.117.0",
-    "notes": "House Controls now matches the Home Hub look and fits on one phone screen without scrolling, with an Install button when your phone allows it.",
-    "url": "https://github.com/Stevo238/home-hub-releases/releases/download/v1.117.0/HomeHub.exe",
-    "sha256": "51c03b44f9df6665d69ef0c7df48e0a77b63c2ab458a492305175f245ccee142"
+    "version": "1.118.0",
+    "notes": "The House Controls app has its own icon (wheat in a house) so it stands apart from the Home Hub, and the House Controls tile now opens the installable house address.",
+    "url": "https://github.com/Stevo238/home-hub-releases/releases/download/v1.118.0/HomeHub.exe",
+    "sha256": "9fadb0e2844be8de6fc4fc9c230b3e1d035c13b80755b567200e44727af0314b"
 }
