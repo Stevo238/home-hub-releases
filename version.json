@@ -1,6 +1,6 @@
 {
-    "version": "1.106.0",
-    "notes": "New Wall Themes page (tile on the Home Hub): holiday and birthday looks for the kitchen and mud room screens. Pick automatic-by-date or one theme, which holidays, how much decoration, whose birthdays and which screens. Starts off.",
-    "url": "https://github.com/Stevo238/home-hub-releases/releases/download/v1.106.0/HomeHub.exe",
-    "sha256": "a54f412680f54996104815d413d7f2680080200d6cef58914aa316205110bbff"
+    "version": "1.107.0",
+    "notes": "Wall Themes: every holiday now moves - bats and ghosts for Halloween, rising hearts, falling shamrocks, Easter butterflies, 4th of July fireworks. Countdowns now count to next year when the date has passed.",
+    "url": "https://github.com/Stevo238/home-hub-releases/releases/download/v1.107.0/HomeHub.exe",
+    "sha256": "11a124400e6d01513a19da79f7d619de1bd910215cf60099cb64eec554d430c2"
 }
