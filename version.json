@@ -1,6 +1,6 @@
 {
-    "version": "1.124.0",
-    "notes": "House app: tiles are a little taller so nothing is cut off (the open-garage ring, the in-bed tiles).",
-    "url": "https://github.com/Stevo238/home-hub-releases/releases/download/v1.124.0/HomeHub.exe",
-    "sha256": "20c7aa9b975698f5c7b7243fd38c81f007d7ab008da572d0f13f76d0b8123c2f"
+    "version": "1.125.0",
+    "notes": "House app: the Bedtime button only shows in the evening (6 PM to 4 AM).",
+    "url": "https://github.com/Stevo238/home-hub-releases/releases/download/v1.125.0/HomeHub.exe",
+    "sha256": "a59b2800152d2a9f076b671a3f6ad7ebb25dfca1febf045afc91a5e77d1e0617"
 }
