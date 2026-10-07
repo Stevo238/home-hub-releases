@@ -1,6 +1,6 @@
 {
-    "version": "1.125.0",
-    "notes": "House app: the Bedtime button only shows in the evening (6 PM to 4 AM).",
-    "url": "https://github.com/Stevo238/home-hub-releases/releases/download/v1.125.0/HomeHub.exe",
-    "sha256": "a59b2800152d2a9f076b671a3f6ad7ebb25dfca1febf045afc91a5e77d1e0617"
+    "version": "1.126.0",
+    "notes": "House app: the Farm page now shows the pasture cameras (North Run-in, Power Pole) and whether the farm house network is up; the trail camera is a small strip at the bottom. Bed Up has its own icon and the bed tiles show who's in bed by colour alone.",
+    "url": "https://github.com/Stevo238/home-hub-releases/releases/download/v1.126.0/HomeHub.exe",
+    "sha256": "4cd4dd8a3f96e1dba9eaa6c2a21b823ae542926608f31afe68ea6cebb5a1ba0f"
 }
