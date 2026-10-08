@@ -1,6 +1,6 @@
 {
-    "version":  "1.129.0",
-    "notes":  "House app: Controls is trimmed - the ceiling fans have their own row (with their own all-off), and who\u0027s in bed plus Bed Up / Bed Down moved to the Leave \u0026 Bedtime page.",
-    "url":  "https://github.com/Stevo238/home-hub-releases/releases/download/v1.129.0/HomeHub.exe",
-    "sha256":  "7143ef5074204695fd42a6e7d16e6871fcb776130d8195723be2e1a7cc85f1f1"
+    "version":  "1.129.1",
+    "notes":  "House app: each room on the Controls page now sits on its own panel, so the rooms no longer blend together.",
+    "url":  "https://github.com/Stevo238/home-hub-releases/releases/download/v1.129.1/HomeHub.exe",
+    "sha256":  "450dbdbbbc678009977fbf48919759a863c09c29b183bb9fb292276a8e1c5fa2"
 }
