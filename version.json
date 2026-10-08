@@ -1,6 +1,6 @@
 {
-    "version":  "1.129.1",
-    "notes":  "House app: each room on the Controls page now sits on its own panel, so the rooms no longer blend together.",
-    "url":  "https://github.com/Stevo238/home-hub-releases/releases/download/v1.129.1/HomeHub.exe",
-    "sha256":  "450dbdbbbc678009977fbf48919759a863c09c29b183bb9fb292276a8e1c5fa2"
+    "version":  "1.130.0",
+    "notes":  "House app: every page now has the Controls look - sections on panels, status shown by icon colour instead of words, room temperatures as chips. Night forecasts show a moon instead of a sun (on the kitchen wall too).",
+    "url":  "https://github.com/Stevo238/home-hub-releases/releases/download/v1.130.0/HomeHub.exe",
+    "sha256":  "22646cb0fe5a19e3e87b23c39c33bca89e97047066ea229b3aa445351b439ba0"
 }
