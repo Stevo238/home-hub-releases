@@ -1,6 +1,6 @@
 {
-    "version":  "1.131.0",
-    "notes":  "House Brain, part 1: a morning brief written for you at 5:30 AM from everything the hub knows - calendar, dinner, weather, freezers, upkeep, chores, trail cams. It is the new first page (Brief) in the House phone app.",
-    "url":  "https://github.com/Stevo238/home-hub-releases/releases/download/v1.131.0/HomeHub.exe",
-    "sha256":  "62a74af27592d1407a5437bac2e5d3ae7766ff509fc174c3ae596db0bd86fe69"
+    "version":  "1.132.0",
+    "notes":  "House Brain: your 5:30 AM brief now reads both Gmail accounts (personal and family) and flags only what needs you - school, childcare, bills, deliveries, and any account-security alert. It's the Brief page in the House phone app.",
+    "url":  "https://github.com/Stevo238/home-hub-releases/releases/download/v1.132.0/HomeHub.exe",
+    "sha256":  "e2300e66fb070bbf777ad7877c6e0adccb969f49b182e4b9d6934bbadf1226de"
 }
