@@ -1,6 +1,6 @@
 {
-    "version": "1.126.0",
-    "notes": "House app: the Farm page now shows the pasture cameras (North Run-in, Power Pole) and whether the farm house network is up; the trail camera is a small strip at the bottom. Bed Up has its own icon and the bed tiles show who's in bed by colour alone.",
-    "url": "https://github.com/Stevo238/home-hub-releases/releases/download/v1.126.0/HomeHub.exe",
-    "sha256": "4cd4dd8a3f96e1dba9eaa6c2a21b823ae542926608f31afe68ea6cebb5a1ba0f"
+    "version":  "1.127.0",
+    "notes":  "House app: the Farm page no longer shows the house cameras - just the fence, freezers, farm network and trail camera.",
+    "url":  "https://github.com/Stevo238/home-hub-releases/releases/download/v1.127.0/HomeHub.exe",
+    "sha256":  "b9f965a251d51ead0ee0fec8be8791fd118960513af4783fbd09fd844464cfee"
 }
