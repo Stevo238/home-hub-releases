@@ -1,6 +1,6 @@
 {
-    "version":  "1.132.0",
-    "notes":  "House Brain: your 5:30 AM brief now reads both Gmail accounts (personal and family) and flags only what needs you - school, childcare, bills, deliveries, and any account-security alert. It's the Brief page in the House phone app.",
-    "url":  "https://github.com/Stevo238/home-hub-releases/releases/download/v1.132.0/HomeHub.exe",
-    "sha256":  "e2300e66fb070bbf777ad7877c6e0adccb969f49b182e4b9d6934bbadf1226de"
+    "version":  "1.132.1",
+    "notes":  "House Brain: a brief you ask for in the evening now talks about tomorrow as tomorrow.",
+    "url":  "https://github.com/Stevo238/home-hub-releases/releases/download/v1.132.1/HomeHub.exe",
+    "sha256":  "e751224f852cc23b423fe96e892230997a311235da847cbf53346e6456d5545e"
 }
