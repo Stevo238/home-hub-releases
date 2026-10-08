@@ -1,6 +1,6 @@
 {
-    "version":  "1.127.0",
-    "notes":  "House app: the Farm page no longer shows the house cameras - just the fence, freezers, farm network and trail camera.",
-    "url":  "https://github.com/Stevo238/home-hub-releases/releases/download/v1.127.0/HomeHub.exe",
-    "sha256":  "b9f965a251d51ead0ee0fec8be8791fd118960513af4783fbd09fd844464cfee"
+    "version":  "1.128.0",
+    "notes":  "House app: Controls is now laid out by room - tap a room\u0027s name to turn all its lights off (or on). Office is with the downstairs rooms, and the Study has its own lights. Tap a freezer on the Farm page to see its last 24 hours.",
+    "url":  "https://github.com/Stevo238/home-hub-releases/releases/download/v1.128.0/HomeHub.exe",
+    "sha256":  "541aa3d1012a1ea40d168e2475920e9507091523b77166ea5e4056e6d84f413e"
 }
