@@ -1,6 +1,6 @@
 {
-    "version":  "1.128.1",
-    "notes":  "House app: the Controls page fits on one screen again on any phone - the room rows size themselves to the screen.",
-    "url":  "https://github.com/Stevo238/home-hub-releases/releases/download/v1.128.1/HomeHub.exe",
-    "sha256":  "ccb36b1994e5fac0df6babdfa4bfedb2897321f4529625369e75073ab14776bb"
+    "version":  "1.129.0",
+    "notes":  "House app: Controls is trimmed - the ceiling fans have their own row (with their own all-off), and who\u0027s in bed plus Bed Up / Bed Down moved to the Leave \u0026 Bedtime page.",
+    "url":  "https://github.com/Stevo238/home-hub-releases/releases/download/v1.129.0/HomeHub.exe",
+    "sha256":  "7143ef5074204695fd42a6e7d16e6871fcb776130d8195723be2e1a7cc85f1f1"
 }
