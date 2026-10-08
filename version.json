@@ -1,6 +1,6 @@
 {
-    "version":  "1.130.0",
-    "notes":  "House app: every page now has the Controls look - sections on panels, status shown by icon colour instead of words, room temperatures as chips. Night forecasts show a moon instead of a sun (on the kitchen wall too).",
-    "url":  "https://github.com/Stevo238/home-hub-releases/releases/download/v1.130.0/HomeHub.exe",
-    "sha256":  "22646cb0fe5a19e3e87b23c39c33bca89e97047066ea229b3aa445351b439ba0"
+    "version":  "1.130.1",
+    "notes":  "House app: light icons now match the real fixtures - office ceiling light and pedestal lamps, family room entry chandelier, study wall sconce, bed LED strip.",
+    "url":  "https://github.com/Stevo238/home-hub-releases/releases/download/v1.130.1/HomeHub.exe",
+    "sha256":  "db25d6a65278ccd0c2c40a7b571d340b2c8e23b2cc32b199c961230f4c06a236"
 }
