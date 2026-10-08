@@ -1,6 +1,6 @@
 {
-    "version":  "1.130.1",
-    "notes":  "House app: light icons now match the real fixtures - office ceiling light and pedestal lamps, family room entry chandelier, study wall sconce, bed LED strip.",
-    "url":  "https://github.com/Stevo238/home-hub-releases/releases/download/v1.130.1/HomeHub.exe",
-    "sha256":  "db25d6a65278ccd0c2c40a7b571d340b2c8e23b2cc32b199c961230f4c06a236"
+    "version":  "1.131.0",
+    "notes":  "House Brain, part 1: a morning brief written for you at 5:30 AM from everything the hub knows - calendar, dinner, weather, freezers, upkeep, chores, trail cams. It is the new first page (Brief) in the House phone app.",
+    "url":  "https://github.com/Stevo238/home-hub-releases/releases/download/v1.131.0/HomeHub.exe",
+    "sha256":  "62a74af27592d1407a5437bac2e5d3ae7766ff509fc174c3ae596db0bd86fe69"
 }
