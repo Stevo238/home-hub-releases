@@ -1,6 +1,6 @@
 {
-    "version":  "1.128.0",
-    "notes":  "House app: Controls is now laid out by room - tap a room\u0027s name to turn all its lights off (or on). Office is with the downstairs rooms, and the Study has its own lights. Tap a freezer on the Farm page to see its last 24 hours.",
-    "url":  "https://github.com/Stevo238/home-hub-releases/releases/download/v1.128.0/HomeHub.exe",
-    "sha256":  "541aa3d1012a1ea40d168e2475920e9507091523b77166ea5e4056e6d84f413e"
+    "version":  "1.128.1",
+    "notes":  "House app: the Controls page fits on one screen again on any phone - the room rows size themselves to the screen.",
+    "url":  "https://github.com/Stevo238/home-hub-releases/releases/download/v1.128.1/HomeHub.exe",
+    "sha256":  "ccb36b1994e5fac0df6babdfa4bfedb2897321f4529625369e75073ab14776bb"
 }
