@@ -1,6 +1,6 @@
 {
-    "version":  "1.137.0",
-    "notes":  "House Brain: House Notes. A new Notes tab on the Brief page lists the standing rules the House Brain follows in every brief, week ahead and Ask answer - add your own, edit or delete them, and the next one follows.",
-    "url":  "https://github.com/Stevo238/home-hub-releases/releases/download/v1.137.0/HomeHub.exe",
-    "sha256":  "fb3bba83cee08cd68565d7e8ebddf2da915a09935e6995939aaa81153ba79e46"
+    "version":  "1.137.1",
+    "notes":  "House app: the Today / Week / Nudges / Ask / Notes buttons now stay at the top while you scroll the Brief page.",
+    "url":  "https://github.com/Stevo238/home-hub-releases/releases/download/v1.137.1/HomeHub.exe",
+    "sha256":  "b7b6601be555b1bee75dae9ca384317d775103413c10d7cc623230a0f7ecf929"
 }
