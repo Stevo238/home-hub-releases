@@ -1,6 +1,6 @@
 {
-    "version":  "1.136.0",
-    "notes":  "House Brain: Ask the house. A new Ask tab on the Brief page - type any question (\"when did we last change the furnace filter?\", \"what did Cynda's email say?\") and the house looks it up across the hub, both mailboxes and every calendar. It only looks, never changes anything. Answers in about 5-30 seconds and stay listed so you can read them again.",
-    "url":  "https://github.com/Stevo238/home-hub-releases/releases/download/v1.136.0/HomeHub.exe",
-    "sha256":  "72596a990f368d37d55524d3c0bef4f6c27d33fbd22fdb964940d6c04face177"
+    "version":  "1.137.0",
+    "notes":  "House Brain: House Notes. A new Notes tab on the Brief page lists the standing rules the House Brain follows in every brief, week ahead and Ask answer - add your own, edit or delete them, and the next one follows.",
+    "url":  "https://github.com/Stevo238/home-hub-releases/releases/download/v1.137.0/HomeHub.exe",
+    "sha256":  "fb3bba83cee08cd68565d7e8ebddf2da915a09935e6995939aaa81153ba79e46"
 }
