@@ -1,6 +1,6 @@
 {
-    "version":  "1.133.0",
-    "notes":  "House Brain: Week ahead. The Brief page now has a Today | Week ahead switch - heads-up items, the next seven days from every calendar and a week of email on both accounts (with conflicts and who-has-the-kids gaps called out), and what's on the radar after that. Written each morning right after your brief.",
-    "url":  "https://github.com/Stevo238/home-hub-releases/releases/download/v1.133.0/HomeHub.exe",
-    "sha256":  "64578b8731b1eb4883aea702926c4ee237cfccfe0908226355fdf9788f2e6107"
+    "version":  "1.134.0",
+    "notes":  "House Brain: your brief now rewrites itself through the day - 5:30 AM, 11:30 AM, 3:30 PM and 7:30 PM - so it stays current (the footer shows when the next one comes). Week ahead's heads-up box now matches the rest of the page.",
+    "url":  "https://github.com/Stevo238/home-hub-releases/releases/download/v1.134.0/HomeHub.exe",
+    "sha256":  "373b3a4096b6cc9400ce34624806adb85d4d919d33c7d4d0afa9f0844ef822bf"
 }
