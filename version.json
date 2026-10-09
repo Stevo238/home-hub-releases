@@ -1,6 +1,6 @@
 {
-    "version":  "1.134.0",
-    "notes":  "House Brain: your brief now rewrites itself through the day - 5:30 AM, 11:30 AM, 3:30 PM and 7:30 PM - so it stays current (the footer shows when the next one comes). Week ahead's heads-up box now matches the rest of the page.",
-    "url":  "https://github.com/Stevo238/home-hub-releases/releases/download/v1.134.0/HomeHub.exe",
-    "sha256":  "373b3a4096b6cc9400ce34624806adb85d4d919d33c7d4d0afa9f0844ef822bf"
+    "version":  "1.135.0",
+    "notes":  "House Brain: Nudges. The hub now speaks up at the right moment - thaw the meat for tomorrow's dinner, cans out before the rain, leaving with a garage open or the back door unlocked, and filters or salt coming due. Each comes with a one-tap button (Pulled it, Cans are out, Lock & close all, Add to Costco). See them on top of the Brief page; switch each rule and its phone push on or off under Nudges.",
+    "url":  "https://github.com/Stevo238/home-hub-releases/releases/download/v1.135.0/HomeHub.exe",
+    "sha256":  "07861fa7f9bfd09767eca95c96abf4c6c2f15961082ff5a15b8cc3c2d934c59f"
 }
