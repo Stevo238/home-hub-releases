@@ -1,6 +1,6 @@
 {
-    "version": "1.143.2",
-    "notes": "Polish from the audit: the phone app's pages all match, the Week calendar is a readable day list on phones, the wall screens have no pop-ups (deleting a dinner has an Undo), dropdowns became tap chips, bigger buttons and clearer text everywhere. Home Controls now follow their permission, and the hub only talks to the real UniFi console. Kitchen wall lists: tighter rows, and a round Add button that opens a holiday-themed box for several items at once.",
-    "url": "https://github.com/Stevo238/home-hub-releases/releases/download/v1.143.2/HomeHub.exe",
-    "sha256": "ada4213e81f89baf0f036bc2a20eecfe29182fb81ccb5b3da318b51d7e5690a6"
+    "version": "1.144.0",
+    "notes": "New in the House Manual: a House Overview (every system, a wiring diagram and a troubleshooting chart) and a printable Disaster Recovery Runbook. Stack Health now shows when those documents need a refresh.",
+    "url": "https://github.com/Stevo238/home-hub-releases/releases/download/v1.144.0/HomeHub.exe",
+    "sha256": "01b2946ae77340b2ea5f99230f95f59abfdb2c13948582cb06de4f30d5afaa45"
 }
