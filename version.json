@@ -1,6 +1,6 @@
 {
-    "version":  "1.141.0",
-    "notes":  "The House Manual (tile under The House, for Stephen and Roxann): what to do when something breaks - internet, barn Wi-Fi, wall screens, ceiling fans, fence, freezer alarm, power outage, leaks and more - where the shutoffs and equipment are, the accounts that keep the place running, and who to call, straight from the House Wiki with tap-to-call numbers. Search it, print it, and Stephen can edit any section.",
-    "url":  "https://github.com/Stevo238/home-hub-releases/releases/download/v1.141.0/HomeHub.exe",
-    "sha256":  "43374ffabaaa81d3306420aa4e18e3377756f9342586f6e2422c8c1decc18eee"
+    "version":  "1.142.0",
+    "notes":  "Security fixes from the full system audit: the House Brain no longer writes its access keys to disk, tighter login checks on the panel files and the hub's MCP door, safer file downloads, updated libraries. Nudges now have their own on/off switch.",
+    "url":  "https://github.com/Stevo238/home-hub-releases/releases/download/v1.142.0/HomeHub.exe",
+    "sha256":  "e4fde6193effe51c5c421e5ee2b4481359a0ed4e7e6bd7da4b3e56fec43751d0"
 }
