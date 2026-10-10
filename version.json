@@ -1,6 +1,6 @@
 {
-    "version": "1.144.1",
-    "notes": "Vienna's own UPS now shows on Stack Health and the phone Status page, with alerts when it goes on battery. House Manual: a House Overview and a printable Disaster Recovery Runbook, with icons that match the hub.",
-    "url": "https://github.com/Stevo238/home-hub-releases/releases/download/v1.144.1/HomeHub.exe",
-    "sha256": "8fa0153c17e8ccbd0992913b4ca61d6256f068efda6b7ab45071c04e502d9e03"
+    "version": "1.144.2",
+    "notes": "Vienna's own UPS now shows on Stack Health and the phone Status page, with alerts when it goes on battery. House Manual: a House Overview and a printable Disaster Recovery Runbook, with icons that match the hub. On phones, the page no longer scrolls sideways after tapping Update.",
+    "url": "https://github.com/Stevo238/home-hub-releases/releases/download/v1.144.2/HomeHub.exe",
+    "sha256": "af9af2e21f4c0aab92b700ddffbbb9ef6375e03e751298144387c85281b08143"
 }
