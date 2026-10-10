@@ -1,6 +1,6 @@
 {
-    "version":  "1.138.0",
-    "notes":  "Home Health, built into the House Wiki: every appliance and system now shows its age against a typical lifespan, its warranty, and any government safety recall that names its model (checked weekly). A summary at the top of the wiki lists what's likely to need replacing in the next five years and what to set aside each month. Fix any year or warranty with Edit health on the item.",
-    "url":  "https://github.com/Stevo238/home-hub-releases/releases/download/v1.138.0/HomeHub.exe",
-    "sha256":  "a7e2db7946e22225fa6e0d57f98c5f5c142e914a1b8b2ba05a5592f61f018969"
+    "version":  "1.138.1",
+    "notes":  "House Wiki: the Home Health panel now matches the rest of the hub's cards.",
+    "url":  "https://github.com/Stevo238/home-hub-releases/releases/download/v1.138.1/HomeHub.exe",
+    "sha256":  "3f172ec5004b240a7a359ecb2cb1017126143d7120ef8690f7800332ef51c068"
 }
