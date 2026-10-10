@@ -1,6 +1,6 @@
 {
-    "version":  "1.138.1",
-    "notes":  "House Wiki: the Home Health panel now matches the rest of the hub's cards.",
-    "url":  "https://github.com/Stevo238/home-hub-releases/releases/download/v1.138.1/HomeHub.exe",
-    "sha256":  "3f172ec5004b240a7a359ecb2cb1017126143d7120ef8690f7800332ef51c068"
+    "version":  "1.139.0",
+    "notes":  "Storm Mode: a short push for National Weather Service warnings at the farm, a push if the power's been out 4 hours (with how long the freezers hold), and a push when it's back only if a freezer is warm or offline. Also fixes the Leaving nudge, which wasn't firing.",
+    "url":  "https://github.com/Stevo238/home-hub-releases/releases/download/v1.139.0/HomeHub.exe",
+    "sha256":  "44aff16b12efc7fc97bb8e5724f0c58b885d724524ae79a19d7e0b554295e493"
 }
