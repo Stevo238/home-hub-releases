@@ -1,6 +1,6 @@
 {
-    "version": "1.144.2",
-    "notes": "Vienna's own UPS now shows on Stack Health and the phone Status page, with alerts when it goes on battery. House Manual: a House Overview and a printable Disaster Recovery Runbook, with icons that match the hub. On phones, the page no longer scrolls sideways after tapping Update.",
-    "url": "https://github.com/Stevo238/home-hub-releases/releases/download/v1.144.2/HomeHub.exe",
-    "sha256": "af9af2e21f4c0aab92b700ddffbbb9ef6375e03e751298144387c85281b08143"
+    "version": "1.144.3",
+    "notes": "Stack Health now shows the closet UPS (router, main switch with the PoE cameras and access points, and Home Assistant) next to Vienna's own UPS.",
+    "url": "https://github.com/Stevo238/home-hub-releases/releases/download/v1.144.3/HomeHub.exe",
+    "sha256": "0e2e6e8464d9c139352da7c0ca049e6e84794ce293db81affad9482ce41aaa9a"
 }
