@@ -1,6 +1,6 @@
 {
-    "version": "1.144.0",
-    "notes": "New in the House Manual: a House Overview (every system, a wiring diagram and a troubleshooting chart) and a printable Disaster Recovery Runbook. Stack Health now shows when those documents need a refresh.",
-    "url": "https://github.com/Stevo238/home-hub-releases/releases/download/v1.144.0/HomeHub.exe",
-    "sha256": "01b2946ae77340b2ea5f99230f95f59abfdb2c13948582cb06de4f30d5afaa45"
+    "version": "1.144.1",
+    "notes": "Vienna's own UPS now shows on Stack Health and the phone Status page, with alerts when it goes on battery. House Manual: a House Overview and a printable Disaster Recovery Runbook, with icons that match the hub.",
+    "url": "https://github.com/Stevo238/home-hub-releases/releases/download/v1.144.1/HomeHub.exe",
+    "sha256": "8fa0153c17e8ccbd0992913b4ca61d6256f068efda6b7ab45071c04e502d9e03"
 }
