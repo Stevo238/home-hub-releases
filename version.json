@@ -1,6 +1,6 @@
 {
-    "version":  "1.142.0",
-    "notes":  "Security fixes from the full system audit: the House Brain no longer writes its access keys to disk, tighter login checks on the panel files and the hub's MCP door, safer file downloads, updated libraries. Nudges now have their own on/off switch.",
-    "url":  "https://github.com/Stevo238/home-hub-releases/releases/download/v1.142.0/HomeHub.exe",
-    "sha256":  "e4fde6193effe51c5c421e5ee2b4481359a0ed4e7e6bd7da4b3e56fec43751d0"
+    "version": "1.143.0",
+    "notes": "Polish from the audit: the phone app's pages all match, the Week calendar is a readable day list on phones, the wall screens have no pop-ups (deleting a dinner has an Undo), dropdowns became tap chips, bigger buttons and clearer text everywhere. Home Controls now follow their permission, and the hub only talks to the real UniFi console.",
+    "url": "https://github.com/Stevo238/home-hub-releases/releases/download/v1.143.0/HomeHub.exe",
+    "sha256": "60f98dcf2b03b98860257c722dd2d57b5478fa1534cd6b4c4b3b051bd443eade"
 }
