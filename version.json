@@ -1,6 +1,6 @@
 {
-    "version":  "1.139.0",
-    "notes":  "Storm Mode: a short push for National Weather Service warnings at the farm, a push if the power's been out 4 hours (with how long the freezers hold), and a push when it's back only if a freezer is warm or offline. Also fixes the Leaving nudge, which wasn't firing.",
-    "url":  "https://github.com/Stevo238/home-hub-releases/releases/download/v1.139.0/HomeHub.exe",
-    "sha256":  "44aff16b12efc7fc97bb8e5724f0c58b885d724524ae79a19d7e0b554295e493"
+    "version":  "1.140.0",
+    "notes":  "Nudges on the Home Hub: a new Nudges tile (under Manage) shows what the house is flagging with its one-tap buttons, plus the On/Off and Push/Quiet switch for every rule - the same switches as the House app.",
+    "url":  "https://github.com/Stevo238/home-hub-releases/releases/download/v1.140.0/HomeHub.exe",
+    "sha256":  "6733506a32488ef4e374b8f24b6844e6854905bd8e25cca93fa21d71dff2abfc"
 }
