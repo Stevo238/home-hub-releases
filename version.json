@@ -1,6 +1,6 @@
 {
-    "version": "1.143.1",
-    "notes": "Polish from the audit: the phone app's pages all match, the Week calendar is a readable day list on phones, the wall screens have no pop-ups (deleting a dinner has an Undo), dropdowns became tap chips, bigger buttons and clearer text everywhere. Home Controls now follow their permission, and the hub only talks to the real UniFi console. Kitchen wall lists: tighter rows, and an Add button that takes several items at once.",
-    "url": "https://github.com/Stevo238/home-hub-releases/releases/download/v1.143.1/HomeHub.exe",
-    "sha256": "6598adf846926e05a171913ee9ee7ba679ddd5062d51bf228886ad5fb10ffbe6"
+    "version": "1.143.2",
+    "notes": "Polish from the audit: the phone app's pages all match, the Week calendar is a readable day list on phones, the wall screens have no pop-ups (deleting a dinner has an Undo), dropdowns became tap chips, bigger buttons and clearer text everywhere. Home Controls now follow their permission, and the hub only talks to the real UniFi console. Kitchen wall lists: tighter rows, and a round Add button that opens a holiday-themed box for several items at once.",
+    "url": "https://github.com/Stevo238/home-hub-releases/releases/download/v1.143.2/HomeHub.exe",
+    "sha256": "ada4213e81f89baf0f036bc2a20eecfe29182fb81ccb5b3da318b51d7e5690a6"
 }
