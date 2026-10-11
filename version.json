@@ -1,6 +1,6 @@
 {
-    "version": "1.149.2",
-    "notes": "Fixes the icons across the hub - a typo in 1.149.1 stopped every icon from showing.",
-    "url": "https://github.com/Stevo238/home-hub-releases/releases/download/v1.149.2/HomeHub.exe",
-    "sha256": "5085505531ce50e6170035c29d7f71cf5c4a00d74a3af15c7c1dd9b2a759ba34"
+    "version": "1.150.0",
+    "notes": "Floor Plans: click an appliance (washer, dryer, fridge, water heater...) to open it in the House Wiki.",
+    "url": "https://github.com/Stevo238/home-hub-releases/releases/download/v1.150.0/HomeHub.exe",
+    "sha256": "9a055d41f2bc63e2a83f10cf9323ccb7beb78537d82682d5a008eff8187f717c"
 }
