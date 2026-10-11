@@ -1,6 +1,6 @@
 {
-    "version":  "1.151.0",
-    "notes":  "House Map: the floor plans as a live control page. Tap a light, plug or fan to switch it, hold to dim or set fan speed; open doors and sensors light up; tap a camera to watch it. In the House Manual, and on the kitchen Command Center.",
-    "url":  "https://github.com/Stevo238/home-hub-releases/releases/download/v1.151.0/HomeHub.exe",
-    "sha256":  "3339fa56c03734f221ee68a456be94e09d52a88ac189ada3ead5d821dd0eb641"
+    "version":  "1.152.0",
+    "notes":  "Kitchen wall: a House Map tab (the live floor plans), the page buttons in two rows, and gentler rain on the weather card.",
+    "url":  "https://github.com/Stevo238/home-hub-releases/releases/download/v1.152.0/HomeHub.exe",
+    "sha256":  "b53a17f4b39c1bbf0bf79c013af74ee7b1e492ce2bb0e0d8b7c9d1df495a2a40"
 }
