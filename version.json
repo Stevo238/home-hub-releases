@@ -1,6 +1,6 @@
 {
-    "version": "1.144.5",
-    "notes": "Kitchen: a recipe you open now stays on the screen until the overnight reset at 3 AM - no more dropping back to the menu after 30 minutes, and the 3 PM dinner pick won't replace a recipe you chose by hand that day.",
-    "url": "https://github.com/Stevo238/home-hub-releases/releases/download/v1.144.5/HomeHub.exe",
-    "sha256": "f0241c7eac480d5f24c20a859f8cc860e120e3c5e2652cf5f773058406713f33"
+    "version": "1.145.0",
+    "notes": "Phone app Cameras page: the two inside cameras (Neliya's room and the nursery) now show after the outside ones - for admins only, never on the wall screens.",
+    "url": "https://github.com/Stevo238/home-hub-releases/releases/download/v1.145.0/HomeHub.exe",
+    "sha256": "d3a4bc8d7d55acb47ea88a75bea01de788485675ef0420ebb503aee464842edb"
 }
