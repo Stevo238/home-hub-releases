@@ -1,6 +1,6 @@
 {
-    "version": "1.144.4",
-    "notes": "Stack Health: a new Power (UPS) card shows both UPSs - the network closet UPS (router, main switch with the cameras and Wi-Fi, Home Assistant) and Vienna's own UPS - each saying what it keeps running.",
-    "url": "https://github.com/Stevo238/home-hub-releases/releases/download/v1.144.4/HomeHub.exe",
-    "sha256": "fd0d9615bce25a937de2e0d0965c3b4f6de1bd82b2c97a14957e915f47579f0c"
+    "version": "1.144.5",
+    "notes": "Kitchen: a recipe you open now stays on the screen until the overnight reset at 3 AM - no more dropping back to the menu after 30 minutes, and the 3 PM dinner pick won't replace a recipe you chose by hand that day.",
+    "url": "https://github.com/Stevo238/home-hub-releases/releases/download/v1.144.5/HomeHub.exe",
+    "sha256": "f0241c7eac480d5f24c20a859f8cc860e120e3c5e2652cf5f773058406713f33"
 }
