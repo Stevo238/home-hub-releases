@@ -1,6 +1,6 @@
 {
-    "version": "1.149.1",
-    "notes": "House Manual: the Floor Plans card gets a proper icon that matches the theme.",
-    "url": "https://github.com/Stevo238/home-hub-releases/releases/download/v1.149.1/HomeHub.exe",
-    "sha256": "c6c11fda4977c5872497fc8d29cf8e2c7ebc978f16f7bb2a56d9d94161c8b323"
+    "version": "1.149.2",
+    "notes": "Fixes the icons across the hub - a typo in 1.149.1 stopped every icon from showing.",
+    "url": "https://github.com/Stevo238/home-hub-releases/releases/download/v1.149.2/HomeHub.exe",
+    "sha256": "5085505531ce50e6170035c29d7f71cf5c4a00d74a3af15c7c1dd9b2a759ba34"
 }
