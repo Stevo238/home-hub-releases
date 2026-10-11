@@ -1,6 +1,6 @@
 {
-    "version": "1.148.0",
-    "notes": "Faster: the hub dashboard and Live page now update every few seconds from the hub's own live copy of the house instead of asking Home Assistant each time, and the lists, tonight's dinner, the UPS rows and Stack Health make far fewer trips to Home Assistant. Slideshow photos now live in S:\\Slideshow on the file share - add photos there from any house PC or the Photos page.",
-    "url": "https://github.com/Stevo238/home-hub-releases/releases/download/v1.148.0/HomeHub.exe",
-    "sha256": "c0396dac9fabb4b17ed596dffbce888594b83455c6d55ffc809d301344fddfdb"
+    "version": "1.148.1",
+    "notes": "Files: the folders the house depends on (Backups, Claude Outbox, Scans, Slideshow) now show a lock and can't be renamed or deleted - what's inside them works as before. Includes 1.148.0: a faster dashboard and screens with fewer trips to Home Assistant, and slideshow photos in S:\\Slideshow.",
+    "url": "https://github.com/Stevo238/home-hub-releases/releases/download/v1.148.1/HomeHub.exe",
+    "sha256": "84ee0cb2b8f9624f6ab3ca5d0807f4cba94618b7167d8a4398e92a67bdffa106"
 }
