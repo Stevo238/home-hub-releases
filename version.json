@@ -1,6 +1,6 @@
 {
-    "version": "1.149.0",
-    "notes": "House Manual: new Floor Plans page - both floors of the house, the garage and the screened porch, with every shutoff, panel, camera and piece of equipment numbered. It sits next to How the House Works and the Recovery Runbook, and prints one floor per page.",
-    "url": "https://github.com/Stevo238/home-hub-releases/releases/download/v1.149.0/HomeHub.exe",
-    "sha256": "c24c1df3c0ef832635689ac0012a20d8e88ecb49ccb5e1a3da7bf610aef728fd"
+    "version": "1.149.1",
+    "notes": "House Manual: the Floor Plans card gets a proper icon that matches the theme.",
+    "url": "https://github.com/Stevo238/home-hub-releases/releases/download/v1.149.1/HomeHub.exe",
+    "sha256": "c6c11fda4977c5872497fc8d29cf8e2c7ebc978f16f7bb2a56d9d94161c8b323"
 }
