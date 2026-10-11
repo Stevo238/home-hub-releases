@@ -1,6 +1,6 @@
 {
-    "version": "1.148.1",
-    "notes": "Files: the folders the house depends on (Backups, Claude Outbox, Scans, Slideshow) now show a lock and can't be renamed or deleted - what's inside them works as before. Includes 1.148.0: a faster dashboard and screens with fewer trips to Home Assistant, and slideshow photos in S:\\Slideshow.",
-    "url": "https://github.com/Stevo238/home-hub-releases/releases/download/v1.148.1/HomeHub.exe",
-    "sha256": "84ee0cb2b8f9624f6ab3ca5d0807f4cba94618b7167d8a4398e92a67bdffa106"
+    "version": "1.149.0",
+    "notes": "House Manual: new Floor Plans page - both floors of the house, the garage and the screened porch, with every shutoff, panel, camera and piece of equipment numbered. It sits next to How the House Works and the Recovery Runbook, and prints one floor per page.",
+    "url": "https://github.com/Stevo238/home-hub-releases/releases/download/v1.149.0/HomeHub.exe",
+    "sha256": "c24c1df3c0ef832635689ac0012a20d8e88ecb49ccb5e1a3da7bf610aef728fd"
 }
