@@ -1,6 +1,6 @@
 {
-    "version": "1.146.0",
-    "notes": "Camera pictures now come straight from Blue Iris on this server - much faster, especially full screen (Home Assistant is kept as a backup). The hub also always starts now, even if one of its databases on D: is slow to open.",
-    "url": "https://github.com/Stevo238/home-hub-releases/releases/download/v1.146.0/HomeHub.exe",
-    "sha256": "48ad8bcb20ef091bfe924a867f9f8ca2dea8bc5942a8178300394f2db5a5bbb4"
+    "version": "1.147.0",
+    "notes": "Tap a camera for full screen and it now plays smooth live video (about 10 frames a second) straight from Blue Iris, on the phone app and the kitchen screen's driveway pop-up. If the live video can't start, it falls back to still pictures by itself.",
+    "url": "https://github.com/Stevo238/home-hub-releases/releases/download/v1.147.0/HomeHub.exe",
+    "sha256": "4dcfb8ef46d3a310b86b9a4c5c37f72a14d1468bdb9e9fe56d2da234292535e2"
 }
