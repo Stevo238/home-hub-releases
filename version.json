@@ -1,6 +1,6 @@
 {
-    "version": "1.145.0",
-    "notes": "Phone app Cameras page: the two inside cameras (Neliya's room and the nursery) now show after the outside ones - for admins only, never on the wall screens.",
-    "url": "https://github.com/Stevo238/home-hub-releases/releases/download/v1.145.0/HomeHub.exe",
-    "sha256": "d3a4bc8d7d55acb47ea88a75bea01de788485675ef0420ebb503aee464842edb"
+    "version": "1.146.0",
+    "notes": "Camera pictures now come straight from Blue Iris on this server - much faster, especially full screen (Home Assistant is kept as a backup). The hub also always starts now, even if one of its databases on D: is slow to open.",
+    "url": "https://github.com/Stevo238/home-hub-releases/releases/download/v1.146.0/HomeHub.exe",
+    "sha256": "48ad8bcb20ef091bfe924a867f9f8ca2dea8bc5942a8178300394f2db5a5bbb4"
 }
