@@ -1,6 +1,6 @@
 {
-    "version":  "1.156.0",
-    "notes":  "Cameras: the full-screen view of each outside camera has a button for the light beside it - West lights, East lights or the Power Pole spotlight.",
-    "url":  "https://github.com/Stevo238/home-hub-releases/releases/download/v1.156.0/HomeHub.exe",
-    "sha256":  "a46dc9240a07529135efc66ab1f5eb95beefbc9f2dadc8b470a6b01bb6de0209"
+    "version":  "1.157.0",
+    "notes":  "House Map: light strips are easy to tap, holding a colour light offers colours and white tones, and the study fan\u0027s light switches on its own. Camera views have a button for the light beside each camera.",
+    "url":  "https://github.com/Stevo238/home-hub-releases/releases/download/v1.157.0/HomeHub.exe",
+    "sha256":  "d4c8952402f658aef64e43c17dffc35d857550e1a77fa590a47d8b99e64764c4"
 }
