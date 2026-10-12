@@ -1,6 +1,6 @@
 {
-    "version":  "1.161.0",
-    "notes":  "Holidays and birthdays now get their own animated art on the day itself: the kitchen wall\u0027s month calendar square and the Home week column light up in the holiday\u0027s colours (pumpkins and bats, a turkey, a Christmas tree in the snow, New Year fireworks, hearts, a pot of gold, an Easter basket and bunny, a waving flag, birthday cake and balloons). Follows the Wall Themes settings.",
-    "url":  "https://github.com/Stevo238/home-hub-releases/releases/download/v1.161.0/HomeHub.exe",
-    "sha256":  "5186fa2ed3fbaec291ae7754f1a20aa5d6030239a185776da298f928a6819c67"
+    "version":  "1.162.0",
+    "notes":  "The kitchen wall now reacts to the house: a welcome-home card when Stephen or Roxann gets back (after a real trip out), a big All done! celebration when a kid finishes the day\u0027s last chore (even by NFC or Alexa), now and in-18-min labels on today\u0027s events in the week strip, a trash-night banner with a one-tap Cans are out, and deer tracks across the screen when the trail camera catches an animal.",
+    "url":  "https://github.com/Stevo238/home-hub-releases/releases/download/v1.162.0/HomeHub.exe",
+    "sha256":  "4c8472d06b272c06a35cc33fb7de5f35b2e415a9ab6639dd98afb7e51201091e"
 }
