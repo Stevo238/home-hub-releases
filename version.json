@@ -1,6 +1,6 @@
 {
-    "version":  "1.163.0",
-    "notes":  "Holiday and birthday art now sits on its own date whenever that date is on the wall calendars - you can watch Halloween approach on the month calendar, and it joins the Home week strip once it is within seven days. On the day itself the date also pulses.",
-    "url":  "https://github.com/Stevo238/home-hub-releases/releases/download/v1.163.0/HomeHub.exe",
-    "sha256":  "aa1acef8faaf8ac8f891c8a3ed01d1957131fe4267b55574c40037e9a439844c"
+    "version":  "1.163.1",
+    "notes":  "Fix: the kitchen wall can now load the holiday art, so Halloween (and every other holiday and birthday) shows on its date on the calendars.",
+    "url":  "https://github.com/Stevo238/home-hub-releases/releases/download/v1.163.1/HomeHub.exe",
+    "sha256":  "54b4e8b50121518bdb5c7503b17d34d03d1a2a0c5f95e015d94f76870f29e9d9"
 }
