@@ -1,6 +1,6 @@
 {
-    "version":  "1.160.0",
-    "notes":  "House Map: the back door shows a green padlock when locked, red when not; each garage door shows one clear OPEN or Closed.",
-    "url":  "https://github.com/Stevo238/home-hub-releases/releases/download/v1.160.0/HomeHub.exe",
-    "sha256":  "ce9193c7d2a08242ac526749eb4c914313526b76e5182a3ec811cc344ce82019"
+    "version":  "1.161.0",
+    "notes":  "Holidays and birthdays now get their own animated art on the day itself: the kitchen wall\u0027s month calendar square and the Home week column light up in the holiday\u0027s colours (pumpkins and bats, a turkey, a Christmas tree in the snow, New Year fireworks, hearts, a pot of gold, an Easter basket and bunny, a waving flag, birthday cake and balloons). Follows the Wall Themes settings.",
+    "url":  "https://github.com/Stevo238/home-hub-releases/releases/download/v1.161.0/HomeHub.exe",
+    "sha256":  "5186fa2ed3fbaec291ae7754f1a20aa5d6030239a185776da298f928a6819c67"
 }
