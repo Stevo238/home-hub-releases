@@ -1,6 +1,6 @@
 {
-    "version":  "1.163.1",
-    "notes":  "Fix: the kitchen wall can now load the holiday art, so Halloween (and every other holiday and birthday) shows on its date on the calendars.",
-    "url":  "https://github.com/Stevo238/home-hub-releases/releases/download/v1.163.1/HomeHub.exe",
-    "sha256":  "54b4e8b50121518bdb5c7503b17d34d03d1a2a0c5f95e015d94f76870f29e9d9"
+    "version":  "1.163.2",
+    "notes":  "The holiday and birthday squares on the wall calendars keep their colour but lose the outline box.",
+    "url":  "https://github.com/Stevo238/home-hub-releases/releases/download/v1.163.2/HomeHub.exe",
+    "sha256":  "10c05ee6c4296c433e34a8477d844a7712c052aae19cf6d772f0c96d68fce381"
 }
