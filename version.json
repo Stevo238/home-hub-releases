@@ -1,6 +1,6 @@
 {
-    "version":  "1.152.0",
-    "notes":  "Kitchen wall: a House Map tab (the live floor plans), the page buttons in two rows, and gentler rain on the weather card.",
-    "url":  "https://github.com/Stevo238/home-hub-releases/releases/download/v1.152.0/HomeHub.exe",
-    "sha256":  "b53a17f4b39c1bbf0bf79c013af74ee7b1e492ce2bb0e0d8b7c9d1df495a2a40"
+    "version":  "1.153.0",
+    "notes":  "House Map: a Cameras button with every outside camera live, the dining-room sconces and family-room lamps switch with a tap, garage doors say OPEN or Closed, and both floors show the whole house with the outside lights, cameras and front landing.",
+    "url":  "https://github.com/Stevo238/home-hub-releases/releases/download/v1.153.0/HomeHub.exe",
+    "sha256":  "7e4d1dc0af92d5f54377b6a048bf0223beeb4a22936316207b5864815e9b95a1"
 }
