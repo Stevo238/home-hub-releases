@@ -1,6 +1,6 @@
 {
-    "version":  "1.155.0",
-    "notes":  "House Map: every door shows open or closed right at the door (front door on both floors), the map sits on the kitchen screen\u0027s frosted glass, and a long press no longer pops up the right-click menu.",
-    "url":  "https://github.com/Stevo238/home-hub-releases/releases/download/v1.155.0/HomeHub.exe",
-    "sha256":  "6d523e4f8a3d849284740e0e8358df2595c41c3a1da97275437799219e2ddbcd"
+    "version":  "1.156.0",
+    "notes":  "Cameras: the full-screen view of each outside camera has a button for the light beside it - West lights, East lights or the Power Pole spotlight.",
+    "url":  "https://github.com/Stevo238/home-hub-releases/releases/download/v1.156.0/HomeHub.exe",
+    "sha256":  "a46dc9240a07529135efc66ab1f5eb95beefbc9f2dadc8b470a6b01bb6de0209"
 }
