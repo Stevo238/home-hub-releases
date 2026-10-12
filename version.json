@@ -1,6 +1,6 @@
 {
-    "version":  "1.159.0",
-    "notes":  "House Map: the thermostat shows its temperature right beside it; tap it for the target and mode.",
-    "url":  "https://github.com/Stevo238/home-hub-releases/releases/download/v1.159.0/HomeHub.exe",
-    "sha256":  "f67c985ce749b5008d884c9d343a783fb1a35b163ccac91b01e6d5e82681bd06"
+    "version":  "1.160.0",
+    "notes":  "House Map: the back door shows a green padlock when locked, red when not; each garage door shows one clear OPEN or Closed.",
+    "url":  "https://github.com/Stevo238/home-hub-releases/releases/download/v1.160.0/HomeHub.exe",
+    "sha256":  "ce9193c7d2a08242ac526749eb4c914313526b76e5182a3ec811cc344ce82019"
 }
