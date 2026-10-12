@@ -1,6 +1,6 @@
 {
-    "version":  "1.162.0",
-    "notes":  "The kitchen wall now reacts to the house: a welcome-home card when Stephen or Roxann gets back (after a real trip out), a big All done! celebration when a kid finishes the day\u0027s last chore (even by NFC or Alexa), now and in-18-min labels on today\u0027s events in the week strip, a trash-night banner with a one-tap Cans are out, and deer tracks across the screen when the trail camera catches an animal.",
-    "url":  "https://github.com/Stevo238/home-hub-releases/releases/download/v1.162.0/HomeHub.exe",
-    "sha256":  "4c8472d06b272c06a35cc33fb7de5f35b2e415a9ab6639dd98afb7e51201091e"
+    "version":  "1.163.0",
+    "notes":  "Holiday and birthday art now sits on its own date whenever that date is on the wall calendars - you can watch Halloween approach on the month calendar, and it joins the Home week strip once it is within seven days. On the day itself the date also pulses.",
+    "url":  "https://github.com/Stevo238/home-hub-releases/releases/download/v1.163.0/HomeHub.exe",
+    "sha256":  "aa1acef8faaf8ac8f891c8a3ed01d1957131fe4267b55574c40037e9a439844c"
 }
