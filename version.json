@@ -1,6 +1,6 @@
 {
-    "version":  "1.158.0",
-    "notes":  "House Map: thermostat with temperature and a tap-to-adjust card, room temperatures, smoke/CO, UPS, water main and lock alarms that flash, Wi-Fi/cameras/ESP boxes that grey out when offline, tap a TV for power, and press-and-hold to open or close a garage door or lock/unlock the back door.",
-    "url":  "https://github.com/Stevo238/home-hub-releases/releases/download/v1.158.0/HomeHub.exe",
-    "sha256":  "b83e9f02692b088598b75ce8ed949b7f9a27127d967fd7d3c6b040e2bed23dad"
+    "version":  "1.159.0",
+    "notes":  "House Map: the thermostat shows its temperature right beside it; tap it for the target and mode.",
+    "url":  "https://github.com/Stevo238/home-hub-releases/releases/download/v1.159.0/HomeHub.exe",
+    "sha256":  "f67c985ce749b5008d884c9d343a783fb1a35b163ccac91b01e6d5e82681bd06"
 }
