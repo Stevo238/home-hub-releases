@@ -1,6 +1,6 @@
 {
-    "version":  "1.163.2",
-    "notes":  "The holiday and birthday squares on the wall calendars keep their colour but lose the outline box.",
-    "url":  "https://github.com/Stevo238/home-hub-releases/releases/download/v1.163.2/HomeHub.exe",
-    "sha256":  "10c05ee6c4296c433e34a8477d844a7712c052aae19cf6d772f0c96d68fce381"
+    "version": "1.164.0",
+    "notes": "New 3D Printer page (The House): live status and temperatures, the printer camera, a step-by-step bed leveling helper, nozzle purge, and print any file from the 3D Prints folder on the S: drive (.stl files are sliced for the Ender 3 automatically).",
+    "url": "https://github.com/Stevo238/home-hub-releases/releases/download/v1.164.0/HomeHub.exe",
+    "sha256": "b206d3dd080499f191ac14bb8d14c82728b501f402ee8e57ea51cc253671081a"
 }
