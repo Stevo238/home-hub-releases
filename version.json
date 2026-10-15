@@ -1,6 +1,6 @@
 {
-    "version": "1.164.0",
-    "notes": "New 3D Printer page (The House): live status and temperatures, the printer camera, a step-by-step bed leveling helper, nozzle purge, and print any file from the 3D Prints folder on the S: drive (.stl files are sliced for the Ender 3 automatically).",
-    "url": "https://github.com/Stevo238/home-hub-releases/releases/download/v1.164.0/HomeHub.exe",
-    "sha256": "b206d3dd080499f191ac14bb8d14c82728b501f402ee8e57ea51cc253671081a"
+    "version": "1.164.1",
+    "notes": "The 3D Printer tile is now yellow when the printer is simply switched off, and red only when OctoPrint cannot be reached or the printer reports an error. The printer moved to its new address on the IoT network.",
+    "url": "https://github.com/Stevo238/home-hub-releases/releases/download/v1.164.1/HomeHub.exe",
+    "sha256": "c695b1e495f3a4ca4e88a143a3d19b54456b14be1a4de6a7ff235593f6cb6e80"
 }
