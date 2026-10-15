@@ -1,6 +1,6 @@
 {
-    "version": "1.164.1",
-    "notes": "The 3D Printer tile is now yellow when the printer is simply switched off, and red only when OctoPrint cannot be reached or the printer reports an error. The printer moved to its new address on the IoT network.",
-    "url": "https://github.com/Stevo238/home-hub-releases/releases/download/v1.164.1/HomeHub.exe",
-    "sha256": "c695b1e495f3a4ca4e88a143a3d19b54456b14be1a4de6a7ff235593f6cb6e80"
+    "version": "1.164.2",
+    "notes": "The 3D Printer tile now shows the right colour straight after the hub restarts - the hub checks the printer every minute in the background.",
+    "url": "https://github.com/Stevo238/home-hub-releases/releases/download/v1.164.2/HomeHub.exe",
+    "sha256": "2e0cfa54ad1bcb4b306e77910ccf1be65af31e7b1642da1921dda8b2bb6de952"
 }
