@@ -1,6 +1,6 @@
 {
-    "version": "1.166.0",
-    "notes": "3D printer power: the printer page has a Turn on / Turn off button for the printer's new smart plug, with live watts. After you switch it on, the hub connects to the printer by itself (no more 'Printer off' when it's clearly on). When a print finishes, the printer switches itself off once the nozzle has cooled. If the printer reports an error while it's hot, the hub cuts its power and sends a phone alert.",
-    "url": "https://github.com/Stevo238/home-hub-releases/releases/download/v1.166.0/HomeHub.exe",
-    "sha256": "8e7329282e94b417d003bfddc526392e58aca3abce796bbb5ea8d0d1b74aa3fc"
+    "version": "1.166.1",
+    "notes": "3D Printer page: nozzle and bed temperatures now show in Celsius, matching the printer's own screen and the slicer.",
+    "url": "https://github.com/Stevo238/home-hub-releases/releases/download/v1.166.1/HomeHub.exe",
+    "sha256": "64d9d4a272a6ffd18e3891c4c749998ce9380106043a5f06ca150e0316f0ff25"
 }
