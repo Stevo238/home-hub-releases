@@ -1,6 +1,6 @@
 {
-    "version": "1.166.1",
-    "notes": "3D Printer page: nozzle and bed temperatures now show in Celsius, matching the printer's own screen and the slicer.",
-    "url": "https://github.com/Stevo238/home-hub-releases/releases/download/v1.166.1/HomeHub.exe",
-    "sha256": "64d9d4a272a6ffd18e3891c4c749998ce9380106043a5f06ca150e0316f0ff25"
+    "version":  "1.166.2",
+    "notes":  "House Manual: the \u0027Ceiling fans don\u0027t respond\u0027 card now covers the new Inovelli fan modules (the Bond Bridge is retired).",
+    "url":  "https://github.com/Stevo238/home-hub-releases/releases/download/v1.166.2/HomeHub.exe",
+    "sha256":  "05aa12f1c6fe72990add8c50f98b92af7984dc3560d27872ec2fb37d7c644da5"
 }
