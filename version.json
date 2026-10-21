@@ -1,6 +1,6 @@
 {
-    "version":  "1.166.2",
-    "notes":  "House Manual: the \u0027Ceiling fans don\u0027t respond\u0027 card now covers the new Inovelli fan modules (the Bond Bridge is retired).",
-    "url":  "https://github.com/Stevo238/home-hub-releases/releases/download/v1.166.2/HomeHub.exe",
-    "sha256":  "05aa12f1c6fe72990add8c50f98b92af7984dc3560d27872ec2fb37d7c644da5"
+    "version":  "1.166.3",
+    "notes":  "3D printer: the power plug now really switches the printer off after a finished print once the nozzle cools, cuts the power on a printer error while hot, and reconnects OctoPrint when the plug is switched on from Home Assistant.",
+    "url":  "https://github.com/Stevo238/home-hub-releases/releases/download/v1.166.3/HomeHub.exe",
+    "sha256":  "9f2b195bb50fba2f27210937ef058fceb181c4f80298b3e38ac81d7b25eceb29"
 }
