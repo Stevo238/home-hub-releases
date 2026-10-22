@@ -1,6 +1,6 @@
 {
-    "version":  "1.166.3",
-    "notes":  "3D printer: the power plug now really switches the printer off after a finished print once the nozzle cools, cuts the power on a printer error while hot, and reconnects OctoPrint when the plug is switched on from Home Assistant.",
-    "url":  "https://github.com/Stevo238/home-hub-releases/releases/download/v1.166.3/HomeHub.exe",
-    "sha256":  "9f2b195bb50fba2f27210937ef058fceb181c4f80298b3e38ac81d7b25eceb29"
+    "version":  "1.166.4",
+    "notes":  "Stack Health now also watches the AI Trader and the new Vienna Brain connector, and warns your phone if either stops answering.",
+    "url":  "https://github.com/Stevo238/home-hub-releases/releases/download/v1.166.4/HomeHub.exe",
+    "sha256":  "999b86baa5030f592d6046d143d14c0fca0a3face0e82a75d8ddec9f9dc59ee7"
 }
