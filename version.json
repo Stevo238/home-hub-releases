@@ -1,6 +1,6 @@
 {
-    "version":  "1.166.4",
-    "notes":  "Stack Health now also watches the AI Trader and the new Vienna Brain connector, and warns your phone if either stops answering.",
-    "url":  "https://github.com/Stevo238/home-hub-releases/releases/download/v1.166.4/HomeHub.exe",
-    "sha256":  "999b86baa5030f592d6046d143d14c0fca0a3face0e82a75d8ddec9f9dc59ee7"
+    "version":  "1.166.5",
+    "notes":  "Behind the scenes: the hub now tells Claude which of its tools only look and which change things, so the Claude app can ask before locking, changing the thermostat, cutting internet or deleting.",
+    "url":  "https://github.com/Stevo238/home-hub-releases/releases/download/v1.166.5/HomeHub.exe",
+    "sha256":  "41ba12a6832f6e9e9c0f508466d71d43e2e40fa43b3de2e727c42ef8a0be5886"
 }
