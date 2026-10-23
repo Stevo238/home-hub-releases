@@ -1,6 +1,6 @@
 {
-    "version":  "1.166.5",
-    "notes":  "Behind the scenes: the hub now tells Claude which of its tools only look and which change things, so the Claude app can ask before locking, changing the thermostat, cutting internet or deleting.",
-    "url":  "https://github.com/Stevo238/home-hub-releases/releases/download/v1.166.5/HomeHub.exe",
-    "sha256":  "41ba12a6832f6e9e9c0f508466d71d43e2e40fa43b3de2e727c42ef8a0be5886"
+    "version":  "1.167.0",
+    "notes":  "Printer page: a Probe bed button. One tap heats the bed, homes, maps the whole bed with the CR Touch and saves it, so every print uses it. The corner-by-corner leveling stays for knob changes.",
+    "url":  "https://github.com/Stevo238/home-hub-releases/releases/download/v1.167.0/HomeHub.exe",
+    "sha256":  "9ef687ac356cec8a2ae72d37460e4b8f167234712246bd83f82ac109bb90b525"
 }
