@@ -1,6 +1,6 @@
 {
-    "version":  "1.171.0",
-    "notes":  "GoPro Videos can edit: press and hold a video and choose Trim to save just the good part as a new clip (the original is kept), or tap Select, pick clips in order and Make highlight to join them into one video.",
-    "url":  "https://github.com/Stevo238/home-hub-releases/releases/download/v1.171.0/HomeHub.exe",
-    "sha256":  "0aa9e333223f428fcc19ecb063695c767f31b311ec0d74fa84a33ca9c09acffd"
+    "version":  "1.172.0",
+    "notes":  "GoPro: Stack Health now warns if the GoPro drive is unplugged or filling up; videos stream more smoothly on a phone away from home; and the kitchen wall shows a 'new GoPro videos' banner on the day the camera is unloaded - tap it to watch.",
+    "url":  "https://github.com/Stevo238/home-hub-releases/releases/download/v1.172.0/HomeHub.exe",
+    "sha256":  "0e09e3dd4350f04749601fcfb8cfb5610a0d5d240a3869a912e7cb968d8d330f"
 }
