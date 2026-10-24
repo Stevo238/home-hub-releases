@@ -1,6 +1,6 @@
 {
-    "version":  "1.167.0",
-    "notes":  "Printer page: a Probe bed button. One tap heats the bed, homes, maps the whole bed with the CR Touch and saves it, so every print uses it. The corner-by-corner leveling stays for knob changes.",
-    "url":  "https://github.com/Stevo238/home-hub-releases/releases/download/v1.167.0/HomeHub.exe",
-    "sha256":  "9ef687ac356cec8a2ae72d37460e4b8f167234712246bd83f82ac109bb90b525"
+    "version":  "1.168.0",
+    "notes":  "GoPro videos: plug the GoPro into Vienna and switch it on. New videos and photos copy to the GoPro folder on the share, one folder per day, and play on the kitchen wall's new GoPro videos page.",
+    "url":  "https://github.com/Stevo238/home-hub-releases/releases/download/v1.168.0/HomeHub.exe",
+    "sha256":  "fcb83e79a03260928d93191383fd4220a90edf39534f8c2289db95047d971cd4"
 }
