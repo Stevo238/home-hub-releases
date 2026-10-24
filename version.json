@@ -1,6 +1,6 @@
 {
-    "version":  "1.169.3",
-    "notes":  "GoPro Videos: the videos come first; the camera, copy progress and Recently deleted are underneath.",
-    "url":  "https://github.com/Stevo238/home-hub-releases/releases/download/v1.169.3/HomeHub.exe",
-    "sha256":  "b8829eec63b577548c3666869c2a9121e6041c0ed1f7d4eafec30cffab1373c3"
+    "version":  "1.170.0",
+    "notes":  "GoPro Videos has its own switch on the Admin page, so someone can watch and manage the GoPro videos without access to the whole file share. Playing a video now shows just the video - press and hold a video (right-click on a computer) to name, download or delete it.",
+    "url":  "https://github.com/Stevo238/home-hub-releases/releases/download/v1.170.0/HomeHub.exe",
+    "sha256":  "883ba4805fc14aa0d2f94a2add3713fc0b8178448752a7b71981f841138207bc"
 }
