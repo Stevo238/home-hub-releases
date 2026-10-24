@@ -1,6 +1,6 @@
 {
-    "version":  "1.169.2",
-    "notes":  "GoPro Videos: Clear copied off the camera now works, and only ever deletes a video whose copy is safely on the GoPro drive (or that you deleted on the hub). Wall copies also survive hub updates.",
-    "url":  "https://github.com/Stevo238/home-hub-releases/releases/download/v1.169.2/HomeHub.exe",
-    "sha256":  "8a4a56636163956a6d334a1c5da890c0a2ed34e1ac4554cd866ea5747f2d6121"
+    "version":  "1.169.3",
+    "notes":  "GoPro Videos: the videos come first; the camera, copy progress and Recently deleted are underneath.",
+    "url":  "https://github.com/Stevo238/home-hub-releases/releases/download/v1.169.3/HomeHub.exe",
+    "sha256":  "b8829eec63b577548c3666869c2a9121e6041c0ed1f7d4eafec30cffab1373c3"
 }
