@@ -1,6 +1,6 @@
 {
-    "version":  "1.169.0",
-    "notes":  "GoPro Videos is now the place to manage them: see the camera's battery and card space, clear videos off the camera once they are copied, name videos, delete the ones not worth keeping (restorable for 30 days) and download full-quality originals. The videos now live on their own USB drive, so they never fill the shared drive.",
-    "url":  "https://github.com/Stevo238/home-hub-releases/releases/download/v1.169.0/HomeHub.exe",
-    "sha256":  "47aa390f1fd58418ecb4c23311218d3b4f867b1192d179a42867d5a5eccfb716"
+    "version":  "1.169.1",
+    "notes":  "GoPro Videos: the Clear copied off the camera button now works on the HERO13.",
+    "url":  "https://github.com/Stevo238/home-hub-releases/releases/download/v1.169.1/HomeHub.exe",
+    "sha256":  "f13de040fc34d88475572136a7f2e285ac7456c05639e23c0d240c9262868859"
 }
