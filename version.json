@@ -1,6 +1,6 @@
 {
-    "version":  "1.168.1",
-    "notes":  "GoPro: copying from the camera no longer stalls after a big video, and a new GoPro Videos tile on the hub plays the videos on a phone or computer.",
-    "url":  "https://github.com/Stevo238/home-hub-releases/releases/download/v1.168.1/HomeHub.exe",
-    "sha256":  "ead6e6feefd7e57c4f4b9933ae091e3b097812fdfb95b8a17e0133d6d6846a0f"
+    "version":  "1.169.0",
+    "notes":  "GoPro Videos is now the place to manage them: see the camera's battery and card space, clear videos off the camera once they are copied, name videos, delete the ones not worth keeping (restorable for 30 days) and download full-quality originals. The videos now live on their own USB drive, so they never fill the shared drive.",
+    "url":  "https://github.com/Stevo238/home-hub-releases/releases/download/v1.169.0/HomeHub.exe",
+    "sha256":  "47aa390f1fd58418ecb4c23311218d3b4f867b1192d179a42867d5a5eccfb716"
 }
