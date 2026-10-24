@@ -1,6 +1,6 @@
 {
-    "version":  "1.168.0",
-    "notes":  "GoPro videos: plug the GoPro into Vienna and switch it on. New videos and photos copy to the GoPro folder on the share, one folder per day, and play on the kitchen wall's new GoPro videos page.",
-    "url":  "https://github.com/Stevo238/home-hub-releases/releases/download/v1.168.0/HomeHub.exe",
-    "sha256":  "fcb83e79a03260928d93191383fd4220a90edf39534f8c2289db95047d971cd4"
+    "version":  "1.168.1",
+    "notes":  "GoPro: copying from the camera no longer stalls after a big video, and a new GoPro Videos tile on the hub plays the videos on a phone or computer.",
+    "url":  "https://github.com/Stevo238/home-hub-releases/releases/download/v1.168.1/HomeHub.exe",
+    "sha256":  "ead6e6feefd7e57c4f4b9933ae091e3b097812fdfb95b8a17e0133d6d6846a0f"
 }
