@@ -1,6 +1,6 @@
 {
-    "version":  "1.170.0",
-    "notes":  "GoPro Videos has its own switch on the Admin page, so someone can watch and manage the GoPro videos without access to the whole file share. Playing a video now shows just the video - press and hold a video (right-click on a computer) to name, download or delete it.",
-    "url":  "https://github.com/Stevo238/home-hub-releases/releases/download/v1.170.0/HomeHub.exe",
-    "sha256":  "883ba4805fc14aa0d2f94a2add3713fc0b8178448752a7b71981f841138207bc"
+    "version":  "1.171.0",
+    "notes":  "GoPro Videos can edit: press and hold a video and choose Trim to save just the good part as a new clip (the original is kept), or tap Select, pick clips in order and Make highlight to join them into one video.",
+    "url":  "https://github.com/Stevo238/home-hub-releases/releases/download/v1.171.0/HomeHub.exe",
+    "sha256":  "0aa9e333223f428fcc19ecb063695c767f31b311ec0d74fa84a33ca9c09acffd"
 }
