@@ -1,6 +1,6 @@
 {
-    "version":  "1.172.1",
-    "notes":  "GoPro: Stack Health now warns if the GoPro drive is unplugged or filling up; videos stream more smoothly on a phone away from home; and the kitchen wall shows a 'new GoPro videos' banner on the day the camera is unloaded - tap it to watch.",
-    "url":  "https://github.com/Stevo238/home-hub-releases/releases/download/v1.172.1/HomeHub.exe",
-    "sha256":  "dba0c8625796f7ba554d99b3f75eac9d7e7ea9aa7358971570fed064dae9c116"
+    "version": "1.172.2",
+    "notes": "3D printer: if the printer's USB connection blinks out mid-print, the hub now waits 25 seconds before treating it as an error and cutting the power, so the Pi's new auto-resume can pick the print back up. A real error that lasts still cuts the power and alerts Stephen's phone.",
+    "url": "https://github.com/Stevo238/home-hub-releases/releases/download/v1.172.2/HomeHub.exe",
+    "sha256": "ba3424a685e450c857f7a2135e1c7137edba05b492986a9ebd2dd58256e94eee"
 }
