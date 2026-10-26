@@ -1,6 +1,6 @@
 {
-    "version": "1.172.3",
-    "notes": "Kitchen calendar: a late event that sat just under another one (like Wednesday's 7:30 cleanup under 6:20 PT) used to get hidden behind a \"+1 more\" tag that spilled into the next day. The week now stretches its time range so every event shows, and any \"+N more\" tag that's still needed stays inside its own day.",
-    "url": "https://github.com/Stevo238/home-hub-releases/releases/download/v1.172.3/HomeHub.exe",
-    "sha256": "7d308d277bb47d1fd4f36be8392624b700bde657514b25385ee1c5dbbc516ca4"
+    "version": "1.172.4",
+    "notes": "Kitchen calendar: the lines between days now sit in the middle of the gap, so every day has even spacing. Events no longer hug the line on their left, and holiday art (like Halloween on Saturday) fills its day evenly instead of stopping short on the right.",
+    "url": "https://github.com/Stevo238/home-hub-releases/releases/download/v1.172.4/HomeHub.exe",
+    "sha256": "f7e610cc76dfeea9e0cce506fd2cd8f115dd4ec8d392bbff486a17ea83f16f96"
 }
