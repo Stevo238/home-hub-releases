@@ -1,6 +1,6 @@
 {
-    "version": "1.172.4",
-    "notes": "Kitchen calendar: the lines between days now sit in the middle of the gap, so every day has even spacing. Events no longer hug the line on their left, and holiday art (like Halloween on Saturday) fills its day evenly instead of stopping short on the right.",
-    "url": "https://github.com/Stevo238/home-hub-releases/releases/download/v1.172.4/HomeHub.exe",
-    "sha256": "f7e610cc76dfeea9e0cce506fd2cd8f115dd4ec8d392bbff486a17ea83f16f96"
+    "version": "1.172.5",
+    "notes": "Files: sorting by Newest first (or Oldest first) now lists folders and files together in true date order. Before, every folder sat above every file, so an old September folder showed above something saved today. Sorting by name, size or type still puts folders first.",
+    "url": "https://github.com/Stevo238/home-hub-releases/releases/download/v1.172.5/HomeHub.exe",
+    "sha256": "2e16b41d8cb75e9dfbb1bd977414ac46002c9ebf1c0e78c04bf4d4bdfef1866e"
 }
