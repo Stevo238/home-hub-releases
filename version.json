@@ -1,6 +1,6 @@
 {
-    "version": "1.174.0",
-    "notes": "Sky page, Planes tab: pinch (or scroll) to zoom, now down to street level around Andrews; a full-screen map button; government aircraft stand out - a pulsing red star for VIP flights (Air Force One/Two, Marine One, the VC-25 and E-4B jets, Special Air Mission flights out of Andrews), a red ring for military and a dashed ring for other government planes, with a banner whenever a VIP is in range. Tap any plane to see the path it flew as dots, plus its registration, type and owner.",
-    "url": "https://github.com/Stevo238/home-hub-releases/releases/download/v1.174.0/HomeHub.exe",
-    "sha256": "c10d989bdf7cdf9247693143245f0db462c63acc315075d68372322a82a8099a"
+    "version": "1.175.0",
+    "notes": "Sky page: phone alerts when a VIP flight (Air Force One/Two, Marine One, SAM flights out of Andrews) comes within 15 miles, and for any aircraft emergency in range - switch them on or off on the new Logbook & stats tab. That tab also keeps a logbook of every VIP, military and government plane heard (tap one to see its path on the map), today's sky stats (planes seen, farthest, highest, fastest, busiest hour) and a coverage chart of how far the roof antenna hears in each direction (also as a map overlay). Tapping a plane now shows where it is flying from and to, and a photo of the actual aircraft. Airports and airstrips around the house are marked on the map, and the ones on a tapped flight's route light up. The kitchen wall shows a short note when a plane passes right over the house, and the morning brief mentions any VIP or military flyover.",
+    "url": "https://github.com/Stevo238/home-hub-releases/releases/download/v1.175.0/HomeHub.exe",
+    "sha256": "a131a165b4c255631ae50a47e8ea72c3723cc655750d231d4847c931b70b0718"
 }
