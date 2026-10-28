@@ -1,6 +1,6 @@
 {
-    "version": "1.175.1",
-    "notes": "Sky page, Logbook & stats tab: fixed the phone layout - the filter buttons fit on one row and the phone-alert switches line up with their text.",
-    "url": "https://github.com/Stevo238/home-hub-releases/releases/download/v1.175.1/HomeHub.exe",
-    "sha256": "24802c01dda630baa906224cba8663a65f12ef8af9dfaefdaf840aadb0435d51"
+    "version": "1.175.2",
+    "notes": "Sky page logbook: tapping an entry now opens its details right in the list - type, registration, when it was heard, altitude, closest approach, a photo of the aircraft and a FlightAware link - with a Show its path on the map button when it sent its position. Military planes that hide their position (like the C-40C) no longer open an empty map.",
+    "url": "https://github.com/Stevo238/home-hub-releases/releases/download/v1.175.2/HomeHub.exe",
+    "sha256": "c10a5fd5bb5d785111d7a67debd2792ebf4949180eab03105e12de6af78e5414"
 }
