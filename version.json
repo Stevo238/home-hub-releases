@@ -1,6 +1,6 @@
 {
-    "version": "1.175.0",
-    "notes": "Sky page: phone alerts when a VIP flight (Air Force One/Two, Marine One, SAM flights out of Andrews) comes within 15 miles, and for any aircraft emergency in range - switch them on or off on the new Logbook & stats tab. That tab also keeps a logbook of every VIP, military and government plane heard (tap one to see its path on the map), today's sky stats (planes seen, farthest, highest, fastest, busiest hour) and a coverage chart of how far the roof antenna hears in each direction (also as a map overlay). Tapping a plane now shows where it is flying from and to, and a photo of the actual aircraft. Airports and airstrips around the house are marked on the map, and the ones on a tapped flight's route light up. The kitchen wall shows a short note when a plane passes right over the house, and the morning brief mentions any VIP or military flyover.",
-    "url": "https://github.com/Stevo238/home-hub-releases/releases/download/v1.175.0/HomeHub.exe",
-    "sha256": "a131a165b4c255631ae50a47e8ea72c3723cc655750d231d4847c931b70b0718"
+    "version": "1.175.1",
+    "notes": "Sky page, Logbook & stats tab: fixed the phone layout - the filter buttons fit on one row and the phone-alert switches line up with their text.",
+    "url": "https://github.com/Stevo238/home-hub-releases/releases/download/v1.175.1/HomeHub.exe",
+    "sha256": "24802c01dda630baa906224cba8663a65f12ef8af9dfaefdaf840aadb0435d51"
 }
