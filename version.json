@@ -1,6 +1,6 @@
 {
-    "version": "1.173.0",
-    "notes": "New Sky page (in Mine): the roof radio on SatPi. Auto mode tracks planes overhead on a live map and switches itself to the Meteor weather satellites for each good pass, then back. The Satellite tab shows the next pass as a sky dome (where it rises, how high, where it sets) with a countdown, a 24-hour pass timeline, and the picture gallery. Viewing needs the new Sky permission; changing the radio mode is admins only.",
-    "url": "https://github.com/Stevo238/home-hub-releases/releases/download/v1.173.0/HomeHub.exe",
-    "sha256": "ee860e02a33db5b4ae516281900cf6a08423c5ad94f1dcca7a1f4215a14063d0"
+    "version": "1.174.0",
+    "notes": "Sky page, Planes tab: pinch (or scroll) to zoom, now down to street level around Andrews; a full-screen map button; government aircraft stand out - a pulsing red star for VIP flights (Air Force One/Two, Marine One, the VC-25 and E-4B jets, Special Air Mission flights out of Andrews), a red ring for military and a dashed ring for other government planes, with a banner whenever a VIP is in range. Tap any plane to see the path it flew as dots, plus its registration, type and owner.",
+    "url": "https://github.com/Stevo238/home-hub-releases/releases/download/v1.174.0/HomeHub.exe",
+    "sha256": "c10d989bdf7cdf9247693143245f0db462c63acc315075d68372322a82a8099a"
 }
