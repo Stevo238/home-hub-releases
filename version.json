@@ -1,6 +1,6 @@
 {
-    "version": "1.172.5",
-    "notes": "Files: sorting by Newest first (or Oldest first) now lists folders and files together in true date order. Before, every folder sat above every file, so an old September folder showed above something saved today. Sorting by name, size or type still puts folders first.",
-    "url": "https://github.com/Stevo238/home-hub-releases/releases/download/v1.172.5/HomeHub.exe",
-    "sha256": "2e16b41d8cb75e9dfbb1bd977414ac46002c9ebf1c0e78c04bf4d4bdfef1866e"
+    "version": "1.173.0",
+    "notes": "New Sky page (in Mine): the roof radio on SatPi. Auto mode tracks planes overhead on a live map and switches itself to the Meteor weather satellites for each good pass, then back. The Satellite tab shows the next pass as a sky dome (where it rises, how high, where it sets) with a countdown, a 24-hour pass timeline, and the picture gallery. Viewing needs the new Sky permission; changing the radio mode is admins only.",
+    "url": "https://github.com/Stevo238/home-hub-releases/releases/download/v1.173.0/HomeHub.exe",
+    "sha256": "ee860e02a33db5b4ae516281900cf6a08423c5ad94f1dcca7a1f4215a14063d0"
 }
