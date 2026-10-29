@@ -1,6 +1,6 @@
 {
-    "version": "1.175.2",
-    "notes": "Sky page logbook: tapping an entry now opens its details right in the list - type, registration, when it was heard, altitude, closest approach, a photo of the aircraft and a FlightAware link - with a Show its path on the map button when it sent its position. Military planes that hide their position (like the C-40C) no longer open an empty map.",
-    "url": "https://github.com/Stevo238/home-hub-releases/releases/download/v1.175.2/HomeHub.exe",
-    "sha256": "c10a5fd5bb5d785111d7a67debd2792ebf4949180eab03105e12de6af78e5414"
+    "version": "1.176.0",
+    "notes": "Sky page: new Balloon tab. The roof radio now listens for the National Weather Service balloons launched from Sterling, VA every morning and evening (about 7 AM and 7 PM). While one is up you get its altitude, climb rate, distance from the house and a rough landing guess, a live chart of temperature and humidity as it climbs (with the tropopause marked where this balloon found it), and its path on the plane map. Past flights are listed below. The balloon gets the radio for its flight, so planes pause for about two hours twice a day until a second radio is added.",
+    "url": "https://github.com/Stevo238/home-hub-releases/releases/download/v1.176.0/HomeHub.exe",
+    "sha256": "2236229a9bf2fa7ab297aaad75aed63cbe9dbfb6070d7e03a02458c1bba1813f"
 }
