@@ -1,6 +1,6 @@
 {
-    "version": "1.176.1",
-    "notes": "Sky page: emergency phone alerts now wait for a confirmed emergency - the plane declaring it in its own data, or the emergency code held for 30 seconds - so a single garbled reading (like this morning's United 1227 \"hijack\" code) no longer sends an alert. Real emergencies are also kept in the logbook now, with their own Emergency filter.",
-    "url": "https://github.com/Stevo238/home-hub-releases/releases/download/v1.176.1/HomeHub.exe",
-    "sha256": "a025eb871836b3e045bc678deb72e173d5ff3a35b6b6b6ccd8ed3bd0cd52172a"
+    "version": "1.176.2",
+    "notes": "Sky page, Logbook on phones: the filter buttons fit (All, VIP, Military on one row; Government and Emergency on the next), the Most seen list is one short line that follows the filter you pick, each filter has its own empty message, and entries no longer repeat the aircraft type.",
+    "url": "https://github.com/Stevo238/home-hub-releases/releases/download/v1.176.2/HomeHub.exe",
+    "sha256": "bdbaf5df4c9bd9f79c63399d16be429e63c9fa312172829beeb6f599059d4dff"
 }
