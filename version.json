@@ -1,6 +1,6 @@
 {
-    "version": "1.176.0",
-    "notes": "Sky page: new Balloon tab. The roof radio now listens for the National Weather Service balloons launched from Sterling, VA every morning and evening (about 7 AM and 7 PM). While one is up you get its altitude, climb rate, distance from the house and a rough landing guess, a live chart of temperature and humidity as it climbs (with the tropopause marked where this balloon found it), and its path on the plane map. Past flights are listed below. The balloon gets the radio for its flight, so planes pause for about two hours twice a day until a second radio is added.",
-    "url": "https://github.com/Stevo238/home-hub-releases/releases/download/v1.176.0/HomeHub.exe",
-    "sha256": "2236229a9bf2fa7ab297aaad75aed63cbe9dbfb6070d7e03a02458c1bba1813f"
+    "version": "1.176.1",
+    "notes": "Sky page: emergency phone alerts now wait for a confirmed emergency - the plane declaring it in its own data, or the emergency code held for 30 seconds - so a single garbled reading (like this morning's United 1227 \"hijack\" code) no longer sends an alert. Real emergencies are also kept in the logbook now, with their own Emergency filter.",
+    "url": "https://github.com/Stevo238/home-hub-releases/releases/download/v1.176.1/HomeHub.exe",
+    "sha256": "a025eb871836b3e045bc678deb72e173d5ff3a35b6b6b6ccd8ed3bd0cd52172a"
 }
