@@ -1,6 +1,6 @@
 {
-    "version": "1.176.2",
-    "notes": "Sky page, Logbook on phones: the filter buttons fit (All, VIP, Military on one row; Government and Emergency on the next), the Most seen list is one short line that follows the filter you pick, each filter has its own empty message, and entries no longer repeat the aircraft type.",
-    "url": "https://github.com/Stevo238/home-hub-releases/releases/download/v1.176.2/HomeHub.exe",
-    "sha256": "bdbaf5df4c9bd9f79c63399d16be429e63c9fa312172829beeb6f599059d4dff"
+  "version": "1.176.3",
+  "notes": "Sky page: clicking a plane on the map works on a computer again (it only worked with a finger on a phone).",
+  "url": "https://github.com/Stevo238/home-hub-releases/releases/download/v1.176.3/HomeHub.exe",
+  "sha256": "dbeabc11a349dadc4799e8e8f492505da86079a63d91d0d295d335f5e4a4672c"
 }
