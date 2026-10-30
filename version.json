@@ -1,6 +1,6 @@
 {
-  "version": "1.176.4",
-  "notes": "Sky page: a weather balloon in the air now updates live every 2 seconds. The readings table drops the empty Pressure column (the usual balloon has no pressure sensor), and holding a finger on the map no longer highlights its labels.",
-  "url": "https://github.com/Stevo238/home-hub-releases/releases/download/v1.176.4/HomeHub.exe",
-  "sha256": "d884194a37f984fd81123607fd0bc78f6f1a17c749d48428a9b9afdcf18bbc8a"
+  "version": "1.176.5",
+  "notes": "Sky page: the Planes tab is now called Map (it shows planes, the weather balloon and airports). The Balloon tab gains Every reading - all the data the balloon sent, newest first, with a download of the whole flight - and shows how close the balloon came to the house.",
+  "url": "https://github.com/Stevo238/home-hub-releases/releases/download/v1.176.5/HomeHub.exe",
+  "sha256": "d5f30efd2fe4978487dcb64470a8fd441635fca4fcbb9e02775a88f81cfea448"
 }
