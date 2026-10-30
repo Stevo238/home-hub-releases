@@ -1,6 +1,6 @@
 {
-  "version": "1.176.6",
-  "notes": "Sky page: the balloon (and satellite and plane) icons no longer flash a red emoji each time the page updates.",
-  "url": "https://github.com/Stevo238/home-hub-releases/releases/download/v1.176.6/HomeHub.exe",
-  "sha256": "8b959f3a436f4b3e2b5e9bc740bfb700ee8c1cf2794497e130307458bdc60648"
+  "version": "1.177.0",
+  "notes": "Sky page: weather-balloon phone alerts - one when a balloon passes within 3 miles of the house, and one when a falling balloon looks likely to land within 10 miles (a rough guess from its drift). Both can be switched off or the distances changed on the Phone alerts card.",
+  "url": "https://github.com/Stevo238/home-hub-releases/releases/download/v1.177.0/HomeHub.exe",
+  "sha256": "05cc21dca715357e475771a36a89a3c15379a4c4a19211028531d4464de78bad"
 }
