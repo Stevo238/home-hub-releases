@@ -1,6 +1,6 @@
 {
-  "version": "1.177.0",
-  "notes": "Sky page: weather-balloon phone alerts - one when a balloon passes within 3 miles of the house, and one when a falling balloon looks likely to land within 10 miles (a rough guess from its drift). Both can be switched off or the distances changed on the Phone alerts card.",
-  "url": "https://github.com/Stevo238/home-hub-releases/releases/download/v1.177.0/HomeHub.exe",
-  "sha256": "05cc21dca715357e475771a36a89a3c15379a4c4a19211028531d4464de78bad"
+  "version": "1.177.1",
+  "notes": "Shopping lists: tapping an item to check it off now always works. Before, if the list had an older checked-off item with the same name (like an old 'chips'), the tap hit the old one and the new item stayed on the wall.",
+  "url": "https://github.com/Stevo238/home-hub-releases/releases/download/v1.177.1/HomeHub.exe",
+  "sha256": "5672c1872e6f52a7c23cae2693db6e1875537206c73af6d596a123b3916257f1"
 }
