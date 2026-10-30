@@ -1,6 +1,6 @@
 {
-  "version": "1.176.3",
-  "notes": "Sky page: clicking a plane on the map works on a computer again (it only worked with a finger on a phone).",
-  "url": "https://github.com/Stevo238/home-hub-releases/releases/download/v1.176.3/HomeHub.exe",
-  "sha256": "dbeabc11a349dadc4799e8e8f492505da86079a63d91d0d295d335f5e4a4672c"
+  "version": "1.176.4",
+  "notes": "Sky page: a weather balloon in the air now updates live every 2 seconds. The readings table drops the empty Pressure column (the usual balloon has no pressure sensor), and holding a finger on the map no longer highlights its labels.",
+  "url": "https://github.com/Stevo238/home-hub-releases/releases/download/v1.176.4/HomeHub.exe",
+  "sha256": "d884194a37f984fd81123607fd0bc78f6f1a17c749d48428a9b9afdcf18bbc8a"
 }
