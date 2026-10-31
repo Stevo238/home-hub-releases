@@ -1,6 +1,6 @@
 {
-  "version": "1.178.2",
-  "notes": "Sky page: set up for two radios. Planes run all day on their own receiver, so the map is never covered by a balloon or satellite pass any more; the status line and tile show everything running at once. Radio buttons are now Auto (everything), No ships, Planes only and Off. The Satellite tab is back for a trial after the new feed line.",
-  "url": "https://github.com/Stevo238/home-hub-releases/releases/download/v1.178.2/HomeHub.exe",
-  "sha256": "7c8be5d2fddf25a1f21729aabad0ba7dc3ed8f123a29c6a6c9344ed67e96f218"
+  "version": "1.178.3",
+  "notes": "Sky page: the radio buttons are replaced by two simple switches - Radio 1 (planes) and Radio 2 (weather balloons, satellite passes and ships). Each card shows what that radio is doing right now.",
+  "url": "https://github.com/Stevo238/home-hub-releases/releases/download/v1.178.3/HomeHub.exe",
+  "sha256": "32fba8865176234b80d02c83bd376d413e235608ba1e0d4a79f9be45a5c850b7"
 }
