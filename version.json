@@ -1,6 +1,6 @@
 {
-  "version": "1.177.1",
-  "notes": "Shopping lists: tapping an item to check it off now always works. Before, if the list had an older checked-off item with the same name (like an old 'chips'), the tap hit the old one and the new item stayed on the wall.",
-  "url": "https://github.com/Stevo238/home-hub-releases/releases/download/v1.177.1/HomeHub.exe",
-  "sha256": "5672c1872e6f52a7c23cae2693db6e1875537206c73af6d596a123b3916257f1"
+  "version": "1.178.0",
+  "notes": "Sky page: SHIPS. The radio can now listen for ships on the Chesapeake - they appear on the Map as boat shapes pointing the way they are going (hollow = stopped or at anchor), with channel markers as small diamonds. Tap a ship for its name, flag, type, speed, destination and track; there is a Ships list under the planes and a Ships heard card in the Logbook. New radio modes: Auto (balloons, then planes), Ships (balloons, then ships), Planes, Balloons, Off. Satellite pictures are switched off until a proper satellite antenna is up.",
+  "url": "https://github.com/Stevo238/home-hub-releases/releases/download/v1.178.0/HomeHub.exe",
+  "sha256": "38fda7cab3bdf162a8013fd743fba0a09fc9e78915f4c7b5407c22d7af47a614"
 }
