@@ -1,6 +1,6 @@
 {
-  "version": "1.178.4",
-  "notes": "Sky page: a switch for each job - Planes, Balloons, Satellites and Ships. Each card says what it is doing right now or when it is next (next balloon launch, next satellite pass and how high, or paused while the balloon has the radio).",
-  "url": "https://github.com/Stevo238/home-hub-releases/releases/download/v1.178.4/HomeHub.exe",
-  "sha256": "4262262e48bcb7403a7d5a7799ad34de6cd16831ba641a90aab25f5f56ab5cd7"
+  "version": "1.179.0",
+  "notes": "Sky page: NOAA Weather Radio alerts, decoded straight off the air by the roof antenna (works even if the internet is down). Warnings for Prince George's County - tornado, severe thunderstorm, flood, winter storm and the rest - send a phone alert and show a red banner on the Sky page while in effect. Weekly tests are logged but never alert. New Weather alerts switch; the alert log is in Logbook & stats.",
+  "url": "https://github.com/Stevo238/home-hub-releases/releases/download/v1.179.0/HomeHub.exe",
+  "sha256": "ef3b64d6dc68327282331422b51533e8009eea2a9845ece8459399fb41f20420"
 }
