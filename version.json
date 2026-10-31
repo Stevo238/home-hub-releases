@@ -1,6 +1,6 @@
 {
-  "version": "1.178.3",
-  "notes": "Sky page: the radio buttons are replaced by two simple switches - Radio 1 (planes) and Radio 2 (weather balloons, satellite passes and ships). Each card shows what that radio is doing right now.",
-  "url": "https://github.com/Stevo238/home-hub-releases/releases/download/v1.178.3/HomeHub.exe",
-  "sha256": "32fba8865176234b80d02c83bd376d413e235608ba1e0d4a79f9be45a5c850b7"
+  "version": "1.178.4",
+  "notes": "Sky page: a switch for each job - Planes, Balloons, Satellites and Ships. Each card says what it is doing right now or when it is next (next balloon launch, next satellite pass and how high, or paused while the balloon has the radio).",
+  "url": "https://github.com/Stevo238/home-hub-releases/releases/download/v1.178.4/HomeHub.exe",
+  "sha256": "4262262e48bcb7403a7d5a7799ad34de6cd16831ba641a90aab25f5f56ab5cd7"
 }
