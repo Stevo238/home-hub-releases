@@ -1,6 +1,6 @@
 {
-  "version": "1.179.3",
-  "notes": "Behind the scenes: the hub now keeps a log and records exactly where it is stuck if a page ever hangs (fixes the start-up problem in 1.179.2). Paired with a watchdog that restarts a frozen hub on its own and tells Stephen's phone.",
-  "url": "https://github.com/Stevo238/home-hub-releases/releases/download/v1.179.3/HomeHub.exe",
-  "sha256": "ebf50d2511a3b6b0c24d09affb6822257538bb690d936efcaa85c13ed1487fbe"
+  "version": "1.179.4",
+  "notes": "Sky page: the map no longer flashes or leaves grey squares while you drag it around (especially in full screen on a phone).",
+  "url": "https://github.com/Stevo238/home-hub-releases/releases/download/v1.179.4/HomeHub.exe",
+  "sha256": "a3e411fc821822986fdc3211a947d9fc469749231398d741dcae662665170b27"
 }
