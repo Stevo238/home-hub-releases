@@ -1,6 +1,6 @@
 {
-  "version": "1.180.1",
-  "notes": "Sky page: Sky view now turns the right way when the phone is sideways, and if you pick a plane or ship first, Sky view shows a big arrow telling you which way to turn to find it. The page is tidier: the radio switches and phone alerts sit behind a Settings button, Sky view is a camera button on the map, and Today in the sky has arrows to look back at earlier days.",
-  "url": "https://github.com/Stevo238/home-hub-releases/releases/download/v1.180.1/HomeHub.exe",
-  "sha256": "f694999940f479b1a7e8e39c7d972af3c99b89023cee6839ca2c01c8c3246605"
+  "version": "1.180.2",
+  "notes": "Sky page: tidier spacing on Today in the sky, and the map legend no longer repeats the pinch-to-zoom hint.",
+  "url": "https://github.com/Stevo238/home-hub-releases/releases/download/v1.180.2/HomeHub.exe",
+  "sha256": "f1eeb5bb134b1b2b7853b8b1e4679ea0a2f3bddd92255ea0fc26cbc94536bbe8"
 }
