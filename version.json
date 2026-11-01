@@ -1,6 +1,6 @@
 {
-  "version": "1.180.0",
-  "notes": "Sky view! On the Sky page Map tab, tap Sky view and point your phone at the sky: each plane your receiver hears is labelled on the camera picture - call sign, type, altitude and distance; tap one for the route and a photo. If the labels sit a little off, tap Line up, put a plane you can see in the circle and tap its label. Works at hub.motronimeadows.com (the camera needs the secure address).",
-  "url": "https://github.com/Stevo238/home-hub-releases/releases/download/v1.180.0/HomeHub.exe",
-  "sha256": "714a441786498b179b98fe95559bc02ecd7d0d3495804cbb77232cbc6a8dbdba"
+  "version": "1.180.1",
+  "notes": "Sky page: Sky view now turns the right way when the phone is sideways, and if you pick a plane or ship first, Sky view shows a big arrow telling you which way to turn to find it. The page is tidier: the radio switches and phone alerts sit behind a Settings button, Sky view is a camera button on the map, and Today in the sky has arrows to look back at earlier days.",
+  "url": "https://github.com/Stevo238/home-hub-releases/releases/download/v1.180.1/HomeHub.exe",
+  "sha256": "f694999940f479b1a7e8e39c7d972af3c99b89023cee6839ca2c01c8c3246605"
 }
