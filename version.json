@@ -1,6 +1,6 @@
 {
-  "version": "1.179.1",
-  "notes": "Sky page: a plane in a confirmed emergency now stands out - an amber arrow with a pulsing amber ring on the map, labelled with its code (7500 hijack, 7600 radio failure, 7700 emergency), at the top of the planes list, and in a banner above the map that says what the emergency is (tap it to find the plane).",
-  "url": "https://github.com/Stevo238/home-hub-releases/releases/download/v1.179.1/HomeHub.exe",
-  "sha256": "23daacd9f9799c8ef0ccc5ace06ea7de7db932e95b1a52d5ec75f0321d5d055e"
+  "version": "1.179.3",
+  "notes": "Behind the scenes: the hub now keeps a log and records exactly where it is stuck if a page ever hangs (fixes the start-up problem in 1.179.2). Paired with a watchdog that restarts a frozen hub on its own and tells Stephen's phone.",
+  "url": "https://github.com/Stevo238/home-hub-releases/releases/download/v1.179.3/HomeHub.exe",
+  "sha256": "ebf50d2511a3b6b0c24d09affb6822257538bb690d936efcaa85c13ed1487fbe"
 }
