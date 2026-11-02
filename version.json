@@ -1,6 +1,6 @@
 {
-  "version": "1.180.9",
-  "notes": "Sky map: planes are drawn as jet, propeller or helicopter shapes that point the way they fly, and VIP planes have a gold ring, so helicopters are easy to tell apart. Also includes the kitchen countdown from 1.180.8: top right, on every page.",
-  "url": "https://github.com/Stevo238/home-hub-releases/releases/download/v1.180.9/HomeHub.exe",
-  "sha256": "9e3f598d9dc7c5d3c87f3142d5cf37f149bb7ba4393083339c0965a5c8683d09"
+  "version": "1.180.10",
+  "notes": "Sky map: the government ring is now solid, matching the key.",
+  "url": "https://github.com/Stevo238/home-hub-releases/releases/download/v1.180.10/HomeHub.exe",
+  "sha256": "a435dbbb8a952deef4726cb3a76b5851f9ed7d9296989801acf31dc38399dffb"
 }
