@@ -1,6 +1,6 @@
 {
-  "version": "1.180.11",
-  "notes": "Sky satellite pictures: a pass with many pictures now has previous and next buttons and a count, so you can step through all of them on the phone.",
-  "url": "https://github.com/Stevo238/home-hub-releases/releases/download/v1.180.11/HomeHub.exe",
-  "sha256": "75c3fba33809d248205318c9c570c518e0a32c8489b0ed354fdd536ba7662385"
+  "version": "1.180.12",
+  "notes": "Sky satellite pictures: the previous and next buttons and the count now fit on phone screens, and the buttons are full tap size.",
+  "url": "https://github.com/Stevo238/home-hub-releases/releases/download/v1.180.12/HomeHub.exe",
+  "sha256": "36f25f492c27aea67868567080052d56a71bd257f28e77fd64d37c15f12727ec"
 }
