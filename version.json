@@ -1,6 +1,6 @@
 {
-  "version": "1.180.8",
-  "notes": "Kitchen wall: the Leave for School countdown now sits at the top right, between the clock and the buttons, on every page (blue, amber in the last 5 minutes, red Go now!). The thin line that flashed along the bottom of Home is gone - the old countdown's pulse was making the chores box scroll.",
-  "url": "https://github.com/Stevo238/home-hub-releases/releases/download/v1.180.8/HomeHub.exe",
-  "sha256": "1d7ac6475bbb19734dbe72846b1fbfa12327349a8d0f64ecc7de7a15c6e4a7a5"
+  "version": "1.180.9",
+  "notes": "Sky map: planes are drawn as jet, propeller or helicopter shapes that point the way they fly, and VIP planes have a gold ring, so helicopters are easy to tell apart. Also includes the kitchen countdown from 1.180.8: top right, on every page.",
+  "url": "https://github.com/Stevo238/home-hub-releases/releases/download/v1.180.9/HomeHub.exe",
+  "sha256": "9e3f598d9dc7c5d3c87f3142d5cf37f149bb7ba4393083339c0965a5c8683d09"
 }
