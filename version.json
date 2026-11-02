@@ -1,6 +1,6 @@
 {
-  "version": "1.180.12",
-  "notes": "Sky satellite pictures: the previous and next buttons and the count now fit on phone screens, and the buttons are full tap size.",
-  "url": "https://github.com/Stevo238/home-hub-releases/releases/download/v1.180.12/HomeHub.exe",
-  "sha256": "36f25f492c27aea67868567080052d56a71bd257f28e77fd64d37c15f12727ec"
+  "version": "1.180.13",
+  "notes": "Sky satellite pictures: the picture menu keeps a usable width, so the previous and next buttons and the count sit cleanly on phone screens.",
+  "url": "https://github.com/Stevo238/home-hub-releases/releases/download/v1.180.13/HomeHub.exe",
+  "sha256": "167cf772a49be7f2b53300e03abee381630335d3b6a250f4f3cbde8c805566bb"
 }
