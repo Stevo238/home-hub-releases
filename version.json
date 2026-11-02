@@ -1,6 +1,6 @@
 {
-  "version": "1.180.7",
-  "notes": "Sky page: the route shown for a tapped plane is removed. A flight number often covers a different leg than the plane is flying, so the app was showing the wrong one. Tap FlightAware for the live route.",
-  "url": "https://github.com/Stevo238/home-hub-releases/releases/download/v1.180.7/HomeHub.exe",
-  "sha256": "49fbc922947a003f4becabfb5acaac0f11ab7fd09eda010016e44b54f03ee476"
+  "version": "1.180.8",
+  "notes": "Kitchen wall: the Leave for School countdown now sits at the top right, between the clock and the buttons, on every page (blue, amber in the last 5 minutes, red Go now!). The thin line that flashed along the bottom of Home is gone - the old countdown's pulse was making the chores box scroll.",
+  "url": "https://github.com/Stevo238/home-hub-releases/releases/download/v1.180.8/HomeHub.exe",
+  "sha256": "1d7ac6475bbb19734dbe72846b1fbfa12327349a8d0f64ecc7de7a15c6e4a7a5"
 }
