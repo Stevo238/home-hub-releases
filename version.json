@@ -1,6 +1,6 @@
 {
-  "version": "1.180.6",
-  "notes": "Sky page: a tapped plane shows its route only when the plane is actually on that leg. A flight number can fly several legs a day, so otherwise it is labelled as the scheduled route. Use FlightAware for the live leg.",
-  "url": "https://github.com/Stevo238/home-hub-releases/releases/download/v1.180.6/HomeHub.exe",
-  "sha256": "81a9f9d2c04b71a84955008c69c8ee7e68d2a9605506207cd700afa97a66917e"
+  "version": "1.180.7",
+  "notes": "Sky page: the route shown for a tapped plane is removed. A flight number often covers a different leg than the plane is flying, so the app was showing the wrong one. Tap FlightAware for the live route.",
+  "url": "https://github.com/Stevo238/home-hub-releases/releases/download/v1.180.7/HomeHub.exe",
+  "sha256": "49fbc922947a003f4becabfb5acaac0f11ab7fd09eda010016e44b54f03ee476"
 }
