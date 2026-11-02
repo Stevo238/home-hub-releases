@@ -1,6 +1,6 @@
 {
-  "version": "1.180.4",
-  "notes": "Sky map: the distance rings are now solid and gold with bold labels, so they stand out on the map.",
-  "url": "https://github.com/Stevo238/home-hub-releases/releases/download/v1.180.4/HomeHub.exe",
-  "sha256": "96e3d96e8b275cd2cdc9b6018cbe131f2a75a931fe8696578d7411a7d9787922"
+  "version": "1.180.5",
+  "notes": "Sky page: each receiver card shows when it last heard something, tapping a plane or ship on full screen shows its details over the map, and the distance rings are softer.",
+  "url": "https://github.com/Stevo238/home-hub-releases/releases/download/v1.180.5/HomeHub.exe",
+  "sha256": "76025225e0d71578b6ae52a73fd9ff5c39eb238d32d35232e763f38c269d1f0f"
 }
