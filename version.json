@@ -1,6 +1,6 @@
 {
-  "version": "1.180.16",
-  "notes": "Sky: tapping a plane shows a ground speed chart beside its altitude chart, over its recent track.",
-  "url": "https://github.com/Stevo238/home-hub-releases/releases/download/v1.180.16/HomeHub.exe",
-  "sha256": "78aa812a2b791640f54739d9a749288b34ed12c6648d0011b50159e4c973dc18"
+  "version": "1.180.17",
+  "notes": "Sky: a tapped plane's track is kept for 2 hours (was 45 minutes), so the trail and charts reach further back.",
+  "url": "https://github.com/Stevo238/home-hub-releases/releases/download/v1.180.17/HomeHub.exe",
+  "sha256": "9f48382564ee15f2e7e7e3b527d20dcaa866ddd07bd1f97ab7cb67cfa901e507"
 }
