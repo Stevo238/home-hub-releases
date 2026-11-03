@@ -1,6 +1,6 @@
 {
-  "version": "1.180.20",
-  "notes": "Sky logbook: the Day/Custom switch sits beside the day arrows, the title and hour filter sit on one line under them, and the spacing is tighter.",
-  "url": "https://github.com/Stevo238/home-hub-releases/releases/download/v1.180.20/HomeHub.exe",
-  "sha256": "f6397333ca844488a0be62df9e2c5c89e3327d4d1214e62ac15dd27d7af87f96"
+  "version": "1.180.21",
+  "notes": "Sky: the altitude and speed charts in the plane details are a sensible size on a computer screen.",
+  "url": "https://github.com/Stevo238/home-hub-releases/releases/download/v1.180.21/HomeHub.exe",
+  "sha256": "bf2f9675c5c550c4f4874efd0b83c998574d72abac7c3c68d4dcf8f0000bdef3"
 }
