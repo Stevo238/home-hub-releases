@@ -1,6 +1,6 @@
 {
-  "version": "1.180.18",
-  "notes": "Sky logbook: pick Day or a Custom time span (presets for the last 30 days and the last 5 days at noon, or your own dates and hours). Tap an hour on the chart to narrow everything to that hour. The report list and stats follow the window and the category filter.",
-  "url": "https://github.com/Stevo238/home-hub-releases/releases/download/v1.180.18/HomeHub.exe",
-  "sha256": "1f01980da7bc5649070f46ba27240b9b2320cc498fd1d5957e9cba1634544e90"
+  "version": "1.180.19",
+  "notes": "Sky logbook: the Day/Custom switch and the hour filter share one tidy row, and distances no longer wrap.",
+  "url": "https://github.com/Stevo238/home-hub-releases/releases/download/v1.180.19/HomeHub.exe",
+  "sha256": "c82fec8629902c9659d004725efa68d338f8c7744ee645f8f441fa53d034df4c"
 }
