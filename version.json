@@ -1,6 +1,6 @@
 {
-  "version": "1.180.14",
-  "notes": "Sky map: helicopter icons now turn to face their direction of travel, like the planes.",
-  "url": "https://github.com/Stevo238/home-hub-releases/releases/download/v1.180.14/HomeHub.exe",
-  "sha256": "66b8cb312de9c1ee4a1b88a8a08498c0cb3cc5ea4c604f174f28da790c1b6d34"
+  "version": "1.180.15",
+  "notes": "Sky: tapping a plane shows an altitude chart over its last 45 minutes of track. The SatPi now also keeps each point of that track with the plane speed, heading and climb rate, ready for later use.",
+  "url": "https://github.com/Stevo238/home-hub-releases/releases/download/v1.180.15/HomeHub.exe",
+  "sha256": "e375c311a62ab5a118a243091eaec3c2ad2d8f678e801caa5a550eff65aa34e7"
 }
