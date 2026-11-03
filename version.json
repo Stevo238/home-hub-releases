@@ -1,6 +1,6 @@
 {
-  "version": "1.180.17",
-  "notes": "Sky: a tapped plane's track is kept for 2 hours (was 45 minutes), so the trail and charts reach further back.",
-  "url": "https://github.com/Stevo238/home-hub-releases/releases/download/v1.180.17/HomeHub.exe",
-  "sha256": "9f48382564ee15f2e7e7e3b527d20dcaa866ddd07bd1f97ab7cb67cfa901e507"
+  "version": "1.180.18",
+  "notes": "Sky logbook: pick Day or a Custom time span (presets for the last 30 days and the last 5 days at noon, or your own dates and hours). Tap an hour on the chart to narrow everything to that hour. The report list and stats follow the window and the category filter.",
+  "url": "https://github.com/Stevo238/home-hub-releases/releases/download/v1.180.18/HomeHub.exe",
+  "sha256": "1f01980da7bc5649070f46ba27240b9b2320cc498fd1d5957e9cba1634544e90"
 }
