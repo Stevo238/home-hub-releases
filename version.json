@@ -1,6 +1,6 @@
 {
-  "version": "1.180.23",
-  "notes": "Sky full-screen map: the plane details panel no longer scrolls sideways, so its left edge stays in view.",
-  "url": "https://github.com/Stevo238/home-hub-releases/releases/download/v1.180.23/HomeHub.exe",
-  "sha256": "3e81b2dc1c0ef243d41f6ce8474063f00d85b095f198c50e56281399c6b00778"
+  "version": "1.180.24",
+  "notes": "Sky map: the plane details popup is a compact card in the corner on a computer, and a shorter sheet on a phone, with less empty space.",
+  "url": "https://github.com/Stevo238/home-hub-releases/releases/download/v1.180.24/HomeHub.exe",
+  "sha256": "eacf11b7f857e956f2896dcf75393df8a8cb86259e1a1bfbf22350b3b5193cee"
 }
