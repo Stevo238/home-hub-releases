@@ -1,6 +1,6 @@
 {
-  "version": "1.180.24",
-  "notes": "Sky map: the plane details popup is a compact card in the corner on a computer, and a shorter sheet on a phone, with less empty space.",
-  "url": "https://github.com/Stevo238/home-hub-releases/releases/download/v1.180.24/HomeHub.exe",
-  "sha256": "eacf11b7f857e956f2896dcf75393df8a8cb86259e1a1bfbf22350b3b5193cee"
+  "version": "1.180.25",
+  "notes": "Sky map: scrolling inside the plane details popup scrolls the popup, not the map.",
+  "url": "https://github.com/Stevo238/home-hub-releases/releases/download/v1.180.25/HomeHub.exe",
+  "sha256": "16d807bf0e119f3d62fabe4f879e606c4011bec8b910e5ec17d06fa545d249a5"
 }
