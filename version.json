@@ -1,6 +1,6 @@
 {
-  "version": "1.180.21",
-  "notes": "Sky: the altitude and speed charts in the plane details are a sensible size on a computer screen.",
-  "url": "https://github.com/Stevo238/home-hub-releases/releases/download/v1.180.21/HomeHub.exe",
-  "sha256": "bf2f9675c5c550c4f4874efd0b83c998574d72abac7c3c68d4dcf8f0000bdef3"
+  "version": "1.180.22",
+  "notes": "Sky: on a computer the plane photo and its altitude and speed charts sit side by side, with less empty space. Phones still stack them.",
+  "url": "https://github.com/Stevo238/home-hub-releases/releases/download/v1.180.22/HomeHub.exe",
+  "sha256": "9fe84755ae83524f9298f70eebf9569fded1b1c73d9f5f6d2668a61ed982ffab"
 }
