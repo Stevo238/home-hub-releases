@@ -1,6 +1,6 @@
 {
-  "version": "1.180.25",
-  "notes": "Sky map: scrolling inside the plane details popup scrolls the popup, not the map.",
-  "url": "https://github.com/Stevo238/home-hub-releases/releases/download/v1.180.25/HomeHub.exe",
-  "sha256": "16d807bf0e119f3d62fabe4f879e606c4011bec8b910e5ec17d06fa545d249a5"
+  "version": "1.180.26",
+  "notes": "Sky map: a blue dot shows where you are, if you allow location in the browser. Your location stays on your device.",
+  "url": "https://github.com/Stevo238/home-hub-releases/releases/download/v1.180.26/HomeHub.exe",
+  "sha256": "4006ae06149473a6407b7f40033a54ecdd3dfd9a754f52f8ae949093c9995b3c"
 }
