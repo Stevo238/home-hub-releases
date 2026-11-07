@@ -1,6 +1,6 @@
 {
-  "version": "1.180.26",
-  "notes": "Sky map: a blue dot shows where you are, if you allow location in the browser. Your location stays on your device.",
-  "url": "https://github.com/Stevo238/home-hub-releases/releases/download/v1.180.26/HomeHub.exe",
-  "sha256": "4006ae06149473a6407b7f40033a54ecdd3dfd9a754f52f8ae949093c9995b3c"
+  "version": "1.180.27",
+  "notes": "Sky map: a small label on the map shows the location request result, so we can see why the installed app gets no location.",
+  "url": "https://github.com/Stevo238/home-hub-releases/releases/download/v1.180.27/HomeHub.exe",
+  "sha256": "193a9c9b3afc4b254c0ca6c2b287f9e2a54b277b34fe5353d81f96ad50ef5901"
 }
