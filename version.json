@@ -1,6 +1,6 @@
 {
-  "version": "1.180.28",
-  "notes": "Sky map: the location dot appears straight away, using the last known place (kept on your device), then updates as you move. Debug label removed.",
-  "url": "https://github.com/Stevo238/home-hub-releases/releases/download/v1.180.28/HomeHub.exe",
-  "sha256": "c722ee87c779d8346b5a4efc6866c89ce36f65ae42227bc6f7a0c2dace822362"
+  "version": "1.181.0",
+  "notes": "Files: new Share button. Tick files (or open a file's details) and tap Share to get a link anyone can download from without signing in - they see only those files. Links work for 1 day, 7 days, 30 days or forever; the Shared list shows downloads and lets you stop a link any time.",
+  "url": "https://github.com/Stevo238/home-hub-releases/releases/download/v1.181.0/HomeHub.exe",
+  "sha256": "e2443d9bf759330e0a9413fa17e00ead741362f61c4e0ddf1df25ff2919f8183"
 }
