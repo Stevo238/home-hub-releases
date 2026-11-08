@@ -1,6 +1,6 @@
 {
-  "version": "1.181.0",
-  "notes": "Files: new Share button. Tick files (or open a file's details) and tap Share to get a link anyone can download from without signing in - they see only those files. Links work for 1 day, 7 days, 30 days or forever; the Shared list shows downloads and lets you stop a link any time.",
-  "url": "https://github.com/Stevo238/home-hub-releases/releases/download/v1.181.0/HomeHub.exe",
-  "sha256": "e2443d9bf759330e0a9413fa17e00ead741362f61c4e0ddf1df25ff2919f8183"
+    "version":  "1.182.0",
+    "notes":  "New 804 Books tile in the 804 Cattle Co. section - the farm\u0027s general ledger, statements and bank loading at books.motronimeadows.com. Admins see it automatically; give others the new 804 Books permission on the Admin page.",
+    "url":  "https://github.com/Stevo238/home-hub-releases/releases/download/v1.182.0/HomeHub.exe",
+    "sha256":  "011821a6dda0bad391308f8e7105ff223535b9ee6fa84944bd469496fc8f9297"
 }
