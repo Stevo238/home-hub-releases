@@ -1,6 +1,6 @@
 {
-    "version": "1.184.0",
-    "notes": "Reliability tune-up from the November review: saved lists and stars can no longer be wiped by a file that won't read, the nightly freezer backup is checked before it counts, camera streams no longer get stuck on stills, a removed device always gets its internet back, stuck video jobs stop themselves, and the 3D printer's safety power cut tells you if it fails. Nothing looks different.",
-    "url": "https://github.com/Stevo238/home-hub-releases/releases/download/v1.184.0/HomeHub.exe",
-    "sha256": "5eace9b805a03230e24057b4f869c08ca9fe96249c5ee8f78d88b8d3c5634036"
+    "version": "1.185.0",
+    "notes": "Housekeeping from the November review: an old retired wall page and leftover test switches are removed, the nightly freezer backup no longer leaves stray files, and Stack Health fits a phone screen when an error message is long. Nothing else looks different.",
+    "url": "https://github.com/Stevo238/home-hub-releases/releases/download/v1.185.0/HomeHub.exe",
+    "sha256": "8c2f4737c0d18907f224057c7387c40e33be6b2326ee1e694473711d68f2ba2b"
 }
