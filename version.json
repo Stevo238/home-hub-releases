@@ -1,6 +1,6 @@
 {
-    "version":  "1.182.0",
-    "notes":  "New 804 Books tile in the 804 Cattle Co. section - the farm\u0027s general ledger, statements and bank loading at books.motronimeadows.com. Admins see it automatically; give others the new 804 Books permission on the Admin page.",
-    "url":  "https://github.com/Stevo238/home-hub-releases/releases/download/v1.182.0/HomeHub.exe",
-    "sha256":  "011821a6dda0bad391308f8e7105ff223535b9ee6fa84944bd469496fc8f9297"
+    "version": "1.183.0",
+    "notes": "Security tune-up from the November review: tighter handling of the house keys and passwords behind the scenes, safer lock and garage buttons when the hub has lost touch with Home Assistant, limits on big prints and share-link downloads, and the morning brief can now only look, never change anything. Nothing looks different.",
+    "url": "https://github.com/Stevo238/home-hub-releases/releases/download/v1.183.0/HomeHub.exe",
+    "sha256": "561ba47b8fe25e38b3ad48f55300ed2f429dc3bee8bc2dfb8cbbfde604406c96"
 }
