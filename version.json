@@ -1,6 +1,6 @@
 {
-    "version": "1.183.0",
-    "notes": "Security tune-up from the November review: tighter handling of the house keys and passwords behind the scenes, safer lock and garage buttons when the hub has lost touch with Home Assistant, limits on big prints and share-link downloads, and the morning brief can now only look, never change anything. Nothing looks different.",
-    "url": "https://github.com/Stevo238/home-hub-releases/releases/download/v1.183.0/HomeHub.exe",
-    "sha256": "561ba47b8fe25e38b3ad48f55300ed2f429dc3bee8bc2dfb8cbbfde604406c96"
+    "version": "1.184.0",
+    "notes": "Reliability tune-up from the November review: saved lists and stars can no longer be wiped by a file that won't read, the nightly freezer backup is checked before it counts, camera streams no longer get stuck on stills, a removed device always gets its internet back, stuck video jobs stop themselves, and the 3D printer's safety power cut tells you if it fails. Nothing looks different.",
+    "url": "https://github.com/Stevo238/home-hub-releases/releases/download/v1.184.0/HomeHub.exe",
+    "sha256": "5eace9b805a03230e24057b4f869c08ca9fe96249c5ee8f78d88b8d3c5634036"
 }
