@@ -1,6 +1,6 @@
 {
-    "version": "1.187.0",
-    "notes": "Wall panels: easier-to-read kitchen home page, one colour per person on the calendars, names under the kitchen buttons, bigger mud room room buttons.",
-    "url": "https://github.com/Stevo238/home-hub-releases/releases/download/v1.187.0/HomeHub.exe",
-    "sha256": "a51248dbfc51fff94406b5f68365b5c8d7fc6edfeb9f95726285c2cb8138ea0b"
+    "version": "1.188.0",
+    "notes": "Kitchen wall: grocery lists built like the to-do lines, no check box or circle (tap the line), smaller text, lighter cards.",
+    "url": "https://github.com/Stevo238/home-hub-releases/releases/download/v1.188.0/HomeHub.exe",
+    "sha256": "87073990c999c065f8755bc29da039ec75230faa9a48d717cc519d5b2c9f9b45"
 }
