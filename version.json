@@ -1,6 +1,6 @@
 {
-    "version": "1.186.0",
-    "notes": "Behind-the-scenes tidy-up: repeated page code now lives in one place and unused code is gone. Nothing looks different.",
-    "url": "https://github.com/Stevo238/home-hub-releases/releases/download/v1.186.0/HomeHub.exe",
-    "sha256": "63ee2fd16865a7f5e0aefe424ebcd3c5db0a45632ef6c598a0611a40e6245ab4"
+    "version": "1.187.0",
+    "notes": "Wall panels: easier-to-read kitchen home page, one colour per person on the calendars, names under the kitchen buttons, bigger mud room room buttons.",
+    "url": "https://github.com/Stevo238/home-hub-releases/releases/download/v1.187.0/HomeHub.exe",
+    "sha256": "a51248dbfc51fff94406b5f68365b5c8d7fc6edfeb9f95726285c2cb8138ea0b"
 }
