@@ -1,6 +1,6 @@
 {
-    "version": "1.185.0",
-    "notes": "Housekeeping from the November review: an old retired wall page and leftover test switches are removed, the nightly freezer backup no longer leaves stray files, and Stack Health fits a phone screen when an error message is long. Nothing else looks different.",
-    "url": "https://github.com/Stevo238/home-hub-releases/releases/download/v1.185.0/HomeHub.exe",
-    "sha256": "8c2f4737c0d18907f224057c7387c40e33be6b2326ee1e694473711d68f2ba2b"
+    "version": "1.186.0",
+    "notes": "Behind-the-scenes tidy-up: repeated page code now lives in one place and unused code is gone. Nothing looks different.",
+    "url": "https://github.com/Stevo238/home-hub-releases/releases/download/v1.186.0/HomeHub.exe",
+    "sha256": "63ee2fd16865a7f5e0aefe424ebcd3c5db0a45632ef6c598a0611a40e6245ab4"
 }
