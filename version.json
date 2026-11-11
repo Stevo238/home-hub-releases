@@ -1,6 +1,6 @@
 {
-    "version":  "1.189.0",
-    "notes":  "New tile: The Watch (under Mine, admins) - what the cameras saw, written out, with a usage page.",
-    "url":  "https://github.com/Stevo238/home-hub-releases/releases/download/v1.189.0/HomeHub.exe",
-    "sha256":  "700516be9be17be9b8404687c646dae3f284c3fbaa12eb8207ca90854c3e1917"
+    "version":  "1.189.1",
+    "notes":  "Fix: if the GoPro drive stops answering, the hub keeps loading. The Files tile and Stack Health say the drive is not answering instead of the home page hanging.",
+    "url":  "https://github.com/Stevo238/home-hub-releases/releases/download/v1.189.1/HomeHub.exe",
+    "sha256":  "d5ff016e7146b587136ec266d3ac9671225c34978f4f3dea083351b40b4a6f81"
 }
