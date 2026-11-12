@@ -1,6 +1,6 @@
 {
-    "version":  "1.192.0",
-    "notes":  "Questions now go straight to the person. Claude puts questions to someone by name; they show up on that person\u0027s own Questions page in the hub (with a tile on their home page while any are waiting) and their phone is told. Nobody has to pass them along. Admins still see every answer.",
-    "url":  "https://github.com/Stevo238/home-hub-releases/releases/download/v1.192.0/HomeHub.exe",
-    "sha256":  "7b128aef2e679e792a8cdd511dcaf868ccc6960d9a36b89294ea109063d0970a"
+    "version":  "1.193.0",
+    "notes":  "Questions is now a survey builder. Admins: New survey on the Questions page - add, reword, reorder and remove questions at any time, even after answers have started (answers stay with their questions). A survey can be for one person or open to everyone, and any admin can fill one out from their own phone, so two people can do it together. One answer sheet per survey.",
+    "url":  "https://github.com/Stevo238/home-hub-releases/releases/download/v1.193.0/HomeHub.exe",
+    "sha256":  "e84dc95760e8f8c1e0e1b0db2bd2c4dac5efddc316e984480ae4112c034e046c"
 }
