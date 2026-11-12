@@ -1,6 +1,6 @@
 {
-    "version":  "1.190.1",
-    "notes":  "Shed battery now shows its voltage with a plain label - Full / Good / Getting low / Low (or \u0027charging\u0027 while the sun is on the panels) - instead of the Renogy controller\u0027s own percentage, which reads far too low for the AGM batteries.",
-    "url":  "https://github.com/Stevo238/home-hub-releases/releases/download/v1.190.1/HomeHub.exe",
-    "sha256":  "c831908039262bcbe42e22b882f3c4dee1fb08d70d54892417b014a829c9a34e"
+    "version":  "1.191.0",
+    "notes":  "New: Questions. Claude can write a short questionnaire, the hub pushes its link to a phone, and the answers come back to a new Questions page (admins). The answer page needs no sign-in, works on any phone, and lets you save and finish later.",
+    "url":  "https://github.com/Stevo238/home-hub-releases/releases/download/v1.191.0/HomeHub.exe",
+    "sha256":  "43a50c625d40a98aab9b8b0171f68447623602d3ac31253769da18ed05d30f1b"
 }
