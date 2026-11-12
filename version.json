@@ -1,6 +1,6 @@
 {
-    "version":  "1.194.0",
-    "notes":  "Questions: no more submit step. Answers save as you tap and type, Back saves, the phone\u0027s back button saves, and anyone can come back and change an answer later. Every page has a Back. In the builder, Back saves too.",
-    "url":  "https://github.com/Stevo238/home-hub-releases/releases/download/v1.194.0/HomeHub.exe",
-    "sha256":  "a647fe89c9b57dc9c62a2a42bba613b7c56d398f771043c7361725c935f87956"
+    "version":  "1.195.0",
+    "notes":  "Family Health (Stephen and Roxann only): doctors, appointments, insurance cards, medications and allergies. Appointments go on the family calendar and follow it when moved there. Insurance cards: a clean digital card drawn from the numbers plus photos of the real card, both downloadable. Check-ups due, call and directions buttons, visit history.",
+    "url":  "https://github.com/Stevo238/home-hub-releases/releases/download/v1.195.0/HomeHub.exe",
+    "sha256":  "3b3d4a56ad4609f5e22ada6c0b6641770d39546a186eb42e3a83172f59750a3e"
 }
