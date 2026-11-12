@@ -1,6 +1,6 @@
 {
-    "version":  "1.195.1",
-    "notes":  "Family Health (Stephen and Roxann only): doctors, appointments, insurance cards, medications and allergies. Appointments go on the family calendar and follow it when moved there; one already typed into the calendar is linked, not added twice. Insurance cards: a clean digital card drawn from the numbers plus photos of the real card, both downloadable. Check-ups due, call and directions buttons, visit history.",
-    "url":  "https://github.com/Stevo238/home-hub-releases/releases/download/v1.195.1/HomeHub.exe",
-    "sha256":  "67d5e3bc59ecc4578a817ab8e21f36f956930d77aba5a54b8848bf1d7c8cc700"
+    "version":  "1.195.2",
+    "notes":  "Family Health: cards now close with Done or Cancel (Cancel puts a card back the way it was; a new card is not added). Undo after adding or waving off a calendar visit. Phone numbers format themselves. Events the family typed into the calendar are never re-made just because a doctor or address was filled in; a card can be deleted while leaving the calendar alone.",
+    "url":  "https://github.com/Stevo238/home-hub-releases/releases/download/v1.195.2/HomeHub.exe",
+    "sha256":  "519031743c5833eff1e6d00de0aeed277f39b953ccc8c1471df96207f2b199ac"
 }
