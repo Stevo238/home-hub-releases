@@ -1,6 +1,6 @@
 {
-    "version":  "1.190.0",
-    "notes":  "Stack Health: the Power card is now \u0027Power \u0026 batteries\u0027 and shows the shed solar battery (voltage, charge, solar now and today, load, battery temperature) from the Renogy controller. A new \u0027Shed solar battery\u0027 check turns amber under 12.0 V and red (with a phone alert) under 11.8 V.",
-    "url":  "https://github.com/Stevo238/home-hub-releases/releases/download/v1.190.0/HomeHub.exe",
-    "sha256":  "429b60239369b15af9a1de160f7622104acafe8dfffbee7b817f10583a7d607f"
+    "version":  "1.190.1",
+    "notes":  "Shed battery now shows its voltage with a plain label - Full / Good / Getting low / Low (or \u0027charging\u0027 while the sun is on the panels) - instead of the Renogy controller\u0027s own percentage, which reads far too low for the AGM batteries.",
+    "url":  "https://github.com/Stevo238/home-hub-releases/releases/download/v1.190.1/HomeHub.exe",
+    "sha256":  "c831908039262bcbe42e22b882f3c4dee1fb08d70d54892417b014a829c9a34e"
 }
