@@ -1,6 +1,6 @@
 {
-    "version":  "1.195.2",
-    "notes":  "Family Health: cards now close with Done or Cancel (Cancel puts a card back the way it was; a new card is not added). Undo after adding or waving off a calendar visit. Phone numbers format themselves. Events the family typed into the calendar are never re-made just because a doctor or address was filled in; a card can be deleted while leaving the calendar alone.",
-    "url":  "https://github.com/Stevo238/home-hub-releases/releases/download/v1.195.2/HomeHub.exe",
-    "sha256":  "519031743c5833eff1e6d00de0aeed277f39b953ccc8c1471df96207f2b199ac"
+    "version":  "1.195.3",
+    "notes":  "Family Health on a computer screen: uses the full width - visits beside history, doctors, people and insurance cards in columns, every doctor shown in full. Phones are unchanged.",
+    "url":  "https://github.com/Stevo238/home-hub-releases/releases/download/v1.195.3/HomeHub.exe",
+    "sha256":  "f83ccac025d86269fe2d6806e76dfad9c612175679a1ce6b7f1b24acd9061428"
 }
