@@ -1,6 +1,6 @@
 {
-    "version":  "1.195.4",
-    "notes":  "Family Health: Cancel and Done now sit in the card\u0027s heading (always in view) and again under the last field - no more buttons floating over the form.",
-    "url":  "https://github.com/Stevo238/home-hub-releases/releases/download/v1.195.4/HomeHub.exe",
-    "sha256":  "c29161ea8e2892a5d6f69da251fc10ccd24d4325d7cb6b8c199ae0a4ffd1205c"
+    "version":  "1.195.5",
+    "notes":  "Family Health: the dark bar behind the tabs and behind a card\u0027s heading is gone - the heading is now a rounded panel like the cards.",
+    "url":  "https://github.com/Stevo238/home-hub-releases/releases/download/v1.195.5/HomeHub.exe",
+    "sha256":  "8feae010a7b7e056cc821c64867882f2ccbc0b1ccec6d41bb831cee3eae7544f"
 }
