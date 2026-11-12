@@ -1,6 +1,6 @@
 {
-    "version":  "1.195.3",
-    "notes":  "Family Health on a computer screen: uses the full width - visits beside history, doctors, people and insurance cards in columns, every doctor shown in full. Phones are unchanged.",
-    "url":  "https://github.com/Stevo238/home-hub-releases/releases/download/v1.195.3/HomeHub.exe",
-    "sha256":  "f83ccac025d86269fe2d6806e76dfad9c612175679a1ce6b7f1b24acd9061428"
+    "version":  "1.195.4",
+    "notes":  "Family Health: Cancel and Done now sit in the card\u0027s heading (always in view) and again under the last field - no more buttons floating over the form.",
+    "url":  "https://github.com/Stevo238/home-hub-releases/releases/download/v1.195.4/HomeHub.exe",
+    "sha256":  "c29161ea8e2892a5d6f69da251fc10ccd24d4325d7cb6b8c199ae0a4ffd1205c"
 }
