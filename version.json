@@ -1,6 +1,6 @@
 {
-    "version":  "1.193.0",
-    "notes":  "Questions is now a survey builder. Admins: New survey on the Questions page - add, reword, reorder and remove questions at any time, even after answers have started (answers stay with their questions). A survey can be for one person or open to everyone, and any admin can fill one out from their own phone, so two people can do it together. One answer sheet per survey.",
-    "url":  "https://github.com/Stevo238/home-hub-releases/releases/download/v1.193.0/HomeHub.exe",
-    "sha256":  "e84dc95760e8f8c1e0e1b0db2bd2c4dac5efddc316e984480ae4112c034e046c"
+    "version":  "1.194.0",
+    "notes":  "Questions: no more submit step. Answers save as you tap and type, Back saves, the phone\u0027s back button saves, and anyone can come back and change an answer later. Every page has a Back. In the builder, Back saves too.",
+    "url":  "https://github.com/Stevo238/home-hub-releases/releases/download/v1.194.0/HomeHub.exe",
+    "sha256":  "a647fe89c9b57dc9c62a2a42bba613b7c56d398f771043c7361725c935f87956"
 }
