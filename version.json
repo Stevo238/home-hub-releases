@@ -1,6 +1,6 @@
 {
-    "version":  "1.191.0",
-    "notes":  "New: Questions. Claude can write a short questionnaire, the hub pushes its link to a phone, and the answers come back to a new Questions page (admins). The answer page needs no sign-in, works on any phone, and lets you save and finish later.",
-    "url":  "https://github.com/Stevo238/home-hub-releases/releases/download/v1.191.0/HomeHub.exe",
-    "sha256":  "43a50c625d40a98aab9b8b0171f68447623602d3ac31253769da18ed05d30f1b"
+    "version":  "1.192.0",
+    "notes":  "Questions now go straight to the person. Claude puts questions to someone by name; they show up on that person\u0027s own Questions page in the hub (with a tile on their home page while any are waiting) and their phone is told. Nobody has to pass them along. Admins still see every answer.",
+    "url":  "https://github.com/Stevo238/home-hub-releases/releases/download/v1.192.0/HomeHub.exe",
+    "sha256":  "7b128aef2e679e792a8cdd511dcaf868ccc6960d9a36b89294ea109063d0970a"
 }
