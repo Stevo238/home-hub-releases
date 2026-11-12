@@ -1,6 +1,6 @@
 {
-    "version":  "1.189.1",
-    "notes":  "Fix: if the GoPro drive stops answering, the hub keeps loading. The Files tile and Stack Health say the drive is not answering instead of the home page hanging.",
-    "url":  "https://github.com/Stevo238/home-hub-releases/releases/download/v1.189.1/HomeHub.exe",
-    "sha256":  "d5ff016e7146b587136ec266d3ac9671225c34978f4f3dea083351b40b4a6f81"
+    "version":  "1.190.0",
+    "notes":  "Stack Health: the Power card is now \u0027Power \u0026 batteries\u0027 and shows the shed solar battery (voltage, charge, solar now and today, load, battery temperature) from the Renogy controller. A new \u0027Shed solar battery\u0027 check turns amber under 12.0 V and red (with a phone alert) under 11.8 V.",
+    "url":  "https://github.com/Stevo238/home-hub-releases/releases/download/v1.190.0/HomeHub.exe",
+    "sha256":  "429b60239369b15af9a1de160f7622104acafe8dfffbee7b817f10583a7d607f"
 }
