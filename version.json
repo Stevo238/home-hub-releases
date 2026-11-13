@@ -1,6 +1,6 @@
 {
-    "version":  "1.195.5",
-    "notes":  "Family Health: the dark bar behind the tabs and behind a card\u0027s heading is gone - the heading is now a rounded panel like the cards.",
-    "url":  "https://github.com/Stevo238/home-hub-releases/releases/download/v1.195.5/HomeHub.exe",
-    "sha256":  "8feae010a7b7e056cc821c64867882f2ccbc0b1ccec6d41bb831cee3eae7544f"
+    "version":  "1.196.0",
+    "notes":  "Sky: each satellite pass now opens on a north-up map with towns, state lines, the house and a mile scale.",
+    "url":  "https://github.com/Stevo238/home-hub-releases/releases/download/v1.196.0/HomeHub.exe",
+    "sha256":  "245f3f7b9d2d4e361f9a41c68c6b0cb71ca018cb618fcf812bb3cc271adc7a96"
 }
