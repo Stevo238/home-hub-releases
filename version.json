@@ -1,6 +1,6 @@
 {
-    "version":  "1.203.0",
-    "notes":  "Home page: new Kitchen section - Shopping Lists, Pantry, Meal Plan and Recipe Box together, right under Everyday.",
-    "url":  "https://github.com/Stevo238/home-hub-releases/releases/download/v1.203.0/HomeHub.exe",
-    "sha256":  "529481dbc9165a956e59e0d8f8c94b49b575cd0c9e3113a27eb64900e57052d3"
+    "version":  "1.204.0",
+    "notes":  "Meal Plan: a list of dinner ideas instead of dated nights. Pick a day puts an idea on any open day of the next two weeks (with Undo); Remove takes it off the list. The list is topped up overnight (8 kept ready), and on any night it runs low. More ideas now adds to it.",
+    "url":  "https://github.com/Stevo238/home-hub-releases/releases/download/v1.204.0/HomeHub.exe",
+    "sha256":  "d2752653401747d86e4f8f661ef49a21073c9480cab20e315b1138ea85ce1562"
 }
