@@ -1,6 +1,6 @@
 {
-    "version":  "1.200.1",
-    "notes":  "Kitchen screen: the Pantry tab now has an Add button. It opens the same add box as the shopping lists, in the screen\u0027s holiday theme: type names with the on-screen keyboard, or just tap common things, pick the shelf, OK.",
-    "url":  "https://github.com/Stevo238/home-hub-releases/releases/download/v1.200.1/HomeHub.exe",
-    "sha256":  "06c908ee81e6dab9c258a964c70193a4026b7bf540224d5c9e96b347dc5eb5d2"
+    "version":  "1.200.2",
+    "notes":  "Meal Plan: Take a photo opens the phone\u0027s camera straight away; Choose photos picks several from the phone. Kitchen screen: with an empty pantry the Add button was covered by the \u0027nothing here yet\u0027 message - fixed.",
+    "url":  "https://github.com/Stevo238/home-hub-releases/releases/download/v1.200.2/HomeHub.exe",
+    "sha256":  "b8008d6b3be5452bfc24402dd60a7ea689b3dc494ffabbe67439df39478aeab4"
 }
