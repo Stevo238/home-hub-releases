@@ -1,6 +1,6 @@
 {
-    "version":  "1.200.0",
-    "notes":  "New: Meal Plan. In the small hours before a shopping day the hub has Claude plan the week\u0027s dinners from your preferences, the pantry and the recipe box; the plan waits on the Meal Plan page until you press Use, which puts a dinner on the dinner calendar, saves a new recipe to the recipe box and puts what the pantry says is low on the shopping list. Pantry photos: photograph a shelf, the fridge or the freezer and tap Add or No on what Claude sees. A cooked dinner now nudges its ingredients down in the pantry.",
-    "url":  "https://github.com/Stevo238/home-hub-releases/releases/download/v1.200.0/HomeHub.exe",
-    "sha256":  "ccdb5f56a4bc0b3ae3b049e850f7a6fc8e95f9502020933f19422cf7c56d106b"
+    "version":  "1.200.1",
+    "notes":  "Kitchen screen: the Pantry tab now has an Add button. It opens the same add box as the shopping lists, in the screen\u0027s holiday theme: type names with the on-screen keyboard, or just tap common things, pick the shelf, OK.",
+    "url":  "https://github.com/Stevo238/home-hub-releases/releases/download/v1.200.1/HomeHub.exe",
+    "sha256":  "06c908ee81e6dab9c258a964c70193a4026b7bf540224d5c9e96b347dc5eb5d2"
 }
