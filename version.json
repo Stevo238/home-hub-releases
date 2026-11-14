@@ -1,6 +1,6 @@
 {
-    "version":  "1.201.0",
-    "notes":  "Meal Plan: What\u0027s planned shows the dinner calendar for the next two weeks, a row a day. Check what we need goes through the planned dinners\u0027 ingredients - tap Have or Need: Need goes on the shopping list, Have goes into the pantry on its shelf - and Claude can suggest something already in the pantry to use instead. Recipes opened from the calendar on a phone now open as their own full page (no sideways scrolling) with a Back.",
-    "url":  "https://github.com/Stevo238/home-hub-releases/releases/download/v1.201.0/HomeHub.exe",
-    "sha256":  "9b642cf9162a1d3f3dfeb3977eec691dd172b4062ce0444466cf0c20c944fabd"
+    "version":  "1.201.1",
+    "notes":  "Tidy-up, nothing to relearn: the list of common pantry items now lives in one place, a spare add box on the kitchen screen\u0027s pantry page was removed, the Have / Need review no longer squeezes long names on a phone, and Add from photos on the Pantry page lands on the photos.",
+    "url":  "https://github.com/Stevo238/home-hub-releases/releases/download/v1.201.1/HomeHub.exe",
+    "sha256":  "cd0609847653cb09c71cd3bbb8973d698020b103c6ec4185356fbd811dc000b9"
 }
