@@ -1,6 +1,6 @@
 {
-    "version":  "1.198.1",
-    "notes":  "Pantry, Questions and Nudges now use the hub\u0027s own line icons like every other page. Items typed in lower case are tidied to start with a capital.",
-    "url":  "https://github.com/Stevo238/home-hub-releases/releases/download/v1.198.1/HomeHub.exe",
-    "sha256":  "bf8f622624ef87f3acad7b228fe470b6cfc7141ca6d0569bb15191f75e91d43b"
+    "version":  "1.199.0",
+    "notes":  "Pantry now keeps itself going. Every item has a level that drifts down at its usual pace, so the page is roughly right even if nobody touches it; a dashed outline marks the hub\u0027s guess. Check before shopping asks about only what looks low: Need it puts it on the list, Still have teaches the hub it lasts longer. Checking it off the shopping list fills it back up. Each item\u0027s card has a slider and a usually-lasts number. Kitchen screen: the Recipes button is now Cooking, with Recipes, Menu plan and Pantry inside.",
+    "url":  "https://github.com/Stevo238/home-hub-releases/releases/download/v1.199.0/HomeHub.exe",
+    "sha256":  "bf29fb3d0a0db1d24d3bb65d9dbbdb7a85f68dea2d0261a20684bbd74919c09b"
 }
