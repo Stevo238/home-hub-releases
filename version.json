@@ -1,6 +1,6 @@
 {
-    "version":  "1.200.3",
-    "notes":  "Kitchen screen: a long recipe name no longer runs into the All recipes button, and the Pantry tab uses the screen\u0027s own font. Meal Plan: Plan now always answers - if the week already has its dinners it offers extra ideas for the open nights, and the page says what the last try did. Read now reads every waiting photo, not just the first six.",
-    "url":  "https://github.com/Stevo238/home-hub-releases/releases/download/v1.200.3/HomeHub.exe",
-    "sha256":  "b9cb1cf4676195ab0fae2ff7a4f63a1f788d4e07f6548c31690bf4073418eb64"
+    "version":  "1.201.0",
+    "notes":  "Meal Plan: What\u0027s planned shows the dinner calendar for the next two weeks, a row a day. Check what we need goes through the planned dinners\u0027 ingredients - tap Have or Need: Need goes on the shopping list, Have goes into the pantry on its shelf - and Claude can suggest something already in the pantry to use instead. Recipes opened from the calendar on a phone now open as their own full page (no sideways scrolling) with a Back.",
+    "url":  "https://github.com/Stevo238/home-hub-releases/releases/download/v1.201.0/HomeHub.exe",
+    "sha256":  "9b642cf9162a1d3f3dfeb3977eec691dd172b4062ce0444466cf0c20c944fabd"
 }
