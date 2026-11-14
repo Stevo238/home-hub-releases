@@ -1,6 +1,6 @@
 {
-    "version":  "1.197.0",
-    "notes":  "Screen taps: the hub now writes down which wall screen or person pressed each light or control, and shows it on the Activity page under Screen taps.",
-    "url":  "https://github.com/Stevo238/home-hub-releases/releases/download/v1.197.0/HomeHub.exe",
-    "sha256":  "58ea8a8c5918c2c20e02241b4b4847347b91a54d7928e07f1068a1d422db7713"
+    "version":  "1.198.0",
+    "notes":  "New: Pantry. One tap marks an item Have, Low or Out. Low or Out puts it on the Grocery or Costco list by itself, and checking it off the shopping list puts it back to Have. Stock it fast with Quick start (tap the staples you have), a pasted list, typing, or a barcode scan.",
+    "url":  "https://github.com/Stevo238/home-hub-releases/releases/download/v1.198.0/HomeHub.exe",
+    "sha256":  "e22fb45008fd1539c593bbcdacdeb6b5b9d360e6213f7ab9eac7d723bf43f941"
 }
