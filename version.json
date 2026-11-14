@@ -1,6 +1,6 @@
 {
-    "version":  "1.202.0",
-    "notes":  "Meal Plan: several ideas for each night - Another idea steps through them (no new run), ideas can be new recipes you can read and Add to my recipes, Skip night leaves it unplanned. No daily limit on Plan now / Read now / swaps.",
-    "url":  "https://github.com/Stevo238/home-hub-releases/releases/download/v1.202.0/HomeHub.exe",
-    "sha256":  "7982b8bb77132d5a102b0feefac4a7b0e5f9cfc70a8ba8f0f22e2a8d86d67b54"
+    "version":  "1.203.0",
+    "notes":  "Home page: new Kitchen section - Shopping Lists, Pantry, Meal Plan and Recipe Box together, right under Everyday.",
+    "url":  "https://github.com/Stevo238/home-hub-releases/releases/download/v1.203.0/HomeHub.exe",
+    "sha256":  "529481dbc9165a956e59e0d8f8c94b49b575cd0c9e3113a27eb64900e57052d3"
 }
