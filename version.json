@@ -1,6 +1,6 @@
 {
-    "version":  "1.196.1",
-    "notes":  "Family Health: a visit that already has a card is no longer offered again from the calendar (that is how some visits ended up listed twice).",
-    "url":  "https://github.com/Stevo238/home-hub-releases/releases/download/v1.196.1/HomeHub.exe",
-    "sha256":  "ac63fc3d6bb09f4bd22a5c7c369c944aba0950bb3c92fa20362360de065f2c4a"
+    "version":  "1.197.0",
+    "notes":  "Screen taps: the hub now writes down which wall screen or person pressed each light or control, and shows it on the Activity page under Screen taps.",
+    "url":  "https://github.com/Stevo238/home-hub-releases/releases/download/v1.197.0/HomeHub.exe",
+    "sha256":  "58ea8a8c5918c2c20e02241b4b4847347b91a54d7928e07f1068a1d422db7713"
 }
