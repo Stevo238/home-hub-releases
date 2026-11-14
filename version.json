@@ -1,6 +1,6 @@
 {
-    "version":  "1.198.0",
-    "notes":  "New: Pantry. One tap marks an item Have, Low or Out. Low or Out puts it on the Grocery or Costco list by itself, and checking it off the shopping list puts it back to Have. Stock it fast with Quick start (tap the staples you have), a pasted list, typing, or a barcode scan.",
-    "url":  "https://github.com/Stevo238/home-hub-releases/releases/download/v1.198.0/HomeHub.exe",
-    "sha256":  "e22fb45008fd1539c593bbcdacdeb6b5b9d360e6213f7ab9eac7d723bf43f941"
+    "version":  "1.198.1",
+    "notes":  "Pantry, Questions and Nudges now use the hub\u0027s own line icons like every other page. Items typed in lower case are tidied to start with a capital.",
+    "url":  "https://github.com/Stevo238/home-hub-releases/releases/download/v1.198.1/HomeHub.exe",
+    "sha256":  "bf8f622624ef87f3acad7b228fe470b6cfc7141ca6d0569bb15191f75e91d43b"
 }
