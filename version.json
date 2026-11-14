@@ -1,6 +1,6 @@
 {
-    "version":  "1.200.2",
-    "notes":  "Meal Plan: Take a photo opens the phone\u0027s camera straight away; Choose photos picks several from the phone. Kitchen screen: with an empty pantry the Add button was covered by the \u0027nothing here yet\u0027 message - fixed.",
-    "url":  "https://github.com/Stevo238/home-hub-releases/releases/download/v1.200.2/HomeHub.exe",
-    "sha256":  "b8008d6b3be5452bfc24402dd60a7ea689b3dc494ffabbe67439df39478aeab4"
+    "version":  "1.200.3",
+    "notes":  "Kitchen screen: a long recipe name no longer runs into the All recipes button, and the Pantry tab uses the screen\u0027s own font. Meal Plan: Plan now always answers - if the week already has its dinners it offers extra ideas for the open nights, and the page says what the last try did. Read now reads every waiting photo, not just the first six.",
+    "url":  "https://github.com/Stevo238/home-hub-releases/releases/download/v1.200.3/HomeHub.exe",
+    "sha256":  "b9cb1cf4676195ab0fae2ff7a4f63a1f788d4e07f6548c31690bf4073418eb64"
 }
