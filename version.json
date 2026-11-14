@@ -1,6 +1,6 @@
 {
-    "version":  "1.205.0",
-    "notes":  "Meal Plan is for planning: the menu on top (with how much of each dinner you have), then recommended recipes with sides, then the shopping list builder; Settings is one button at the end. Move a dinner to another day; a day that has one swaps. Picking a day no longer adds to the shopping list - the builder does. Pantry photos moved to the Pantry page.",
-    "url":  "https://github.com/Stevo238/home-hub-releases/releases/download/v1.205.0/HomeHub.exe",
-    "sha256":  "4da6ba204a224f74df5f9e2bb5a47d1edb05e1bb45fdf6842726bc641b1eaa75"
+    "version":  "1.206.0",
+    "notes":  "Meal Plan: a Main / Side / Dessert selector. Three lists of recipes, each with its own More button. A side or dessert is put on a day of the menu with Pick a day, stays on its list, and comes off the day with one tap. The builder asks about their ingredients too.",
+    "url":  "https://github.com/Stevo238/home-hub-releases/releases/download/v1.206.0/HomeHub.exe",
+    "sha256":  "f54e56b21ad9f821371db116d6a1c07d590f4eafc5191f48b7a89fcf3a135887"
 }
