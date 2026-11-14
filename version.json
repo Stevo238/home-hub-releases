@@ -1,6 +1,6 @@
 {
-    "version":  "1.199.0",
-    "notes":  "Pantry now keeps itself going. Every item has a level that drifts down at its usual pace, so the page is roughly right even if nobody touches it; a dashed outline marks the hub\u0027s guess. Check before shopping asks about only what looks low: Need it puts it on the list, Still have teaches the hub it lasts longer. Checking it off the shopping list fills it back up. Each item\u0027s card has a slider and a usually-lasts number. Kitchen screen: the Recipes button is now Cooking, with Recipes, Menu plan and Pantry inside.",
-    "url":  "https://github.com/Stevo238/home-hub-releases/releases/download/v1.199.0/HomeHub.exe",
-    "sha256":  "bf29fb3d0a0db1d24d3bb65d9dbbdb7a85f68dea2d0261a20684bbd74919c09b"
+    "version":  "1.200.0",
+    "notes":  "New: Meal Plan. In the small hours before a shopping day the hub has Claude plan the week\u0027s dinners from your preferences, the pantry and the recipe box; the plan waits on the Meal Plan page until you press Use, which puts a dinner on the dinner calendar, saves a new recipe to the recipe box and puts what the pantry says is low on the shopping list. Pantry photos: photograph a shelf, the fridge or the freezer and tap Add or No on what Claude sees. A cooked dinner now nudges its ingredients down in the pantry.",
+    "url":  "https://github.com/Stevo238/home-hub-releases/releases/download/v1.200.0/HomeHub.exe",
+    "sha256":  "ccdb5f56a4bc0b3ae3b049e850f7a6fc8e95f9502020933f19422cf7c56d106b"
 }
