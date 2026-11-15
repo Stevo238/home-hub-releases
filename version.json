@@ -1,6 +1,6 @@
 {
-    "version":  "1.206.0",
-    "notes":  "Meal Plan: a Main / Side / Dessert selector. Three lists of recipes, each with its own More button. A side or dessert is put on a day of the menu with Pick a day, stays on its list, and comes off the day with one tap. The builder asks about their ingredients too.",
-    "url":  "https://github.com/Stevo238/home-hub-releases/releases/download/v1.206.0/HomeHub.exe",
-    "sha256":  "f54e56b21ad9f821371db116d6a1c07d590f4eafc5191f48b7a89fcf3a135887"
+    "version":  "1.206.1",
+    "notes":  "Chore board: when Home Assistant loses a to-do list for a moment, the board keeps showing (the last good copy) instead of going blank with an error.",
+    "url":  "https://github.com/Stevo238/home-hub-releases/releases/download/v1.206.1/HomeHub.exe",
+    "sha256":  "af64633b2c9895875512876da875741bed1a3f782032f41c6abb9dfaeb6c680c"
 }
