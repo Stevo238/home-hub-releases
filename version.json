@@ -1,6 +1,6 @@
 {
-    "version":  "1.206.1",
-    "notes":  "Chore board: when Home Assistant loses a to-do list for a moment, the board keeps showing (the last good copy) instead of going blank with an error.",
-    "url":  "https://github.com/Stevo238/home-hub-releases/releases/download/v1.206.1/HomeHub.exe",
-    "sha256":  "af64633b2c9895875512876da875741bed1a3f782032f41c6abb9dfaeb6c680c"
+    "version":  "1.207.0",
+    "notes":  "Wall calendars can dress up a special day: Date night (two wine glasses clinking, hearts, candle-light colours). Add one on the Wall Themes page under Special days.",
+    "url":  "https://github.com/Stevo238/home-hub-releases/releases/download/v1.207.0/HomeHub.exe",
+    "sha256":  "db629f690d8aed96bb87af73e72ccaa0999aa789e21ee5113653e1e12837e4c2"
 }
