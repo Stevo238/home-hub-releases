@@ -1,6 +1,6 @@
 {
-    "version":  "1.207.0",
-    "notes":  "Wall calendars can dress up a special day: Date night (two wine glasses clinking, hearts, candle-light colours). Add one on the Wall Themes page under Special days.",
-    "url":  "https://github.com/Stevo238/home-hub-releases/releases/download/v1.207.0/HomeHub.exe",
-    "sha256":  "db629f690d8aed96bb87af73e72ccaa0999aa789e21ee5113653e1e12837e4c2"
+    "version":  "1.207.1",
+    "notes":  "Family Health: web addresses and email addresses in notes and visit reasons are now tappable links (like a doctor\u0027s Zoom link).",
+    "url":  "https://github.com/Stevo238/home-hub-releases/releases/download/v1.207.1/HomeHub.exe",
+    "sha256":  "e35935f0c690daab577d764eecc6ad19c239006d5139edc2e2222c78542e963c"
 }
