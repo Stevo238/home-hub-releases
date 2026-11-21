@@ -1,6 +1,6 @@
 {
-    "version":  "1.208.0",
-    "notes":  "House app Controls page: new Laundry section - Washer and Dryer show Running, Done (time, for 4 hours) or Off, from the laundry alert automations.",
-    "url":  "https://github.com/Stevo238/home-hub-releases/releases/download/v1.208.0/HomeHub.exe",
-    "sha256":  "6bdf7678dcf1c5f8b8bc2e5466624256f49cd11526e5e82d03167df5002b39a4"
+    "version":  "1.209.0",
+    "notes":  "House app: Leave tab is now Status - house shut, a new at-a-glance card (washer, dryer, smoke/CO, water, power, dinner, who\u0027s home), Bedtime, weather, coming up. Laundry moved off Controls. Admin Status tab renamed System.",
+    "url":  "https://github.com/Stevo238/home-hub-releases/releases/download/v1.209.0/HomeHub.exe",
+    "sha256":  "0eb41e391a9722632c06454165c3938d86c68a3532bd82421d3ce246df9e51f8"
 }
