@@ -1,6 +1,6 @@
 {
-    "version":  "1.209.1",
-    "notes":  "House app Status: Dishes row (Running / Drying / Done time / Off) from the new dishwasher meter; dinner row full width; Status page scrolls instead of cutting off on small phones in the evening.",
-    "url":  "https://github.com/Stevo238/home-hub-releases/releases/download/v1.209.1/HomeHub.exe",
-    "sha256":  "5bcaf3b27e083e759236f5c3dbf86624aaf249f042e13f87db19ff06ad19f309"
+    "version":  "1.210.0",
+    "notes":  "Herd: the 804 Cattle Co. family tree. New Herd page under 804 Cattle Co. - every animal with its dam and sire, pedigrees, family trees, and How related for any two animals.",
+    "url":  "https://github.com/Stevo238/home-hub-releases/releases/download/v1.210.0/HomeHub.exe",
+    "sha256":  "c062f95b3c2c9fb18e6f95057ed1c9c741b96d9460e0ddfe4f62f9197824cb89"
 }
