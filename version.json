@@ -1,6 +1,6 @@
 {
-    "version":  "1.207.1",
-    "notes":  "Family Health: web addresses and email addresses in notes and visit reasons are now tappable links (like a doctor\u0027s Zoom link).",
-    "url":  "https://github.com/Stevo238/home-hub-releases/releases/download/v1.207.1/HomeHub.exe",
-    "sha256":  "e35935f0c690daab577d764eecc6ad19c239006d5139edc2e2222c78542e963c"
+    "version":  "1.208.0",
+    "notes":  "House app Controls page: new Laundry section - Washer and Dryer show Running, Done (time, for 4 hours) or Off, from the laundry alert automations.",
+    "url":  "https://github.com/Stevo238/home-hub-releases/releases/download/v1.208.0/HomeHub.exe",
+    "sha256":  "6bdf7678dcf1c5f8b8bc2e5466624256f49cd11526e5e82d03167df5002b39a4"
 }
