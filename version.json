@@ -1,6 +1,6 @@
 {
-    "version":  "1.209.0",
-    "notes":  "House app: Leave tab is now Status - house shut, a new at-a-glance card (washer, dryer, smoke/CO, water, power, dinner, who\u0027s home), Bedtime, weather, coming up. Laundry moved off Controls. Admin Status tab renamed System.",
-    "url":  "https://github.com/Stevo238/home-hub-releases/releases/download/v1.209.0/HomeHub.exe",
-    "sha256":  "0eb41e391a9722632c06454165c3938d86c68a3532bd82421d3ce246df9e51f8"
+    "version":  "1.209.1",
+    "notes":  "House app Status: Dishes row (Running / Drying / Done time / Off) from the new dishwasher meter; dinner row full width; Status page scrolls instead of cutting off on small phones in the evening.",
+    "url":  "https://github.com/Stevo238/home-hub-releases/releases/download/v1.209.1/HomeHub.exe",
+    "sha256":  "5bcaf3b27e083e759236f5c3dbf86624aaf249f042e13f87db19ff06ad19f309"
 }
