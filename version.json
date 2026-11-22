@@ -1,6 +1,6 @@
 {
-    "version":  "1.213.1",
-    "notes":  "Herd: the pedigree now reads the same way as the family tree (older on the left), and a wide tree says above the drawing to slide it sideways. Mouse users can drag it.",
-    "url":  "https://github.com/Stevo238/home-hub-releases/releases/download/v1.213.1/HomeHub.exe",
-    "sha256":  "b306fc84257c3ee613c7814460243ef4899f42f8a952e032c5d3ad69b30cdf8b"
+    "version":  "1.213.2",
+    "notes":  "Herd: the animal you are looking at stands out in the family tree, pedigree and how-related drawings (a solid light box with a glow).",
+    "url":  "https://github.com/Stevo238/home-hub-releases/releases/download/v1.213.2/HomeHub.exe",
+    "sha256":  "7a60b657184c264f1d88bb6eb4bc34fcaa8d63d0563b12f3b8d210d6ec3c3a2c"
 }
