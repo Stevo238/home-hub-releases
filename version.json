@@ -1,6 +1,6 @@
 {
-    "version":  "1.213.2",
-    "notes":  "Herd: the animal you are looking at stands out in the family tree, pedigree and how-related drawings (a solid light box with a glow).",
-    "url":  "https://github.com/Stevo238/home-hub-releases/releases/download/v1.213.2/HomeHub.exe",
-    "sha256":  "7a60b657184c264f1d88bb6eb4bc34fcaa8d63d0563b12f3b8d210d6ec3c3a2c"
+    "version":  "1.214.0",
+    "notes":  "Herd: Weights. A new tab with every hanging weight, the age each animal was processed at, growth (hanging weight per day of age), and averages by sire, dam and year. Each animal also gets a date it left.",
+    "url":  "https://github.com/Stevo238/home-hub-releases/releases/download/v1.214.0/HomeHub.exe",
+    "sha256":  "41c64d8f365fab97fcb22608845251f2187c347713348f5808e20e71c8547a27"
 }
