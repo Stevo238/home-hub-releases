@@ -1,6 +1,6 @@
 {
-    "version":  "1.212.0",
-    "notes":  "Herd: On the property. A new list of every animal on the farm now - the breeding herd plus calves and young stock - with a one-tap roll call (Here / Gone) for everyone not placed yet.",
-    "url":  "https://github.com/Stevo238/home-hub-releases/releases/download/v1.212.0/HomeHub.exe",
-    "sha256":  "d3595f66e019ff1fa12e3fc1957ce2ec374aae905f04152a22bdc71e39501fd4"
+    "version":  "1.213.0",
+    "notes":  "Herd: the full family tree. Each animal\u0027s tree now runs up through its ancestors and down through every descendant; See the whole herd draws every cow family in one view with sires in colour; On the farm now filters either one. Plus a hanging weight on each animal.",
+    "url":  "https://github.com/Stevo238/home-hub-releases/releases/download/v1.213.0/HomeHub.exe",
+    "sha256":  "97a5f2fa82acf4008b901dbbade87f639ce3733bdebf1dc9554f859f16c5cac6"
 }
