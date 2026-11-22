@@ -1,6 +1,6 @@
 {
-    "version":  "1.214.1",
-    "notes":  "Herd: the page header uses the hub\u0027s line icon like every other page.",
-    "url":  "https://github.com/Stevo238/home-hub-releases/releases/download/v1.214.1/HomeHub.exe",
-    "sha256":  "e365f46a8ea76471c7a59af750602d40236c0c514434251bde8e830c151c0ce9"
+    "version":  "1.215.0",
+    "notes":  "Recipes with no photo get a stand-in picture; the kitchen wall recipe list picks up new recipes by itself.",
+    "url":  "https://github.com/Stevo238/home-hub-releases/releases/download/v1.215.0/HomeHub.exe",
+    "sha256":  "375f86bea121ece6fc7df92362f2eebc3e5138025edfe1ad67abfa05ac62eced"
 }
