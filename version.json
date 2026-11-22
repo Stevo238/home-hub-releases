@@ -1,6 +1,6 @@
 {
-    "version":  "1.213.0",
-    "notes":  "Herd: the full family tree. Each animal\u0027s tree now runs up through its ancestors and down through every descendant; See the whole herd draws every cow family in one view with sires in colour; On the farm now filters either one. Plus a hanging weight on each animal.",
-    "url":  "https://github.com/Stevo238/home-hub-releases/releases/download/v1.213.0/HomeHub.exe",
-    "sha256":  "97a5f2fa82acf4008b901dbbade87f639ce3733bdebf1dc9554f859f16c5cac6"
+    "version":  "1.213.1",
+    "notes":  "Herd: the pedigree now reads the same way as the family tree (older on the left), and a wide tree says above the drawing to slide it sideways. Mouse users can drag it.",
+    "url":  "https://github.com/Stevo238/home-hub-releases/releases/download/v1.213.1/HomeHub.exe",
+    "sha256":  "b306fc84257c3ee613c7814460243ef4899f42f8a952e032c5d3ad69b30cdf8b"
 }
