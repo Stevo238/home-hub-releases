@@ -1,6 +1,6 @@
 {
-    "version":  "1.210.0",
-    "notes":  "Herd: the 804 Cattle Co. family tree. New Herd page under 804 Cattle Co. - every animal with its dam and sire, pedigrees, family trees, and How related for any two animals.",
-    "url":  "https://github.com/Stevo238/home-hub-releases/releases/download/v1.210.0/HomeHub.exe",
-    "sha256":  "c062f95b3c2c9fb18e6f95057ed1c9c741b96d9460e0ddfe4f62f9197824cb89"
+    "version":  "1.211.0",
+    "notes":  "Herd: calving interval. A cow\u0027s page shows the days between each calving, her average, age at first calf and when she last calved; the herd list shows each cow\u0027s average.",
+    "url":  "https://github.com/Stevo238/home-hub-releases/releases/download/v1.211.0/HomeHub.exe",
+    "sha256":  "0d198d3c507c4506cce1b72087b4c08e05360360942560b23c4cdf22f892c0cc"
 }
