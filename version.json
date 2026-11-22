@@ -1,6 +1,6 @@
 {
-    "version":  "1.214.0",
-    "notes":  "Herd: Weights. A new tab with every hanging weight, the age each animal was processed at, growth (hanging weight per day of age), and averages by sire, dam and year. Each animal also gets a date it left.",
-    "url":  "https://github.com/Stevo238/home-hub-releases/releases/download/v1.214.0/HomeHub.exe",
-    "sha256":  "41c64d8f365fab97fcb22608845251f2187c347713348f5808e20e71c8547a27"
+    "version":  "1.214.1",
+    "notes":  "Herd: the page header uses the hub\u0027s line icon like every other page.",
+    "url":  "https://github.com/Stevo238/home-hub-releases/releases/download/v1.214.1/HomeHub.exe",
+    "sha256":  "e365f46a8ea76471c7a59af750602d40236c0c514434251bde8e830c151c0ce9"
 }
