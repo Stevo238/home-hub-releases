@@ -1,6 +1,6 @@
 {
-    "version":  "1.216.0",
-    "notes":  "Recipes: lines like Glaze: are headings for a part of the recipe, not ingredients - never sent to a shopping list.",
-    "url":  "https://github.com/Stevo238/home-hub-releases/releases/download/v1.216.0/HomeHub.exe",
-    "sha256":  "84b3b012a2bf3125b8259c21d8c42b92bb1413611d6b556e8c2bb8de40aee584"
+    "version":  "1.216.1",
+    "notes":  "Kitchen wall: a Cooking tab no longer gets stuck on a Not Found page after the hub restarts.",
+    "url":  "https://github.com/Stevo238/home-hub-releases/releases/download/v1.216.1/HomeHub.exe",
+    "sha256":  "3586d39719b16bf8be2169e8e6aac5cf9b66c2db0d2cf6a8360a2e5c78d527d3"
 }
