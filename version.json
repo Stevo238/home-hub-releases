@@ -1,6 +1,6 @@
 {
-    "version":  "1.217.0",
-    "notes":  "Pasture from space: new Pasture page under 804 Cattle Co. - how green each pasture is from the Sentinel-2 satellites, a year of history, draw your pastures on an aerial photo",
-    "url":  "https://github.com/Stevo238/home-hub-releases/releases/download/v1.217.0/HomeHub.exe",
-    "sha256":  "7a112ce72a7b8708cdb1b13e2b6a5cf48acc892e4582dd945ac6373529201b58"
+    "version":  "1.217.1",
+    "notes":  "Pasture: Edit button on every pasture, tap a corner to take it out, stray taps no longer add corners while editing",
+    "url":  "https://github.com/Stevo238/home-hub-releases/releases/download/v1.217.1/HomeHub.exe",
+    "sha256":  "9160bbaf1efc74fd0fbf55de27c9a23c867b6f52599dcb2721e9cd91f6c6ee3a"
 }
