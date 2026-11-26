@@ -1,6 +1,6 @@
 {
-    "version":  "1.216.1",
-    "notes":  "Kitchen wall: a Cooking tab no longer gets stuck on a Not Found page after the hub restarts.",
-    "url":  "https://github.com/Stevo238/home-hub-releases/releases/download/v1.216.1/HomeHub.exe",
-    "sha256":  "3586d39719b16bf8be2169e8e6aac5cf9b66c2db0d2cf6a8360a2e5c78d527d3"
+    "version":  "1.217.0",
+    "notes":  "Pasture from space: new Pasture page under 804 Cattle Co. - how green each pasture is from the Sentinel-2 satellites, a year of history, draw your pastures on an aerial photo",
+    "url":  "https://github.com/Stevo238/home-hub-releases/releases/download/v1.217.0/HomeHub.exe",
+    "sha256":  "7a112ce72a7b8708cdb1b13e2b6a5cf48acc892e4582dd945ac6373529201b58"
 }
