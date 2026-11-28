@@ -1,6 +1,6 @@
 {
-    "version":  "1.217.1",
-    "notes":  "Pasture: Edit button on every pasture, tap a corner to take it out, stray taps no longer add corners while editing",
-    "url":  "https://github.com/Stevo238/home-hub-releases/releases/download/v1.217.1/HomeHub.exe",
-    "sha256":  "9160bbaf1efc74fd0fbf55de27c9a23c867b6f52599dcb2721e9cd91f6c6ee3a"
+    "version":  "1.218.0",
+    "notes":  "Pasture: three years of satellite history, and each pasture now shows year over year - every year on the same January to December chart, plus the same week in earlier years",
+    "url":  "https://github.com/Stevo238/home-hub-releases/releases/download/v1.218.0/HomeHub.exe",
+    "sha256":  "a99194bc88a46aef430abeab21c1cb69d510f21302df9573b1d1a067e690ab63"
 }
